@@ -1,0 +1,6 @@
+proxies:
+  - name: "美国-Oregon-104.249.62.245:20002"
+    type: socks5
+    server: 104.249.62.245
+    port: 20002
+    udp: true
