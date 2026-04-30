@@ -1,182 +1,7 @@
 proxies:
-- name: 美国-加利福尼亚-54.183.226.236:21
-  port: 21
-  server: 54.183.226.236
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-3.101.143.127:21
-  port: 21
-  server: 3.101.143.127
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-18.144.1.4:20005
-  port: 20005
-  server: 18.144.1.4
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-18.144.1.4:21
-  port: 21
-  server: 18.144.1.4
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-54.153.84.233:21
-  port: 21
-  server: 54.153.84.233
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-13.57.254.171:21
-  port: 21
-  server: 13.57.254.171
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-44.243.113.58:21
-  port: 21
-  server: 44.243.113.58
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-35.91.226.141:21
-  port: 21
-  server: 35.91.226.141
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-52.38.35.179:21
-  port: 21
-  server: 52.38.35.179
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-54.212.192.125:20005
-  port: 20005
-  server: 54.212.192.125
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-54.202.231.145:20002
-  port: 20002
-  server: 54.202.231.145
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-16.148.30.199:21
-  port: 21
-  server: 16.148.30.199
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-52.39.45.191:21
-  port: 21
-  server: 52.39.45.191
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-54.215.41.74:21
-  port: 21
-  server: 54.215.41.74
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-18.144.133.147:20005
-  port: 20005
-  server: 18.144.133.147
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-18.145.69.167:21
-  port: 21
-  server: 18.145.69.167
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-52.53.188.148:20002
-  port: 20002
-  server: 52.53.188.148
-  type: socks5
-  udp: true
-- name: 美国-加利福尼亚-18.144.133.147:21
-  port: 21
-  server: 18.144.133.147
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-16.174.35.80:5555
-  port: 5555
-  server: 16.174.35.80
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.128.145:21
-  port: 21
-  server: 40.176.128.145
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-56.112.77.19:21
-  port: 21
-  server: 56.112.77.19
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.49.172:21
-  port: 21
-  server: 40.176.49.172
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.46.72:20005
-  port: 20005
-  server: 40.176.46.72
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.46.72:21
-  port: 21
-  server: 40.176.46.72
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-34.221.24.128:21
-  port: 21
-  server: 34.221.24.128
-  type: socks5
-  udp: true
 - name: 美国-俄亥俄-3.16.181.167:21
   port: 21
   server: 3.16.181.167
-  type: socks5
-  udp: true
-- name: 美国-俄亥俄-3.144.248.168:21
-  port: 21
-  server: 3.144.248.168
-  type: socks5
-  udp: true
-- name: 美国-俄亥俄-18.117.92.232:1080
-  port: 1080
-  server: 18.117.92.232
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.212.155:21
-  port: 21
-  server: 78.12.212.155
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.138.74:21
-  port: 21
-  server: 40.176.138.74
-  type: socks5
-  udp: true
-- name: 美国-俄亥俄-18.220.94.146:21
-  port: 21
-  server: 18.220.94.146
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-34.211.146.130:21
-  port: 21
-  server: 34.211.146.130
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.111.142:21
-  port: 21
-  server: 78.12.111.142
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.14.55.90:21
-  port: 21
-  server: 78.14.55.90
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.18.91:21
-  port: 21
-  server: 78.12.18.91
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.21.50:21
-  port: 21
-  server: 78.12.21.50
   type: socks5
   udp: true
 - name: 美国-俄亥俄-3.141.26.240:21
@@ -184,19 +9,14 @@ proxies:
   server: 3.141.26.240
   type: socks5
   udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.27.145:21
+- name: 美国-俄亥俄-18.220.94.146:21
   port: 21
-  server: 78.12.27.145
+  server: 18.220.94.146
   type: socks5
   udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.247.139:21
+- name: 美国-俄亥俄-3.12.160.233:21
   port: 21
-  server: 78.12.247.139
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.12.17.199:1080
-  port: 1080
-  server: 78.12.17.199
+  server: 3.12.160.233
   type: socks5
   udp: true
 - name: 美国-俄亥俄-3.129.39.24:21
@@ -204,9 +24,34 @@ proxies:
   server: 3.129.39.24
   type: socks5
   udp: true
-- name: 美国-俄亥俄-3.12.160.233:21
+- name: 美国-俄亥俄-3.144.248.168:21
   port: 21
-  server: 3.12.160.233
+  server: 3.144.248.168
+  type: socks5
+  udp: true
+- name: 美国-俄亥俄-3.141.23.103:21
+  port: 21
+  server: 3.141.23.103
+  type: socks5
+  udp: true
+- name: 美国-俄亥俄-18.222.225.132:21
+  port: 21
+  server: 18.222.225.132
+  type: socks5
+  udp: true
+- name: 美国-弗吉尼亚-3.94.127.126:21
+  port: 21
+  server: 3.94.127.126
+  type: socks5
+  udp: true
+- name: 美国-弗吉尼亚-54.221.48.76:45554
+  port: 45554
+  server: 54.221.48.76
+  type: socks5
+  udp: true
+- name: 美国-弗吉尼亚-54.210.226.62:21
+  port: 21
+  server: 54.210.226.62
   type: socks5
   udp: true
 - name: 美国-弗吉尼亚-98.86.182.177:21
@@ -219,49 +64,9 @@ proxies:
   server: 54.145.10.131
   type: socks5
   udp: true
-- name: 美国-弗吉尼亚-54.221.48.76:45554
-  port: 45554
-  server: 54.221.48.76
-  type: socks5
-  udp: true
-- name: 美国-俄亥俄-18.222.225.132:21
-  port: 21
-  server: 18.222.225.132
-  type: socks5
-  udp: true
 - name: 美国-弗吉尼亚-100.54.42.34:21
   port: 21
   server: 100.54.42.34
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-54.167.108.34:5555
-  port: 5555
-  server: 54.167.108.34
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-54.210.226.62:21
-  port: 21
-  server: 54.210.226.62
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-44.201.32.14:21
-  port: 21
-  server: 44.201.32.14
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-34.204.36.88:5555
-  port: 5555
-  server: 34.204.36.88
-  type: socks5
-  udp: true
-- name: 美国-俄亥俄-3.141.23.103:21
-  port: 21
-  server: 3.141.23.103
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-32.192.72.193:21
-  port: 21
-  server: 32.192.72.193
   type: socks5
   udp: true
 - name: 美国-俄亥俄-13.59.124.112:21
@@ -269,39 +74,9 @@ proxies:
   server: 13.59.124.112
   type: socks5
   udp: true
-- name: 美国-弗吉尼亚-54.198.22.111:21
+- name: 美国-弗吉尼亚-44.201.32.14:21
   port: 21
-  server: 54.198.22.111
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-3.94.127.126:21
-  port: 21
-  server: 3.94.127.126
-  type: socks5
-  udp: true
-- name: 加拿大-魁北克-15.222.242.71:21
-  port: 21
-  server: 15.222.242.71
-  type: socks5
-  udp: true
-- name: 加拿大-魁北克-15.222.45.61:21
-  port: 21
-  server: 15.222.45.61
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-3.82.61.143:21
-  port: 21
-  server: 3.82.61.143
-  type: socks5
-  udp: true
-- name: 加拿大-魁北克-15.223.204.105:21
-  port: 21
-  server: 15.223.204.105
-  type: socks5
-  udp: true
-- name: 美国-弗吉尼亚-44.212.61.234:21
-  port: 21
-  server: 44.212.61.234
+  server: 44.201.32.14
   type: socks5
   udp: true
 - name: 美国-弗吉尼亚-34.204.36.88:21
@@ -309,29 +84,34 @@ proxies:
   server: 34.204.36.88
   type: socks5
   udp: true
-- name: 美国-弗吉尼亚-3.238.34.111:21
-  port: 21
-  server: 3.238.34.111
+- name: 美国-弗吉尼亚-34.204.36.88:5555
+  port: 5555
+  server: 34.204.36.88
   type: socks5
   udp: true
-- name: 加拿大-阿尔伯塔-40.176.136.1:21
-  port: 21
-  server: 40.176.136.1
+- name: 美国-弗吉尼亚-54.167.108.34:5555
+  port: 5555
+  server: 54.167.108.34
   type: socks5
   udp: true
-- name: 加拿大-魁北克-15.156.203.60:21
+- name: 美国-弗吉尼亚-54.198.22.111:21
   port: 21
-  server: 15.156.203.60
+  server: 54.198.22.111
   type: socks5
   udp: true
-- name: 美国-俄勒冈-34.219.149.143:21
+- name: 美国-弗吉尼亚-44.212.61.234:21
   port: 21
-  server: 34.219.149.143
+  server: 44.212.61.234
   type: socks5
   udp: true
-- name: 加拿大-魁北克-16.52.135.61:1080
-  port: 1080
-  server: 16.52.135.61
+- name: 美国-弗吉尼亚-32.192.72.193:21
+  port: 21
+  server: 32.192.72.193
+  type: socks5
+  udp: true
+- name: 加拿大-魁北克-15.223.204.105:21
+  port: 21
+  server: 15.223.204.105
   type: socks5
   udp: true
 - name: 加拿大-魁北克-35.183.71.187:21
@@ -339,14 +119,34 @@ proxies:
   server: 35.183.71.187
   type: socks5
   udp: true
-- name: 墨西哥-Ciudad de Mexico-78.13.244.74:21
+- name: 加拿大-魁北克-15.156.203.60:21
   port: 21
-  server: 78.13.244.74
+  server: 15.156.203.60
   type: socks5
   udp: true
-- name: 加拿大-魁北克-3.99.40.213:20002
-  port: 20002
-  server: 3.99.40.213
+- name: 加拿大-魁北克-15.222.45.61:21
+  port: 21
+  server: 15.222.45.61
+  type: socks5
+  udp: true
+- name: 加拿大-魁北克-15.222.242.71:21
+  port: 21
+  server: 15.222.242.71
+  type: socks5
+  udp: true
+- name: 加拿大-魁北克-15.223.237.12:21
+  port: 21
+  server: 15.223.237.12
+  type: socks5
+  udp: true
+- name: 美国-弗吉尼亚-3.82.61.143:21
+  port: 21
+  server: 3.82.61.143
+  type: socks5
+  udp: true
+- name: 加拿大-魁北克-16.52.135.61:1080
+  port: 1080
+  server: 16.52.135.61
   type: socks5
   udp: true
 - name: 加拿大-魁北克-35.183.127.162:21
@@ -359,49 +159,164 @@ proxies:
   server: 99.79.58.74
   type: socks5
   udp: true
-- name: 加拿大-阿尔伯塔-56.112.63.59:21
-  port: 21
-  server: 56.112.63.59
+- name: 加拿大-魁北克-3.99.40.213:20002
+  port: 20002
+  server: 3.99.40.213
   type: socks5
   udp: true
-- name: 日本-东京-43.206.109.126:21
-  port: 21
-  server: 43.206.109.126
+- name: 墨西哥-Ciudad de Mexico-78.12.17.199:1080
+  port: 1080
+  server: 78.12.17.199
   type: socks5
   udp: true
-- name: 加拿大-阿尔伯塔-40.177.7.203:21
+- name: 美国-加利福尼亚-3.101.143.127:21
   port: 21
-  server: 40.177.7.203
+  server: 3.101.143.127
   type: socks5
   udp: true
-- name: 日本-东京-35.75.6.153:21
+- name: 美国-加利福尼亚-18.144.1.4:21
   port: 21
-  server: 35.75.6.153
+  server: 18.144.1.4
   type: socks5
   udp: true
-- name: 日本-东京-54.95.102.143:5555
+- name: 墨西哥-Ciudad de Mexico-78.14.55.90:21
+  port: 21
+  server: 78.14.55.90
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.212.155:21
+  port: 21
+  server: 78.12.212.155
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-54.153.84.233:21
+  port: 21
+  server: 54.153.84.233
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.111.142:21
+  port: 21
+  server: 78.12.111.142
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.27.145:21
+  port: 21
+  server: 78.12.27.145
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-18.144.1.4:20005
+  port: 20005
+  server: 18.144.1.4
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.247.139:21
+  port: 21
+  server: 78.12.247.139
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-13.57.254.171:21
+  port: 21
+  server: 13.57.254.171
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.21.50:21
+  port: 21
+  server: 78.12.21.50
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-54.183.226.236:21
+  port: 21
+  server: 54.183.226.236
+  type: socks5
+  udp: true
+- name: 加拿大-阿尔伯塔-16.174.35.80:5555
   port: 5555
-  server: 54.95.102.143
+  server: 16.174.35.80
   type: socks5
   udp: true
-- name: 加拿大-魁北克-15.223.237.12:21
+- name: 加拿大-阿尔伯塔-40.176.128.145:21
   port: 21
-  server: 15.223.237.12
+  server: 40.176.128.145
   type: socks5
   udp: true
-- name: 日本-东京-13.230.209.208:5555
-  port: 5555
-  server: 13.230.209.208
-  type: socks5
-  udp: true
-- name: 日本-东京-35.77.118.74:21
+- name: 加拿大-阿尔伯塔-40.176.46.72:21
   port: 21
-  server: 35.77.118.74
+  server: 40.176.46.72
   type: socks5
   udp: true
-- name: 日本-东京-52.193.39.32:21
+- name: 加拿大-阿尔伯塔-40.176.46.72:20005
+  port: 20005
+  server: 40.176.46.72
+  type: socks5
+  udp: true
+- name: 墨西哥-Ciudad de Mexico-78.12.18.91:21
   port: 21
-  server: 52.193.39.32
+  server: 78.12.18.91
+  type: socks5
+  udp: true
+- name: 加拿大-阿尔伯塔-56.112.77.19:21
+  port: 21
+  server: 56.112.77.19
+  type: socks5
+  udp: true
+- name: 加拿大-阿尔伯塔-40.176.138.74:21
+  port: 21
+  server: 40.176.138.74
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-44.243.113.58:21
+  port: 21
+  server: 44.243.113.58
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-52.38.35.179:21
+  port: 21
+  server: 52.38.35.179
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-35.91.226.141:21
+  port: 21
+  server: 35.91.226.141
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-16.148.30.199:21
+  port: 21
+  server: 16.148.30.199
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-54.212.192.125:20005
+  port: 20005
+  server: 54.212.192.125
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-52.39.45.191:21
+  port: 21
+  server: 52.39.45.191
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-54.202.231.145:20002
+  port: 20002
+  server: 54.202.231.145
+  type: socks5
+  udp: true
+- name: 美国-俄亥俄-18.117.92.232:1080
+  port: 1080
+  server: 18.117.92.232
+  type: socks5
+  udp: true
+- name: 美国-弗吉尼亚-3.238.34.111:21
+  port: 21
+  server: 3.238.34.111
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-18.144.133.147:20005
+  port: 20005
+  server: 18.144.133.147
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-18.144.133.147:21
+  port: 21
+  server: 18.144.133.147
   type: socks5
   udp: true
 - name: 加拿大-阿尔伯塔-40.176.95.249:21
@@ -409,79 +324,24 @@ proxies:
   server: 40.176.95.249
   type: socks5
   udp: true
-- name: 加拿大-阿尔伯塔-40.177.247.219:21
+- name: 美国-加利福尼亚-18.145.69.167:21
   port: 21
-  server: 40.177.247.219
+  server: 18.145.69.167
   type: socks5
   udp: true
-- name: 日本-大阪-56.155.104.192:21
+- name: 美国-加利福尼亚-54.215.41.74:21
   port: 21
-  server: 56.155.104.192
+  server: 54.215.41.74
   type: socks5
   udp: true
-- name: 日本-大阪-56.155.120.236:21
+- name: 美国-俄勒冈-34.221.24.128:21
   port: 21
-  server: 56.155.120.236
+  server: 34.221.24.128
   type: socks5
   udp: true
-- name: 日本-大阪-13.208.238.59:21
+- name: IE-Dublin-34.246.223.187:21
   port: 21
-  server: 13.208.238.59
-  type: socks5
-  udp: true
-- name: 日本-大阪-15.168.143.108:21
-  port: 21
-  server: 15.168.143.108
-  type: socks5
-  udp: true
-- name: 日本-大阪-56.155.87.53:21
-  port: 21
-  server: 56.155.87.53
-  type: socks5
-  udp: true
-- name: 日本-大阪-15.168.66.191:21
-  port: 21
-  server: 15.168.66.191
-  type: socks5
-  udp: true
-- name: 日本-大阪-56.155.81.23:21
-  port: 21
-  server: 56.155.81.23
-  type: socks5
-  udp: true
-- name: 日本-大阪-15.152.142.58:21
-  port: 21
-  server: 15.152.142.58
-  type: socks5
-  udp: true
-- name: 日本-大阪-15.152.75.215:20005
-  port: 20005
-  server: 15.152.75.215
-  type: socks5
-  udp: true
-- name: 日本-大阪-15.152.75.215:21
-  port: 21
-  server: 15.152.75.215
-  type: socks5
-  udp: true
-- name: 墨西哥-Ciudad de Mexico-78.14.45.16:21
-  port: 21
-  server: 78.14.45.16
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-54.218.248.251:21
-  port: 21
-  server: 54.218.248.251
-  type: socks5
-  udp: true
-- name: IE-Dublin-54.246.254.96:21
-  port: 21
-  server: 54.246.254.96
-  type: socks5
-  udp: true
-- name: IE-Dublin-34.241.123.181:21
-  port: 21
-  server: 34.241.123.181
+  server: 34.246.223.187
   type: socks5
   udp: true
 - name: IE-Dublin-18.202.195.137:21
@@ -489,9 +349,29 @@ proxies:
   server: 18.202.195.137
   type: socks5
   udp: true
+- name: IE-Dublin-52.16.77.177:21
+  port: 21
+  server: 52.16.77.177
+  type: socks5
+  udp: true
+- name: 加拿大-阿尔伯塔-56.112.63.59:21
+  port: 21
+  server: 56.112.63.59
+  type: socks5
+  udp: true
 - name: IE-Dublin-54.170.209.127:21
   port: 21
   server: 54.170.209.127
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-34.219.149.143:1080
+  port: 1080
+  server: 34.219.149.143
+  type: socks5
+  udp: true
+- name: IE-Dublin-54.246.254.96:21
+  port: 21
+  server: 54.246.254.96
   type: socks5
   udp: true
 - name: IE-Dublin-34.253.228.23:5555
@@ -499,99 +379,34 @@ proxies:
   server: 34.253.228.23
   type: socks5
   udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.200.179.23:45554
-  port: 45554
-  server: 43.200.179.23
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-13.125.179.242:21
+- name: 美国-俄勒冈-34.219.149.143:21
   port: 21
-  server: 13.125.179.242
+  server: 34.219.149.143
   type: socks5
   udp: true
-- name: 韩国-Seoul-teukbyeolsi-16.184.32.112:21
+- name: 加拿大-阿尔伯塔-40.176.49.172:21
   port: 21
-  server: 16.184.32.112
+  server: 40.176.49.172
   type: socks5
   udp: true
-- name: 韩国-Seoul-teukbyeolsi-3.35.236.211:21
+- name: 加拿大-阿尔伯塔-40.176.209.41:21
   port: 21
-  server: 3.35.236.211
+  server: 40.176.209.41
   type: socks5
   udp: true
-- name: IE-Dublin-52.16.77.177:21
+- name: 墨西哥-Ciudad de Mexico-78.13.244.74:21
   port: 21
-  server: 52.16.77.177
+  server: 78.13.244.74
   type: socks5
   udp: true
-- name: 韩国-Seoul-teukbyeolsi-13.125.222.148:21
+- name: IE-Dublin-34.241.123.181:21
   port: 21
-  server: 13.125.222.148
+  server: 34.241.123.181
   type: socks5
   udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.203.112.163:21
+- name: 英国-England-3.8.3.11:21
   port: 21
-  server: 43.203.112.163
-  type: socks5
-  udp: true
-- name: IE-Dublin-108.131.109.106:21
-  port: 21
-  server: 108.131.109.106
-  type: socks5
-  udp: true
-- name: IE-Dublin-52.16.215.4:21
-  port: 21
-  server: 52.16.215.4
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.201.105.15:21
-  port: 21
-  server: 43.201.105.15
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-54.253.183.151:21
-  port: 21
-  server: 54.253.183.151
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-54.253.234.119:21
-  port: 21
-  server: 54.253.234.119
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.107.39.254:21
-  port: 21
-  server: 3.107.39.254
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.25.192.74:1080
-  port: 1080
-  server: 3.25.192.74
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-13.211.169.206:20005
-  port: 20005
-  server: 13.211.169.206
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.26.8.130:21
-  port: 21
-  server: 3.26.8.130
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-13.211.138.122:1080
-  port: 1080
-  server: 13.211.138.122
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.26.94.183:21
-  port: 21
-  server: 3.26.94.183
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.26.8.130:45554
-  port: 45554
-  server: 3.26.8.130
+  server: 3.8.3.11
   type: socks5
   udp: true
 - name: 英国-England-18.175.147.98:21
@@ -604,69 +419,24 @@ proxies:
   server: 18.170.25.193
   type: socks5
   udp: true
-- name: 澳大利亚-Victoria-16.50.205.145:21
+- name: 英国-England-18.130.160.247:21
   port: 21
-  server: 16.50.205.145
+  server: 18.130.160.247
   type: socks5
   udp: true
-- name: 法国-法兰西岛-51.44.4.66:21
+- name: 美国-俄勒冈-34.211.146.130:21
   port: 21
-  server: 51.44.4.66
+  server: 34.211.146.130
   type: socks5
   udp: true
-- name: 澳大利亚-Victoria-16.26.220.237:21
+- name: 加拿大-阿尔伯塔-40.176.136.1:21
   port: 21
-  server: 16.26.220.237
+  server: 40.176.136.1
   type: socks5
   udp: true
-- name: 澳大利亚-Victoria-16.50.154.128:45554
-  port: 45554
-  server: 16.50.154.128
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.26.92.49:21
+- name: 法国-法兰西岛-13.38.217.179:21
   port: 21
-  server: 16.26.92.49
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.26.213.54:21
-  port: 21
-  server: 16.26.213.54
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.50.172.248:21
-  port: 21
-  server: 16.50.172.248
-  type: socks5
-  udp: true
-- name: 中国-HK-18.162.200.96:20002
-  port: 20002
-  server: 18.162.200.96
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.26.154.68:45554
-  port: 45554
-  server: 16.26.154.68
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.51.42.20:21
-  port: 21
-  server: 16.51.42.20
-  type: socks5
-  udp: true
-- name: 加拿大-阿尔伯塔-40.176.209.41:21
-  port: 21
-  server: 40.176.209.41
-  type: socks5
-  udp: true
-- name: 法国-法兰西岛-15.237.208.78:21
-  port: 21
-  server: 15.237.208.78
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.27.18.49:21
-  port: 21
-  server: 16.27.18.49
+  server: 13.38.217.179
   type: socks5
   udp: true
 - name: 法国-法兰西岛-13.36.244.2:21
@@ -674,14 +444,19 @@ proxies:
   server: 13.36.244.2
   type: socks5
   udp: true
-- name: 澳大利亚-Victoria-16.51.50.191:21
+- name: 加拿大-阿尔伯塔-40.177.7.203:21
   port: 21
-  server: 16.51.50.191
+  server: 40.177.7.203
   type: socks5
   udp: true
-- name: 中国-HK-18.163.84.0:21
+- name: 加拿大-阿尔伯塔-40.177.247.219:21
   port: 21
-  server: 18.163.84.0
+  server: 40.177.247.219
+  type: socks5
+  udp: true
+- name: 法国-法兰西岛-51.44.4.66:21
+  port: 21
+  server: 51.44.4.66
   type: socks5
   udp: true
 - name: 法国-法兰西岛-35.180.75.159:45554
@@ -689,29 +464,14 @@ proxies:
   server: 35.180.75.159
   type: socks5
   udp: true
-- name: 中国-HK-16.162.105.116:5555
-  port: 5555
-  server: 16.162.105.116
-  type: socks5
-  udp: true
 - name: 法国-法兰西岛-51.44.17.252:21
   port: 21
   server: 51.44.17.252
   type: socks5
   udp: true
-- name: 中国-HK-18.163.6.189:21
+- name: 法国-法兰西岛-15.237.208.78:21
   port: 21
-  server: 18.163.6.189
-  type: socks5
-  udp: true
-- name: 中国-HK-43.198.22.151:21
-  port: 21
-  server: 43.198.22.151
-  type: socks5
-  udp: true
-- name: 法国-法兰西岛-35.180.27.247:21
-  port: 21
-  server: 35.180.27.247
+  server: 15.237.208.78
   type: socks5
   udp: true
 - name: 法国-法兰西岛-13.38.87.40:45554
@@ -719,94 +479,14 @@ proxies:
   server: 13.38.87.40
   type: socks5
   udp: true
-- name: 中国-HK-95.40.24.111:21
+- name: 法国-法兰西岛-35.180.27.247:21
   port: 21
-  server: 95.40.24.111
+  server: 35.180.27.247
   type: socks5
   udp: true
-- name: 西班牙-Madrid, Comunidad de-51.49.153.183:21
-  port: 21
-  server: 51.49.153.183
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.64.13.255:21
-  port: 21
-  server: 3.64.13.255
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-51.118.27.63:21
-  port: 21
-  server: 51.118.27.63
-  type: socks5
-  udp: true
-- name: 英国-England-18.130.160.247:21
-  port: 21
-  server: 18.130.160.247
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-35.152.187.159:5555
-  port: 5555
-  server: 35.152.187.159
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-15.161.198.159:21
-  port: 21
-  server: 15.161.198.159
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-15.217.137.100:21
-  port: 21
-  server: 15.217.137.100
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-15.160.134.213:21
-  port: 21
-  server: 15.160.134.213
-  type: socks5
-  udp: true
-- name: 印度-Telangana-103.231.10.209:1080
+- name: 德国-Hessen-63.181.83.210:1080
   port: 1080
-  server: 103.231.10.209
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.49.183.207:1080
-  port: 1080
-  server: 13.49.183.207
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.71.26.7:21
-  port: 21
-  server: 3.71.26.7
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.51.109.208:21
-  port: 21
-  server: 13.51.109.208
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.125.33.180:20005
-  port: 20005
-  server: 3.125.33.180
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.18.33.66:21
-  port: 21
-  server: 16.18.33.66
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-51.34.136.208:21
-  port: 21
-  server: 51.34.136.208
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-51.118.112.77:20005
-  port: 20005
-  server: 51.118.112.77
-  type: socks5
-  udp: true
-- name: 德国-Hessen-63.178.219.92:21
-  port: 21
-  server: 63.178.219.92
+  server: 63.181.83.210
   type: socks5
   udp: true
 - name: 瑞士-Zurich-16.18.64.59:21
@@ -814,44 +494,9 @@ proxies:
   server: 16.18.64.59
   type: socks5
   udp: true
-- name: 瑞士-Zurich-51.96.97.236:21
+- name: 墨西哥-Ciudad de Mexico-78.14.45.16:21
   port: 21
-  server: 51.96.97.236
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.18.44.210:21
-  port: 21
-  server: 16.18.44.210
-  type: socks5
-  udp: true
-- name: 德国-Hessen-52.59.218.12:21
-  port: 21
-  server: 52.59.218.12
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-51.95.69.232:21
-  port: 21
-  server: 51.95.69.232
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.71.204.155:21
-  port: 21
-  server: 3.71.204.155
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-51.118.19.183:21
-  port: 21
-  server: 51.118.19.183
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-15.217.36.53:21
-  port: 21
-  server: 15.217.36.53
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.70.183.240:21
-  port: 21
-  server: 3.70.183.240
+  server: 78.14.45.16
   type: socks5
   udp: true
 - name: 德国-Hessen-3.125.33.180:21
@@ -859,14 +504,29 @@ proxies:
   server: 3.125.33.180
   type: socks5
   udp: true
+- name: 瑞士-Zurich-51.34.136.208:21
+  port: 21
+  server: 51.34.136.208
+  type: socks5
+  udp: true
+- name: 德国-Hessen-3.125.33.180:20005
+  port: 20005
+  server: 3.125.33.180
+  type: socks5
+  udp: true
+- name: 德国-Hessen-3.71.204.155:21
+  port: 21
+  server: 3.71.204.155
+  type: socks5
+  udp: true
 - name: 德国-Hessen-3.68.220.196:21
   port: 21
   server: 3.68.220.196
   type: socks5
   udp: true
-- name: 瑞典-Stockholms lan-13.60.181.61:21
+- name: 德国-Hessen-3.70.183.240:21
   port: 21
-  server: 13.60.181.61
+  server: 3.70.183.240
   type: socks5
   udp: true
 - name: 德国-Hessen-3.125.33.180:5555
@@ -874,19 +534,99 @@ proxies:
   server: 3.125.33.180
   type: socks5
   udp: true
+- name: 德国-Hessen-63.178.219.92:21
+  port: 21
+  server: 63.178.219.92
+  type: socks5
+  udp: true
+- name: 德国-Hessen-3.64.13.255:21
+  port: 21
+  server: 3.64.13.255
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.18.33.66:21
+  port: 21
+  server: 16.18.33.66
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-51.118.27.63:21
+  port: 21
+  server: 51.118.27.63
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-35.152.172.91:21
+  port: 21
+  server: 35.152.172.91
+  type: socks5
+  udp: true
 - name: 德国-Hessen-3.123.17.121:21
   port: 21
   server: 3.123.17.121
   type: socks5
   udp: true
-- name: 瑞典-Stockholms lan-51.20.93.65:21
+- name: 意大利-Lombardia-15.160.134.213:21
   port: 21
-  server: 51.20.93.65
+  server: 15.160.134.213
   type: socks5
   udp: true
-- name: 瑞典-Stockholms lan-13.63.170.54:21
+- name: 意大利-Lombardia-15.161.198.159:21
   port: 21
-  server: 13.63.170.54
+  server: 15.161.198.159
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-15.217.36.53:21
+  port: 21
+  server: 15.217.36.53
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.18.44.210:21
+  port: 21
+  server: 16.18.44.210
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.95.69.232:21
+  port: 21
+  server: 51.95.69.232
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-15.217.137.100:21
+  port: 21
+  server: 15.217.137.100
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-51.118.112.77:20005
+  port: 20005
+  server: 51.118.112.77
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-51.118.19.183:21
+  port: 21
+  server: 51.118.19.183
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-51.96.97.236:21
+  port: 21
+  server: 51.96.97.236
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-18.100.127.123:21
+  port: 21
+  server: 18.100.127.123
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-15.216.7.20:21
+  port: 21
+  server: 15.216.7.20
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.49.153.183:21
+  port: 21
+  server: 51.49.153.183
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.92.44.90:21
+  port: 21
+  server: 51.92.44.90
   type: socks5
   udp: true
 - name: 瑞典-Stockholms lan-13.63.167.192:21
@@ -899,49 +639,14 @@ proxies:
   server: 51.20.93.65
   type: socks5
   udp: true
-- name: 瑞典-Stockholms lan-13.60.163.108:20002
-  port: 20002
-  server: 13.60.163.108
+- name: 意大利-Lombardia-35.152.187.159:5555
+  port: 5555
+  server: 35.152.187.159
   type: socks5
   udp: true
-- name: 西班牙-Madrid, Comunidad de-15.216.7.20:21
-  port: 21
-  server: 15.216.7.20
-  type: socks5
-  udp: true
-- name: IE-Dublin-34.244.155.145:21
-  port: 21
-  server: 34.244.155.145
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-35.152.172.91:21
-  port: 21
-  server: 35.152.172.91
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-54.251.238.62:45554
-  port: 45554
-  server: 54.251.238.62
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.51.196.44:21
-  port: 21
-  server: 13.51.196.44
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-51.92.44.90:21
-  port: 21
-  server: 51.92.44.90
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-54.255.229.234:21
-  port: 21
-  server: 54.255.229.234
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-13.212.226.35:21
-  port: 21
-  server: 13.212.226.35
+- name: 瑞典-Stockholms lan-13.49.183.207:1080
+  port: 1080
+  server: 13.49.183.207
   type: socks5
   udp: true
 - name: IE-Dublin-63.33.46.125:21
@@ -949,19 +654,49 @@ proxies:
   server: 63.33.46.125
   type: socks5
   udp: true
-- name: 巴西-圣保罗-18.231.255.176:21
+- name: 瑞典-Stockholms lan-13.63.170.54:21
   port: 21
-  server: 18.231.255.176
+  server: 13.63.170.54
   type: socks5
   udp: true
-- name: IE-Dublin-34.246.223.187:21
-  port: 21
-  server: 34.246.223.187
+- name: 瑞典-Stockholms lan-13.60.163.108:20002
+  port: 20002
+  server: 13.60.163.108
   type: socks5
   udp: true
-- name: 巴西-圣保罗-18.230.74.115:21
+- name: IE-Dublin-108.131.109.106:21
   port: 21
-  server: 18.230.74.115
+  server: 108.131.109.106
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.48.13.125:5555
+  port: 5555
+  server: 13.48.13.125
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-51.20.93.65:21
+  port: 21
+  server: 51.20.93.65
+  type: socks5
+  udp: true
+- name: IE-Dublin-34.244.155.145:21
+  port: 21
+  server: 34.244.155.145
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.51.109.208:21
+  port: 21
+  server: 13.51.109.208
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.51.196.44:21
+  port: 21
+  server: 13.51.196.44
+  type: socks5
+  udp: true
+- name: 巴西-圣保罗-54.233.23.106:21
+  port: 21
+  server: 54.233.23.106
   type: socks5
   udp: true
 - name: 巴西-圣保罗-15.228.223.34:21
@@ -969,84 +704,19 @@ proxies:
   server: 15.228.223.34
   type: socks5
   udp: true
+- name: 巴西-圣保罗-18.230.74.115:21
+  port: 21
+  server: 18.230.74.115
+  type: socks5
+  udp: true
+- name: 巴西-圣保罗-18.231.255.176:21
+  port: 21
+  server: 18.231.255.176
+  type: socks5
+  udp: true
 - name: 巴西-圣保罗-54.233.178.136:21
   port: 21
   server: 54.233.178.136
-  type: socks5
-  udp: true
-- name: 日本-东京-176.34.41.39:21
-  port: 21
-  server: 176.34.41.39
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-16.79.138.105:5555
-  port: 5555
-  server: 16.79.138.105
-  type: socks5
-  udp: true
-- name: 日本-东京-54.248.31.78:21
-  port: 21
-  server: 54.248.31.78
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.168.3:21
-  port: 21
-  server: 108.136.168.3
-  type: socks5
-  udp: true
-- name: 日本-东京-43.207.132.28:21
-  port: 21
-  server: 43.207.132.28
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-16.79.138.105:21
-  port: 21
-  server: 16.79.138.105
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-16.79.68.224:21
-  port: 21
-  server: 16.79.68.224
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-43.218.112.192:21
-  port: 21
-  server: 43.218.112.192
-  type: socks5
-  udp: true
-- name: 日本-东京-13.193.127.170:21
-  port: 21
-  server: 13.193.127.170
-  type: socks5
-  udp: true
-- name: 日本-东京-35.78.85.165:21
-  port: 21
-  server: 35.78.85.165
-  type: socks5
-  udp: true
-- name: 英国-England-18.169.238.38:21
-  port: 21
-  server: 18.169.238.38
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-16.79.112.82:21
-  port: 21
-  server: 16.79.112.82
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.228.97:1080
-  port: 1080
-  server: 108.136.228.97
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-16.79.120.232:21
-  port: 21
-  server: 16.79.120.232
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.228.97:20005
-  port: 20005
-  server: 108.136.228.97
   type: socks5
   udp: true
 - name: 巴西-圣保罗-56.124.19.123:21
@@ -1059,19 +729,64 @@ proxies:
   server: 54.94.74.175
   type: socks5
   udp: true
-- name: 法国-法兰西岛-13.38.217.179:21
-  port: 21
-  server: 13.38.217.179
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.17.62.243:21
-  port: 21
-  server: 51.17.62.243
-  type: socks5
-  udp: true
 - name: 英国-England-3.8.154.65:21
   port: 21
   server: 3.8.154.65
+  type: socks5
+  udp: true
+- name: 英国-England-18.169.238.38:21
+  port: 21
+  server: 18.169.238.38
+  type: socks5
+  udp: true
+- name: 美国-俄勒冈-54.218.248.251:21
+  port: 21
+  server: 54.218.248.251
+  type: socks5
+  udp: true
+- name: 日本-东京-35.77.118.74:21
+  port: 21
+  server: 35.77.118.74
+  type: socks5
+  udp: true
+- name: 日本-东京-13.230.209.208:5555
+  port: 5555
+  server: 13.230.209.208
+  type: socks5
+  udp: true
+- name: 美国-加利福尼亚-52.53.188.148:20002
+  port: 20002
+  server: 52.53.188.148
+  type: socks5
+  udp: true
+- name: 日本-东京-54.95.102.143:5555
+  port: 5555
+  server: 54.95.102.143
+  type: socks5
+  udp: true
+- name: 日本-东京-35.75.6.153:21
+  port: 21
+  server: 35.75.6.153
+  type: socks5
+  udp: true
+- name: 日本-东京-43.206.109.126:21
+  port: 21
+  server: 43.206.109.126
+  type: socks5
+  udp: true
+- name: 法国-法兰西岛-13.37.240.198:21
+  port: 21
+  server: 13.37.240.198
+  type: socks5
+  udp: true
+- name: 日本-东京-52.193.39.32:21
+  port: 21
+  server: 52.193.39.32
+  type: socks5
+  udp: true
+- name: 日本-大阪-15.152.142.58:21
+  port: 21
+  server: 15.152.142.58
   type: socks5
   udp: true
 - name: 法国-法兰西岛-15.224.19.1:5555
@@ -1079,24 +794,94 @@ proxies:
   server: 15.224.19.1
   type: socks5
   udp: true
-- name: 日本-东京-54.238.33.242:21
+- name: 日本-大阪-56.155.87.53:21
   port: 21
-  server: 54.238.33.242
+  server: 56.155.87.53
   type: socks5
   udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.208.190.229:21
+- name: 日本-大阪-56.155.81.23:21
   port: 21
-  server: 43.208.190.229
+  server: 56.155.81.23
   type: socks5
   udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.209.5.199:21
+- name: 日本-大阪-56.155.104.192:21
   port: 21
-  server: 43.209.5.199
+  server: 56.155.104.192
   type: socks5
   udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.208.237.116:21
+- name: 日本-大阪-15.168.66.191:21
   port: 21
-  server: 43.208.237.116
+  server: 15.168.66.191
+  type: socks5
+  udp: true
+- name: 日本-大阪-56.155.120.236:21
+  port: 21
+  server: 56.155.120.236
+  type: socks5
+  udp: true
+- name: 德国-Hessen-193.31.28.111:21
+  port: 21
+  server: 193.31.28.111
+  type: socks5
+  udp: true
+- name: 日本-大阪-15.152.75.215:21
+  port: 21
+  server: 15.152.75.215
+  type: socks5
+  udp: true
+- name: 日本-大阪-15.168.143.108:21
+  port: 21
+  server: 15.168.143.108
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.63.126.71:21
+  port: 21
+  server: 16.63.126.71
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.84.148.59:5555
+  port: 5555
+  server: 51.84.148.59
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.84.240.17:21
+  port: 21
+  server: 51.84.240.17
+  type: socks5
+  udp: true
+- name: 德国-Hessen-63.179.122.106:20002
+  port: 20002
+  server: 63.179.122.106
+  type: socks5
+  udp: true
+- name: 荷兰-Noord-Holland-89.44.84.127:1080
+  port: 1080
+  server: 89.44.84.127
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.62.221.46:21
+  port: 21
+  server: 16.62.221.46
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.62.103.81:21
+  port: 21
+  server: 16.62.103.81
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.17.62.243:21
+  port: 21
+  server: 51.17.62.243
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.84.250.112:20002
+  port: 20002
+  server: 51.84.250.112
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.63.126.71:45554
+  port: 45554
+  server: 16.63.126.71
   type: socks5
   udp: true
 - name: 以色列-Tel Aviv-51.16.39.100:21
@@ -1104,14 +889,474 @@ proxies:
   server: 51.16.39.100
   type: socks5
   udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.210.33.108:21
+- name: 德国-Hessen-3.71.26.7:21
   port: 21
-  server: 43.210.33.108
+  server: 3.71.26.7
   type: socks5
   udp: true
-- name: 日本-大阪-56.155.99.29:21
+- name: 德国-Hessen-63.180.7.104:21
   port: 21
-  server: 56.155.99.29
+  server: 63.180.7.104
+  type: socks5
+  udp: true
+- name: 瑞士-Zurich-16.62.214.173:21
+  port: 21
+  server: 16.62.214.173
+  type: socks5
+  udp: true
+- name: 德国-Hessen-3.122.115.244:45554
+  port: 45554
+  server: 3.122.115.244
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.16.158.239:21
+  port: 21
+  server: 51.16.158.239
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.84.148.59:21
+  port: 21
+  server: 51.84.148.59
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.92.173.133:21
+  port: 21
+  server: 51.92.173.133
+  type: socks5
+  udp: true
+- name: 印度-Telangana-103.231.10.209:1080
+  port: 1080
+  server: 103.231.10.209
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-13.125.179.242:21
+  port: 21
+  server: 13.125.179.242
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-52.78.193.98:21
+  port: 21
+  server: 52.78.193.98
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.200.179.23:45554
+  port: 45554
+  server: 43.200.179.23
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-16.184.32.112:21
+  port: 21
+  server: 16.184.32.112
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.201.105.15:21
+  port: 21
+  server: 43.201.105.15
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-15.160.172.51:20005
+  port: 20005
+  server: 15.160.172.51
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-3.35.236.211:21
+  port: 21
+  server: 3.35.236.211
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-13.125.222.148:21
+  port: 21
+  server: 13.125.222.148
+  type: socks5
+  udp: true
+- name: 意大利-Lombardia-15.160.91.196:21
+  port: 21
+  server: 15.160.91.196
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.203.112.163:21
+  port: 21
+  server: 43.203.112.163
+  type: socks5
+  udp: true
+- name: 日本-大阪-15.152.75.215:20005
+  port: 20005
+  server: 15.152.75.215
+  type: socks5
+  udp: true
+- name: 德国-Hessen-3.121.213.248:21
+  port: 21
+  server: 3.121.213.248
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.60.181.61:21
+  port: 21
+  server: 13.60.181.61
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.92.224.240:21
+  port: 21
+  server: 51.92.224.240
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.107.39.254:21
+  port: 21
+  server: 3.107.39.254
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.62.56.31:21
+  port: 21
+  server: 13.62.56.31
+  type: socks5
+  udp: true
+- name: 中国-HK-18.163.84.0:21
+  port: 21
+  server: 18.163.84.0
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.25.192.74:1080
+  port: 1080
+  server: 3.25.192.74
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-54.253.84.193:21
+  port: 21
+  server: 54.253.84.193
+  type: socks5
+  udp: true
+- name: 中国-HK-18.163.6.189:21
+  port: 21
+  server: 18.163.6.189
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.26.8.130:21
+  port: 21
+  server: 3.26.8.130
+  type: socks5
+  udp: true
+- name: 中国-HK-16.162.105.116:5555
+  port: 5555
+  server: 16.162.105.116
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-16.16.162.157:21
+  port: 21
+  server: 16.16.162.157
+  type: socks5
+  udp: true
+- name: 中国-HK-95.40.24.111:21
+  port: 21
+  server: 95.40.24.111
+  type: socks5
+  udp: true
+- name: 中国-HK-18.163.33.4:21
+  port: 21
+  server: 18.163.33.4
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-13.211.138.122:1080
+  port: 1080
+  server: 13.211.138.122
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-51.49.145.16:5555
+  port: 5555
+  server: 51.49.145.16
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-18.101.105.157:21
+  port: 21
+  server: 18.101.105.157
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-54.253.234.119:21
+  port: 21
+  server: 54.253.234.119
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.26.94.183:21
+  port: 21
+  server: 3.26.94.183
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-54.253.183.151:21
+  port: 21
+  server: 54.253.183.151
+  type: socks5
+  udp: true
+- name: 巴西-圣保罗-54.94.226.81:21
+  port: 21
+  server: 54.94.226.81
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.26.8.130:45554
+  port: 45554
+  server: 3.26.8.130
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.50.154.128:45554
+  port: 45554
+  server: 16.50.154.128
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.27.18.49:21
+  port: 21
+  server: 16.27.18.49
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.220.237:21
+  port: 21
+  server: 16.26.220.237
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.92.49:21
+  port: 21
+  server: 16.26.92.49
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.51.42.20:21
+  port: 21
+  server: 16.51.42.20
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-51.20.187.129:21
+  port: 21
+  server: 51.20.187.129
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.50.172.248:21
+  port: 21
+  server: 16.50.172.248
+  type: socks5
+  udp: true
+- name: 德国-Hessen-52.28.79.37:21
+  port: 21
+  server: 52.28.79.37
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-13.60.25.49:21
+  port: 21
+  server: 13.60.25.49
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-16.171.8.94:21
+  port: 21
+  server: 16.171.8.94
+  type: socks5
+  udp: true
+- name: 德国-Hessen-63.179.122.106:21
+  port: 21
+  server: 63.179.122.106
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.213.54:21
+  port: 21
+  server: 16.26.213.54
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.50.205.145:21
+  port: 21
+  server: 16.50.205.145
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.51.50.191:21
+  port: 21
+  server: 16.51.50.191
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.154.68:45554
+  port: 45554
+  server: 16.26.154.68
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-13.212.226.35:21
+  port: 21
+  server: 13.212.226.35
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-54.251.238.62:45554
+  port: 45554
+  server: 54.251.238.62
+  type: socks5
+  udp: true
+- name: 巴西-圣保罗-18.228.228.159:21
+  port: 21
+  server: 18.228.228.159
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-13.233.101.248:20002
+  port: 20002
+  server: 13.233.101.248
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-54.255.229.234:21
+  port: 21
+  server: 54.255.229.234
+  type: socks5
+  udp: true
+- name: 西班牙-Madrid, Comunidad de-18.101.230.134:21
+  port: 21
+  server: 18.101.230.134
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-15.207.100.187:21
+  port: 21
+  server: 15.207.100.187
+  type: socks5
+  udp: true
+- name: 日本-东京-54.238.33.242:21
+  port: 21
+  server: 54.238.33.242
+  type: socks5
+  udp: true
+- name: 日本-东京-54.248.31.78:21
+  port: 21
+  server: 54.248.31.78
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.168.3:21
+  port: 21
+  server: 108.136.168.3
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-3.110.89.81:21
+  port: 21
+  server: 3.110.89.81
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-16.79.120.232:21
+  port: 21
+  server: 16.79.120.232
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-16.79.138.105:5555
+  port: 5555
+  server: 16.79.138.105
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-43.205.144.46:21
+  port: 21
+  server: 43.205.144.46
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-16.79.68.224:21
+  port: 21
+  server: 16.79.68.224
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.228.97:20005
+  port: 20005
+  server: 108.136.228.97
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.228.97:1080
+  port: 1080
+  server: 108.136.228.97
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-13.200.226.60:21
+  port: 21
+  server: 13.200.226.60
+  type: socks5
+  udp: true
+- name: 日本-东京-176.34.41.39:21
+  port: 21
+  server: 176.34.41.39
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-13.206.194.229:21
+  port: 21
+  server: 13.206.194.229
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-16.79.138.105:21
+  port: 21
+  server: 16.79.138.105
+  type: socks5
+  udp: true
+- name: 瑞典-Stockholms lan-16.16.194.8:21
+  port: 21
+  server: 16.16.194.8
+  type: socks5
+  udp: true
+- name: 日本-东京-35.78.85.165:21
+  port: 21
+  server: 35.78.85.165
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-13.206.85.86:21
+  port: 21
+  server: 13.206.85.86
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.76.236:5555
+  port: 5555
+  server: 16.112.76.236
+  type: socks5
+  udp: true
+- name: 俄罗斯-Orlovskaya oblast'-109.61.160.29:1080
+  port: 1080
+  server: 109.61.160.29
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-43.218.112.192:21
+  port: 21
+  server: 43.218.112.192
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-16.79.112.82:21
+  port: 21
+  server: 16.79.112.82
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.225.175:21
+  port: 21
+  server: 16.112.225.175
+  type: socks5
+  udp: true
+- name: 日本-东京-13.193.127.170:21
+  port: 21
+  server: 13.193.127.170
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.128.123:21
+  port: 21
+  server: 16.112.128.123
+  type: socks5
+  udp: true
+- name: 印度-Telangana-18.60.237.255:5555
+  port: 5555
+  server: 18.60.237.255
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.76.236:45554
+  port: 45554
+  server: 16.112.76.236
+  type: socks5
+  udp: true
+- name: 俄罗斯-Moskva-213.219.210.45:1080
+  port: 1080
+  server: 213.219.210.45
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-65.1.106.113:21
+  port: 21
+  server: 65.1.106.113
+  type: socks5
+  udp: true
+- name: 印度-Telangana-18.60.237.255:21
+  port: 21
+  server: 18.60.237.255
+  type: socks5
+  udp: true
+- name: 印度-Telangana-18.60.247.31:21
+  port: 21
+  server: 18.60.247.31
+  type: socks5
+  udp: true
+- name: 德国-Hessen-52.59.218.12:21
+  port: 21
+  server: 52.59.218.12
   type: socks5
   udp: true
 - name: 泰国-Krung Thep Maha Nakhon-43.208.10.60:21
@@ -1124,439 +1369,9 @@ proxies:
   server: 56.155.31.137
   type: socks5
   udp: true
-- name: 以色列-Tel Aviv-51.84.148.59:21
-  port: 21
-  server: 51.84.148.59
-  type: socks5
-  udp: true
-- name: 德国-Hessen-63.181.83.210:1080
-  port: 1080
-  server: 63.181.83.210
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:45554
-  port: 45554
-  server: 43.209.21.145
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.208.229.89:45554
-  port: 45554
-  server: 43.208.229.89
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:21
-  port: 21
-  server: 43.209.21.145
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:5555
-  port: 5555
-  server: 43.209.21.145
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.17.154.141:21
-  port: 21
-  server: 51.17.154.141
-  type: socks5
-  udp: true
-- name: 荷兰-Noord-Holland-89.44.84.127:1080
-  port: 1080
-  server: 89.44.84.127
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.84.148.59:5555
-  port: 5555
-  server: 51.84.148.59
-  type: socks5
-  udp: true
-- name: 美国-俄勒冈-34.219.149.143:1080
-  port: 1080
-  server: 34.219.149.143
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.16.158.239:21
-  port: 21
-  server: 51.16.158.239
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.84.250.112:20002
-  port: 20002
-  server: 51.84.250.112
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.208.115.254:21
-  port: 21
-  server: 43.208.115.254
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.84.240.17:21
-  port: 21
-  server: 51.84.240.17
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.63.126.71:45554
-  port: 45554
-  server: 16.63.126.71
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.62.214.173:21
-  port: 21
-  server: 16.62.214.173
-  type: socks5
-  udp: true
-- name: 德国-Hessen-193.31.28.111:21
-  port: 21
-  server: 193.31.28.111
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.63.126.71:21
-  port: 21
-  server: 16.63.126.71
-  type: socks5
-  udp: true
-- name: 德国-Hessen-63.179.122.106:20002
-  port: 20002
-  server: 63.179.122.106
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.121.213.248:21
-  port: 21
-  server: 3.121.213.248
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.62.103.81:21
-  port: 21
-  server: 16.62.103.81
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-15.160.172.51:20005
-  port: 20005
-  server: 15.160.172.51
-  type: socks5
-  udp: true
-- name: 德国-Hessen-63.179.122.106:21
-  port: 21
-  server: 63.179.122.106
-  type: socks5
-  udp: true
-- name: 德国-Hessen-63.180.7.104:21
-  port: 21
-  server: 63.180.7.104
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-18.101.230.134:21
-  port: 21
-  server: 18.101.230.134
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.76.236:45554
-  port: 45554
-  server: 16.112.76.236
-  type: socks5
-  udp: true
-- name: 德国-Hessen-52.28.79.37:21
-  port: 21
-  server: 52.28.79.37
-  type: socks5
-  udp: true
-- name: 德国-Hessen-3.122.115.244:45554
-  port: 45554
-  server: 3.122.115.244
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.225.175:21
-  port: 21
-  server: 16.112.225.175
-  type: socks5
-  udp: true
-- name: 印度-Telangana-40.192.120.123:21
-  port: 21
-  server: 40.192.120.123
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.225.28:21
-  port: 21
-  server: 16.112.225.28
-  type: socks5
-  udp: true
-- name: 印度-Telangana-18.60.237.255:5555
-  port: 5555
-  server: 18.60.237.255
-  type: socks5
-  udp: true
-- name: 印度-Telangana-18.60.237.255:21
-  port: 21
-  server: 18.60.237.255
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.76.236:5555
-  port: 5555
-  server: 16.112.76.236
-  type: socks5
-  udp: true
 - name: 印度-Telangana-16.112.76.67:21
   port: 21
   server: 16.112.76.67
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.128.123:21
-  port: 21
-  server: 16.112.128.123
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.60.25.49:21
-  port: 21
-  server: 13.60.25.49
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-18.100.127.123:21
-  port: 21
-  server: 18.100.127.123
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-16.16.194.8:21
-  port: 21
-  server: 16.16.194.8
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-18.101.105.157:21
-  port: 21
-  server: 18.101.105.157
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-15.164.49.100:21
-  port: 21
-  server: 15.164.49.100
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-13.233.101.248:20002
-  port: 20002
-  server: 13.233.101.248
-  type: socks5
-  udp: true
-- name: 意大利-Lombardia-15.160.91.196:21
-  port: 21
-  server: 15.160.91.196
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.62.56.31:21
-  port: 21
-  server: 13.62.56.31
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-43.205.144.46:21
-  port: 21
-  server: 43.205.144.46
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-51.49.145.16:5555
-  port: 5555
-  server: 51.49.145.16
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-52.66.195.204:21
-  port: 21
-  server: 52.66.195.204
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-51.20.187.129:21
-  port: 21
-  server: 51.20.187.129
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-16.16.162.157:21
-  port: 21
-  server: 16.16.162.157
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-65.1.106.113:21
-  port: 21
-  server: 65.1.106.113
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-15.165.231.201:21
-  port: 21
-  server: 15.165.231.201
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.203.145.168:20002
-  port: 20002
-  server: 43.203.145.168
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-15.207.100.187:21
-  port: 21
-  server: 15.207.100.187
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-13.125.116.13:21
-  port: 21
-  server: 13.125.116.13
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-3.110.89.81:21
-  port: 21
-  server: 3.110.89.81
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-13.206.194.229:21
-  port: 21
-  server: 13.206.194.229
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-52.79.235.195:21
-  port: 21
-  server: 52.79.235.195
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-13.206.85.86:21
-  port: 21
-  server: 13.206.85.86
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-52.78.193.98:21
-  port: 21
-  server: 52.78.193.98
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-51.92.173.133:21
-  port: 21
-  server: 51.92.173.133
-  type: socks5
-  udp: true
-- name: 印度-Maharashtra-13.200.226.60:21
-  port: 21
-  server: 13.200.226.60
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-16.171.8.94:21
-  port: 21
-  server: 16.171.8.94
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.200.255.63:21
-  port: 21
-  server: 43.200.255.63
-  type: socks5
-  udp: true
-- name: 韩国-Seoul-teukbyeolsi-43.203.145.168:21
-  port: 21
-  server: 43.203.145.168
-  type: socks5
-  udp: true
-- name: 法国-法兰西岛-13.37.240.198:21
-  port: 21
-  server: 13.37.240.198
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.25.189.39:5555
-  port: 5555
-  server: 3.25.189.39
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-54.253.84.193:21
-  port: 21
-  server: 54.253.84.193
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-3.25.160.180:21
-  port: 21
-  server: 3.25.160.180
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-13.54.15.97:45554
-  port: 45554
-  server: 13.54.15.97
-  type: socks5
-  udp: true
-- name: 澳大利亚-New South Wales-54.252.192.125:21
-  port: 21
-  server: 54.252.192.125
-  type: socks5
-  udp: true
-- name: 巴西-圣保罗-54.94.226.81:21
-  port: 21
-  server: 54.94.226.81
-  type: socks5
-  udp: true
-- name: 西班牙-Madrid, Comunidad de-51.92.224.240:21
-  port: 21
-  server: 51.92.224.240
-  type: socks5
-  udp: true
-- name: 中国-HK-95.40.31.164:21
-  port: 21
-  server: 95.40.31.164
-  type: socks5
-  udp: true
-- name: 中国-HK-18.163.33.4:21
-  port: 21
-  server: 18.163.33.4
-  type: socks5
-  udp: true
-- name: 瑞典-Stockholms lan-13.48.13.125:5555
-  port: 5555
-  server: 13.48.13.125
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.51.183.214:21
-  port: 21
-  server: 16.51.183.214
-  type: socks5
-  udp: true
-- name: 巴西-圣保罗-18.228.228.159:21
-  port: 21
-  server: 18.228.228.159
-  type: socks5
-  udp: true
-- name: 瑞士-Zurich-16.62.221.46:21
-  port: 21
-  server: 16.62.221.46
-  type: socks5
-  udp: true
-- name: 中国-HK-18.162.50.183:21
-  port: 21
-  server: 18.162.50.183
-  type: socks5
-  udp: true
-- name: 南非-Western Cape-13.244.153.67:21
-  port: 21
-  server: 13.244.153.67
-  type: socks5
-  udp: true
-- name: 南非-Western Cape-13.245.171.157:21
-  port: 21
-  server: 13.245.171.157
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.50.169.29:21
-  port: 21
-  server: 16.50.169.29
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-16.164.6.249:21
-  port: 21
-  server: 16.164.6.249
-  type: socks5
-  udp: true
-- name: 南非-Western Cape-16.28.44.149:21
-  port: 21
-  server: 16.28.44.149
-  type: socks5
-  udp: true
-- name: 俄罗斯-Moskva-213.219.210.45:1080
-  port: 1080
-  server: 213.219.210.45
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-13.212.26.15:21
-  port: 21
-  server: 13.212.26.15
-  type: socks5
-  udp: true
-- name: 俄罗斯-Orlovskaya oblast'-109.61.160.29:1080
-  port: 1080
-  server: 109.61.160.29
   type: socks5
   udp: true
 - name: 南非-Western Cape-13.246.6.135:21
@@ -1564,34 +1379,49 @@ proxies:
   server: 13.246.6.135
   type: socks5
   udp: true
-- name: 南非-Western Cape-13.247.178.237:21
+- name: 南非-Western Cape-13.244.254.90:21
   port: 21
-  server: 13.247.178.237
+  server: 13.244.254.90
   type: socks5
   udp: true
-- name: 以色列-Tel Aviv-51.17.62.103:21
+- name: 泰国-Krung Thep Maha Nakhon-43.208.190.229:21
   port: 21
-  server: 51.17.62.103
+  server: 43.208.190.229
   type: socks5
   udp: true
-- name: 新加坡-Singapore-54.255.141.180:21
-  port: 21
-  server: 54.255.141.180
+- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:5555
+  port: 5555
+  server: 43.209.21.145
   type: socks5
   udp: true
-- name: 新加坡-Singapore-13.212.76.134:21
+- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:21
   port: 21
-  server: 13.212.76.134
+  server: 43.209.21.145
   type: socks5
   udp: true
-- name: 新加坡-Singapore-18.141.207.212:21
+- name: 泰国-Krung Thep Maha Nakhon-43.210.33.108:21
   port: 21
-  server: 18.141.207.212
+  server: 43.210.33.108
   type: socks5
   udp: true
-- name: 以色列-Tel Aviv-51.16.47.116:21
+- name: 南非-Western Cape-13.244.153.67:21
   port: 21
-  server: 51.16.47.116
+  server: 13.244.153.67
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.225.28:21
+  port: 21
+  server: 16.112.225.28
+  type: socks5
+  udp: true
+- name: 泰国-Krung Thep Maha Nakhon-43.209.5.199:21
+  port: 21
+  server: 43.209.5.199
+  type: socks5
+  udp: true
+- name: 日本-大阪-56.155.99.29:21
+  port: 21
+  server: 56.155.99.29
   type: socks5
   udp: true
 - name: 南非-Western Cape-13.245.32.105:21
@@ -1599,64 +1429,14 @@ proxies:
   server: 13.245.32.105
   type: socks5
   udp: true
-- name: 南非-Western Cape-13.244.254.90:21
+- name: 泰国-Krung Thep Maha Nakhon-43.208.229.89:45554
+  port: 45554
+  server: 43.208.229.89
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.247.178.237:21
   port: 21
-  server: 13.244.254.90
-  type: socks5
-  udp: true
-- name: 马来西亚-Wilayah Persekutuan Kuala Lumpur-43.216.7.239:1080
-  port: 1080
-  server: 43.216.7.239
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.26.90.228:21
-  port: 21
-  server: 16.26.90.228
-  type: socks5
-  udp: true
-- name: 以色列-Tel Aviv-51.84.110.147:21
-  port: 21
-  server: 51.84.110.147
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.179.127:21
-  port: 21
-  server: 108.136.179.127
-  type: socks5
-  udp: true
-- name: 澳大利亚-Victoria-16.26.90.228:1080
-  port: 1080
-  server: 16.26.90.228
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.235.102:21
-  port: 21
-  server: 108.136.235.102
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.149.62:20005
-  port: 20005
-  server: 108.136.149.62
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.136.149.62:21
-  port: 21
-  server: 108.136.149.62
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jakarta Raya-108.137.89.97:21
-  port: 21
-  server: 108.137.89.97
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.208.2.116:21
-  port: 21
-  server: 43.208.2.116
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-18.143.196.105:21
-  port: 21
-  server: 18.143.196.105
+  server: 13.247.178.237
   type: socks5
   udp: true
 - name: 泰国-Krung Thep Maha Nakhon-43.208.10.82:5555
@@ -1664,49 +1444,14 @@ proxies:
   server: 43.208.10.82
   type: socks5
   udp: true
-- name: 印度-Maharashtra-3.108.234.47:21
+- name: 南非-Western Cape-16.28.44.149:21
   port: 21
-  server: 3.108.234.47
+  server: 16.28.44.149
   type: socks5
   udp: true
-- name: 印度-Maharashtra-13.204.155.188:21
+- name: 泰国-Krung Thep Maha Nakhon-43.208.115.254:21
   port: 21
-  server: 13.204.155.188
-  type: socks5
-  udp: true
-- name: 印度-Telangana-98.130.11.240:21
-  port: 21
-  server: 98.130.11.240
-  type: socks5
-  udp: true
-- name: 泰国-Krung Thep Maha Nakhon-43.210.111.55:21
-  port: 21
-  server: 43.210.111.55
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.4.117:21
-  port: 21
-  server: 16.112.4.117
-  type: socks5
-  udp: true
-- name: 印度-Telangana-18.61.3.91:21
-  port: 21
-  server: 18.61.3.91
-  type: socks5
-  udp: true
-- name: 印度-Telangana-16.112.197.127:21
-  port: 21
-  server: 16.112.197.127
-  type: socks5
-  udp: true
-- name: 印度-Telangana-18.60.247.31:21
-  port: 21
-  server: 18.60.247.31
-  type: socks5
-  udp: true
-- name: 印度-Telangana-98.130.143.239:21
-  port: 21
-  server: 98.130.143.239
+  server: 43.208.115.254
   type: socks5
   udp: true
 - name: 泰国-Krung Thep Maha Nakhon-43.208.16.199:21
@@ -1714,24 +1459,19 @@ proxies:
   server: 43.208.16.199
   type: socks5
   udp: true
-- name: 南非-Western Cape-13.247.87.42:45554
+- name: 泰国-Krung Thep Maha Nakhon-43.209.21.145:45554
   port: 45554
-  server: 13.247.87.42
+  server: 43.209.21.145
   type: socks5
   udp: true
-- name: 南非-Western Cape-13.246.45.164:21
+- name: 印度-Maharashtra-52.66.195.204:21
   port: 21
-  server: 13.246.45.164
+  server: 52.66.195.204
   type: socks5
   udp: true
-- name: 南非-Western Cape-13.246.190.63:21
+- name: 以色列-Tel Aviv-16.164.6.249:21
   port: 21
-  server: 13.246.190.63
-  type: socks5
-  udp: true
-- name: 南非-Western Cape-13.246.39.12:5555
-  port: 5555
-  server: 13.246.39.12
+  server: 16.164.6.249
   type: socks5
   udp: true
 - name: 以色列-Tel Aviv-51.84.183.176:21
@@ -1739,9 +1479,189 @@ proxies:
   server: 51.84.183.176
   type: socks5
   udp: true
-- name: 德国-Hessen-43.165.6.179:1080
+- name: 以色列-Tel Aviv-51.17.154.141:21
+  port: 21
+  server: 51.17.154.141
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.17.62.103:21
+  port: 21
+  server: 51.17.62.103
+  type: socks5
+  udp: true
+- name: 日本-东京-43.207.132.28:21
+  port: 21
+  server: 43.207.132.28
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.16.47.116:21
+  port: 21
+  server: 51.16.47.116
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.200.255.63:21
+  port: 21
+  server: 43.200.255.63
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-52.79.235.195:21
+  port: 21
+  server: 52.79.235.195
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.203.145.168:21
+  port: 21
+  server: 43.203.145.168
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-13.125.116.13:21
+  port: 21
+  server: 13.125.116.13
+  type: socks5
+  udp: true
+- name: 以色列-Tel Aviv-51.84.110.147:21
+  port: 21
+  server: 51.84.110.147
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-54.252.192.125:21
+  port: 21
+  server: 54.252.192.125
+  type: socks5
+  udp: true
+- name: 中国-HK-95.40.31.164:21
+  port: 21
+  server: 95.40.31.164
+  type: socks5
+  udp: true
+- name: 中国-HK-18.162.50.183:21
+  port: 21
+  server: 18.162.50.183
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.25.189.39:5555
+  port: 5555
+  server: 3.25.189.39
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-13.54.15.97:45554
+  port: 45554
+  server: 13.54.15.97
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-15.164.49.100:21
+  port: 21
+  server: 15.164.49.100
+  type: socks5
+  udp: true
+- name: 澳大利亚-New South Wales-3.25.160.180:21
+  port: 21
+  server: 3.25.160.180
+  type: socks5
+  udp: true
+- name: 中国-HK-43.198.22.151:21
+  port: 21
+  server: 43.198.22.151
+  type: socks5
+  udp: true
+- name: 中国-HK-18.162.200.96:20002
+  port: 20002
+  server: 18.162.200.96
+  type: socks5
+  udp: true
+- name: 韩国-Seoul-teukbyeolsi-15.165.231.201:21
+  port: 21
+  server: 15.165.231.201
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.51.183.214:21
+  port: 21
+  server: 16.51.183.214
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-13.204.155.188:21
+  port: 21
+  server: 13.204.155.188
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-18.143.196.105:21
+  port: 21
+  server: 18.143.196.105
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-54.255.141.180:21
+  port: 21
+  server: 54.255.141.180
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.90.228:1080
   port: 1080
-  server: 43.165.6.179
+  server: 16.26.90.228
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-18.141.207.212:21
+  port: 21
+  server: 18.141.207.212
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-13.212.76.134:21
+  port: 21
+  server: 13.212.76.134
+  type: socks5
+  udp: true
+- name: 印度-Maharashtra-3.108.234.47:21
+  port: 21
+  server: 3.108.234.47
+  type: socks5
+  udp: true
+- name: 马来西亚-Wilayah Persekutuan Kuala Lumpur-43.216.7.239:1080
+  port: 1080
+  server: 43.216.7.239
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-13.212.26.15:21
+  port: 21
+  server: 13.212.26.15
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.50.169.29:21
+  port: 21
+  server: 16.50.169.29
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.149.62:20005
+  port: 20005
+  server: 108.136.149.62
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.245.171.157:21
+  port: 21
+  server: 13.245.171.157
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.247.87.42:45554
+  port: 45554
+  server: 13.247.87.42
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.179.127:21
+  port: 21
+  server: 108.136.179.127
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.246.39.12:5555
+  port: 5555
+  server: 13.246.39.12
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.4.117:21
+  port: 21
+  server: 16.112.4.117
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.246.190.63:21
+  port: 21
+  server: 13.246.190.63
   type: socks5
   udp: true
 - name: 南非-Western Cape-13.245.3.130:21
@@ -1749,24 +1669,59 @@ proxies:
   server: 13.245.3.130
   type: socks5
   udp: true
-- name: 中国-北京-117.72.121.60:5555
-  port: 5555
-  server: 117.72.121.60
-  type: socks5
-  udp: true
-- name: 印度尼西亚-Jawa Tengah-112.109.18.249:1080
-  port: 1080
-  server: 112.109.18.249
-  type: socks5
-  udp: true
-- name: 新加坡-Singapore-47.236.64.46:1080
-  port: 1080
-  server: 47.236.64.46
-  type: socks5
-  udp: true
 - name: 中国-广东-47.113.219.128:1080
   port: 1080
   server: 47.113.219.128
+  type: socks5
+  udp: true
+- name: 南非-Western Cape-13.246.45.164:21
+  port: 21
+  server: 13.246.45.164
+  type: socks5
+  udp: true
+- name: 印度-Telangana-98.130.11.240:21
+  port: 21
+  server: 98.130.11.240
+  type: socks5
+  udp: true
+- name: 泰国-Krung Thep Maha Nakhon-43.208.237.116:21
+  port: 21
+  server: 43.208.237.116
+  type: socks5
+  udp: true
+- name: 印度-Telangana-16.112.197.127:21
+  port: 21
+  server: 16.112.197.127
+  type: socks5
+  udp: true
+- name: 泰国-Krung Thep Maha Nakhon-43.208.2.116:21
+  port: 21
+  server: 43.208.2.116
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.149.62:21
+  port: 21
+  server: 108.136.149.62
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.136.235.102:21
+  port: 21
+  server: 108.136.235.102
+  type: socks5
+  udp: true
+- name: 印度-Telangana-40.192.120.123:21
+  port: 21
+  server: 40.192.120.123
+  type: socks5
+  udp: true
+- name: 印度尼西亚-Jakarta Raya-108.137.89.97:21
+  port: 21
+  server: 108.137.89.97
+  type: socks5
+  udp: true
+- name: 印度-Telangana-98.130.143.239:21
+  port: 21
+  server: 98.130.143.239
   type: socks5
   udp: true
 - name: 中国-四川-182.151.169.253:1080
@@ -1774,10 +1729,55 @@ proxies:
   server: 182.151.169.253
   type: socks5
   udp: true
+- name: 韩国-Seoul-teukbyeolsi-43.203.145.168:20002
+  port: 20002
+  server: 43.203.145.168
+  type: socks5
+  udp: true
+- name: 澳大利亚-Victoria-16.26.90.228:21
+  port: 21
+  server: 16.26.90.228
+  type: socks5
+  udp: true
+- name: 印度-Telangana-18.61.3.91:21
+  port: 21
+  server: 18.61.3.91
+  type: socks5
+  udp: true
+- name: 泰国-Krung Thep Maha Nakhon-43.210.111.55:21
+  port: 21
+  server: 43.210.111.55
+  type: socks5
+  udp: true
+- name: 德国-Hessen-43.165.6.179:1080
+  port: 1080
+  server: 43.165.6.179
+  type: socks5
+  udp: true
+- name: IE-Dublin-52.16.215.4:21
+  port: 21
+  server: 52.16.215.4
+  type: socks5
+  udp: true
+- name: 中国-北京-117.72.121.60:5555
+  port: 5555
+  server: 117.72.121.60
+  type: socks5
+  udp: true
+- name: 新加坡-Singapore-47.236.64.46:1080
+  port: 1080
+  server: 47.236.64.46
+  type: socks5
+  udp: true
 - name: KH-Phnom Penh-202.79.26.242:1080
   port: 1080
   server: 202.79.26.242
   type: socks5
   udp: true
+- name: 印度尼西亚-Jawa Tengah-112.109.18.249:1080
+  port: 1080
+  server: 112.109.18.249
+  type: socks5
+  udp: true
 total: 356
-updated: '2026-04-30 16:38:43'
+updated: '2026-04-30 17:24:16'
