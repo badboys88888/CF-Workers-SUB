@@ -1,0 +1,6 @@
+proxies:
+- link: vless
+- link: vmess
+- link: trojan
+total: 3
+updated: '2026-04-30 15:22:35'
