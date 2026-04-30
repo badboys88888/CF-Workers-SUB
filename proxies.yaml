@@ -1,0 +1,668 @@
+# 自动生成于 2026-04-30 05:38 UTC
+# 可用节点: 105 个
+
+proxies:
+  - name: "Bangladesh-001-City Online Ltd"
+    type: http
+    server: 113.212.111.4
+    port: 8090
+    # 延迟: 488ms | 运营商: City Online Ltd
+
+  - name: "Bangladesh-002-Link3 Technologies Limited"
+    type: http
+    server: 27.147.245.189
+    port: 7735
+    tls: true
+    # 延迟: 4853ms | 运营商: Link3 Technologies Limited
+
+  - name: "Cambodia-003-Today Communication Co., Ltd"
+    type: http
+    server: 203.95.196.148
+    port: 8080
+    # 延迟: 1040ms | 运营商: Today Communication Co., Ltd
+
+  - name: "Cambodia-004-Today Communication Co., Ltd"
+    type: http
+    server: 203.95.197.116
+    port: 8080
+    # 延迟: 673ms | 运营商: Today Communication Co., Ltd
+
+  - name: "Cambodia-005-Today Communication Co"
+    type: http
+    server: 103.216.51.2
+    port: 8080
+    # 延迟: 984ms | 运营商: Today Communication Co
+
+  - name: "Cambodia-006-ANGKOR E & C (CAMBODIA) Co., Ltd."
+    type: http
+    server: 103.118.47.205
+    port: 8080
+    # 延迟: 1012ms | 运营商: ANGKOR E & C (CAMBODIA) Co., Ltd.
+
+  - name: "Cambodia-007-ANGKOR E & C (CAMBODIA) Co., Ltd."
+    type: http
+    server: 103.118.44.161
+    port: 8080
+    # 延迟: 1038ms | 运营商: ANGKOR E & C (CAMBODIA) Co., Ltd.
+
+  - name: "Cambodia-008-Today Communication Co., Ltd"
+    type: http
+    server: 203.95.198.176
+    port: 8080
+    # 延迟: 955ms | 运营商: Today Communication Co., Ltd
+
+  - name: "Cambodia-009-WiCAM Corporation"
+    type: http
+    server: 49.156.44.114
+    port: 8080
+    tls: true
+    # 延迟: 2844ms | 运营商: WiCAM Corporation
+
+  - name: "Cambodia-010-Today Communication Co., Ltd"
+    type: http
+    server: 203.95.198.127
+    port: 8080
+    # 延迟: 951ms | 运营商: Today Communication Co., Ltd
+
+  - name: "Kazakhstan-011-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+    tls: true
+    # 延迟: 1386ms | 运营商: Kcell JSC
+
+  - name: "Kyrgyzstan-012-Hoster kg, Ltd."
+    type: http
+    server: 176.126.164.213
+    port: 80
+    # 延迟: 807ms | 运营商: Hoster kg, Ltd.
+
+  - name: "中国-013-中国电信"
+    type: http
+    server: 58.216.109.17
+    port: 800
+    # 延迟: 773ms | 运营商: 中国电信
+
+  - name: "中国-014-中国联通"
+    type: http
+    server: 103.213.97.78
+    port: 80
+    # 延迟: 3109ms | 运营商: 中国联通
+
+  - name: "中国-015-Huashu media&Network Limited"
+    type: http
+    server: 218.108.131.186
+    port: 17890
+    tls: true
+    # 延迟: 3369ms | 运营商: Huashu media&Network Limited
+
+  - name: "中国-016-中国移动"
+    type: http
+    server: 183.215.23.242
+    port: 9091
+    # 延迟: 1013ms | 运营商: 中国移动
+
+  - name: "中国-017-中国联通"
+    type: http
+    server: 113.208.119.142
+    port: 9002
+    # 延迟: 996ms | 运营商: 中国联通
+
+  - name: "中国-018-CNC Group Jiangsu province network"
+    type: http
+    server: 58.241.88.13
+    port: 800
+    # 延迟: 741ms | 运营商: CNC Group Jiangsu province network
+
+  - name: "中国-019-中国电信"
+    type: http
+    server: 58.216.109.13
+    port: 800
+    # 延迟: 844ms | 运营商: 中国电信
+
+  - name: "中国-020-中国电信"
+    type: http
+    server: 58.216.109.18
+    port: 800
+    # 延迟: 744ms | 运营商: 中国电信
+
+  - name: "中国-021-CNC Group CHINA169 Henan Province Network"
+    type: http
+    server: 61.158.175.38
+    port: 9002
+    # 延迟: 1608ms | 运营商: CNC Group CHINA169 Henan Province Network
+
+  - name: "中国-022-中国电信"
+    type: http
+    server: 58.216.109.7
+    port: 800
+    # 延迟: 805ms | 运营商: 中国电信
+
+  - name: "中国-023-中国联通"
+    type: http
+    server: 116.171.106.15
+    port: 3443
+    tls: true
+    # 延迟: 3088ms | 运营商: 中国联通
+
+  - name: "中国-024-中国移动"
+    type: http
+    server: 36.138.53.26
+    port: 10019
+    # 延迟: 1143ms | 运营商: 中国移动
+
+  - name: "中国-025-CNC Group Jiangsu province network"
+    type: http
+    server: 58.241.88.17
+    port: 800
+    # 延迟: 5095ms | 运营商: CNC Group Jiangsu province network
+
+  - name: "中国-026-中国移动"
+    type: http
+    server: 36.138.53.26
+    port: 10017
+    # 延迟: 969ms | 运营商: 中国移动
+
+  - name: "中国-027-中国电信"
+    type: http
+    server: 221.231.13.198
+    port: 1080
+    # 延迟: 1001ms | 运营商: 中国电信
+
+  - name: "中国-028-中国联通"
+    type: http
+    server: 153.0.171.163
+    port: 8085
+    # 延迟: 3309ms | 运营商: 中国联通
+
+  - name: "中国-029-Beijing Kingsoft Cloud Internet Technology Co"
+    type: http
+    server: 120.92.108.86
+    port: 7890
+    tls: true
+    # 延迟: 1156ms | 运营商: Beijing Kingsoft Cloud Internet Technology Co
+
+  - name: "中国-030-CNC Group Jiangsu province network"
+    type: http
+    server: 58.241.88.7
+    port: 800
+    # 延迟: 712ms | 运营商: CNC Group Jiangsu province network
+
+  - name: "中国-031-中国移动"
+    type: http
+    server: 223.84.151.86
+    port: 30005
+    tls: true
+    # 延迟: 2270ms | 运营商: 中国移动
+
+  - name: "中国-032-CNC Group Jiangsu province network"
+    type: http
+    server: 58.241.88.18
+    port: 800
+    # 延迟: 747ms | 运营商: CNC Group Jiangsu province network
+
+  - name: "中国-033-中国联通"
+    type: http
+    server: 61.49.87.3
+    port: 80
+    # 延迟: 1001ms | 运营商: 中国联通
+
+  - name: "中国-034-中国联通"
+    type: http
+    server: 116.171.106.15
+    port: 3000
+    # 延迟: 5507ms | 运营商: 中国联通
+
+  - name: "中国-035-Beijing Kingsoft Cloud Internet Technology Co"
+    type: http
+    server: 120.92.212.16
+    port: 8890
+    tls: true
+    # 延迟: 2384ms | 运营商: Beijing Kingsoft Cloud Internet Technology Co
+
+  - name: "乌克兰-036-Triolan"
+    type: http
+    server: 159.224.232.194
+    port: 8888
+    # 延迟: 518ms | 运营商: Triolan
+
+  - name: "俄罗斯-037-Limited Liability Company "Infocentre""
+    type: http
+    server: 95.66.138.21
+    port: 8880
+    # 延迟: 532ms | 运营商: Limited Liability Company "Infocentre"
+
+  - name: "俄罗斯-038-OOO ComLine"
+    type: http
+    server: 81.26.190.143
+    port: 1080
+    tls: true
+    # 延迟: 2382ms | 运营商: OOO ComLine
+
+  - name: "俄罗斯-039-NCNET"
+    type: http
+    server: 37.110.147.13
+    port: 80
+    # 延迟: 483ms | 运营商: NCNET
+
+  - name: "俄罗斯-040-俄罗斯电信"
+    type: http
+    server: 37.79.248.25
+    port: 80
+    # 延迟: 589ms | 运营商: 俄罗斯电信
+
+  - name: "俄罗斯-041-CJSC "AVIEL""
+    type: http
+    server: 31.10.83.158
+    port: 8080
+    # 延迟: 614ms | 运营商: CJSC "AVIEL"
+
+  - name: "俄罗斯-042-NCNET"
+    type: http
+    server: 178.140.3.161
+    port: 5678
+    # 延迟: 502ms | 运营商: NCNET
+
+  - name: "匈牙利-043-Iplus Magyarorszag Kereskedelmi es Szolgaltato Kft."
+    type: http
+    server: 185.162.60.45
+    port: 8080
+    # 延迟: 427ms | 运营商: Iplus Magyarorszag Kereskedelmi es Szolgaltato Kft.
+
+  - name: "南非-044-Accelerit Technologies PTY LTD"
+    type: http
+    server: 196.251.131.87
+    port: 8080
+    # 延迟: 922ms | 运营商: Accelerit Technologies PTY LTD
+
+  - name: "南非-045-OM-SN-44/24"
+    type: http
+    server: 102.212.44.151
+    port: 12354
+    # 延迟: 2763ms | 运营商: OM-SN-44/24
+
+  - name: "南非-046-Azure"
+    type: http
+    server: 20.164.75.153
+    port: 8080
+    tls: true
+    # 延迟: 4550ms | 运营商: Azure
+
+  - name: "印度-047-Azure"
+    type: http
+    server: 4.213.98.253
+    port: 80
+    # 延迟: 884ms | 运营商: Azure
+
+  - name: "印度-048-Azure"
+    type: http
+    server: 4.213.167.178
+    port: 80
+    # 延迟: 5940ms | 运营商: Azure
+
+  - name: "印度尼西亚-049-PT Berkah Solusi Teknologi Informasi"
+    type: http
+    server: 103.65.237.92
+    port: 5678
+    # 延迟: 2676ms | 运营商: PT Berkah Solusi Teknologi Informasi
+
+  - name: "印度尼西亚-050-SHANGTEL"
+    type: http
+    server: 103.109.1.115
+    port: 8080
+    # 延迟: 5960ms | 运营商: SHANGTEL
+
+  - name: "哥伦比亚-051-Sepcom Comunicaciones SAS"
+    type: http
+    server: 45.167.124.71
+    port: 999
+    tls: true
+    # 延迟: 314ms | 运营商: Sepcom Comunicaciones SAS
+
+  - name: "哥伦比亚-052-Internexa S.a. E.S.P"
+    type: http
+    server: 179.1.113.113
+    port: 999
+    # 延迟: 1488ms | 运营商: Internexa S.a. E.S.P
+
+  - name: "哥伦比亚-053-Internexa S.a. E.S.P"
+    type: http
+    server: 179.1.113.129
+    port: 999
+    tls: true
+    # 延迟: 2305ms | 运营商: Internexa S.a. E.S.P
+
+  - name: "土耳其-054-High Speed For Internet Services L.L.C"
+    type: http
+    server: 131.222.247.69
+    port: 8080
+    # 延迟: 706ms | 运营商: High Speed For Internet Services L.L.C
+
+  - name: "巴西-055-Claro S.A."
+    type: http
+    server: 200.174.198.32
+    port: 8888
+    tls: true
+    # 延迟: 1839ms | 运营商: Claro S.A.
+
+  - name: "德国-056-甲骨文云"
+    type: http
+    server: 130.61.174.200
+    port: 1080
+    tls: true
+    # 延迟: 2508ms | 运营商: 甲骨文云
+
+  - name: "新加坡-057-机房"
+    type: http
+    server: 15.235.131.237
+    port: 8080
+    tls: true
+    # 延迟: 1059ms | 运营商: 机房
+
+  - name: "新加坡-058-GoDaddy.com, LLC"
+    type: http
+    server: 97.74.87.226
+    port: 80
+    # 延迟: 1973ms | 运营商: GoDaddy.com, LLC
+
+  - name: "日本-059-NTT"
+    type: http
+    server: 160.248.7.177
+    port: 80
+    # 延迟: 2737ms | 运营商: NTT
+
+  - name: "日本-060-Azure"
+    type: http
+    server: 74.176.195.135
+    port: 80
+    # 延迟: 676ms | 运营商: Azure
+
+  - name: "日本-061-Azure"
+    type: http
+    server: 48.210.225.96
+    port: 80
+    # 延迟: 672ms | 运营商: Azure
+
+  - name: "日本-062-阿里云"
+    type: http
+    server: 8.211.166.184
+    port: 8081
+    # 延迟: 8099ms | 运营商: 阿里云
+
+  - name: "法国-063-Azure"
+    type: http
+    server: 40.89.145.14
+    port: 80
+    # 延迟: 362ms | 运营商: Azure
+
+  - name: "法国-064-甲骨文云"
+    type: http
+    server: 141.253.118.174
+    port: 80
+    # 延迟: 3419ms | 运营商: 甲骨文云
+
+  - name: "法国-065-Fly.io, Inc."
+    type: http
+    server: 149.248.215.39
+    port: 8081
+    tls: true
+    # 延迟: 1051ms | 运营商: Fly.io, Inc.
+
+  - name: "法国-066-Contabo GmbH"
+    type: http
+    server: 173.212.246.157
+    port: 3128
+    tls: true
+    # 延迟: 677ms | 运营商: Contabo GmbH
+
+  - name: "法国-067-机房"
+    type: http
+    server: 37.187.74.125
+    port: 80
+    # 延迟: 337ms | 运营商: 机房
+
+  - name: "波兰-068-IDEALAN Spolka Jawna - Piekarski"
+    type: http
+    server: 178.212.144.7
+    port: 80
+    # 延迟: 222ms | 运营商: IDEALAN Spolka Jawna - Piekarski
+
+  - name: "瑞典-069-机房"
+    type: http
+    server: 185.21.11.140
+    port: 1080
+    tls: true
+    # 延迟: 650ms | 运营商: 机房
+
+  - name: "秘鲁-070-America Movil Peru S.A.C."
+    type: http
+    server: 190.119.132.62
+    port: 80
+    # 延迟: 3590ms | 运营商: America Movil Peru S.A.C.
+
+  - name: "秘鲁-071-America Movil Peru S.A.C."
+    type: http
+    server: 190.119.132.61
+    port: 80
+    # 延迟: 386ms | 运营商: America Movil Peru S.A.C.
+
+  - name: "美国-072-HostPapa"
+    type: http
+    server: 107.173.160.222
+    port: 1080
+    tls: true
+    # 延迟: 349ms | 运营商: HostPapa
+
+  - name: "美国-073-Contabo Inc."
+    type: http
+    server: 209.126.84.232
+    port: 8888
+    # 延迟: 3817ms | 运营商: Contabo Inc.
+
+  - name: "美国-074-Azure"
+    type: http
+    server: 51.141.175.118
+    port: 80
+    # 延迟: 279ms | 运营商: Azure
+
+  - name: "美国-075-机房"
+    type: http
+    server: 138.68.235.51
+    port: 80
+    # 延迟: 793ms | 运营商: 机房
+
+  - name: "美国-076-机房"
+    type: http
+    server: 38.92.10.139
+    port: 33985
+    tls: true
+    # 延迟: 262ms | 运营商: 机房
+
+  - name: "美国-077-谷歌云"
+    type: http
+    server: 34.71.229.255
+    port: 3128
+    tls: true
+    # 延迟: 101ms | 运营商: 谷歌云
+
+  - name: "美国-078-机房"
+    type: http
+    server: 159.65.221.25
+    port: 80
+    # 延迟: 6474ms | 运营商: 机房
+
+  - name: "美国-079-Unified Layer"
+    type: http
+    server: 162.241.207.217
+    port: 80
+    # 延迟: 356ms | 运营商: Unified Layer
+
+  - name: "美国-080-Host4nerd LLC"
+    type: http
+    server: 216.180.127.45
+    port: 1080
+    tls: true
+    # 延迟: 141ms | 运营商: Host4nerd LLC
+
+  - name: "美国-081-Azure"
+    type: http
+    server: 172.200.72.48
+    port: 80
+    # 延迟: 14ms | 运营商: Azure
+
+  - name: "美国-082-NetLab Global"
+    type: http
+    server: 154.64.232.35
+    port: 8080
+    tls: true
+    # 延迟: 4327ms | 运营商: NetLab Global
+
+  - name: "美国-083-Azure"
+    type: http
+    server: 52.229.30.3
+    port: 80
+    # 延迟: 628ms | 运营商: Azure
+
+  - name: "美国-084-机房"
+    type: http
+    server: 38.92.10.98
+    port: 20058
+    tls: true
+    # 延迟: 269ms | 运营商: 机房
+
+  - name: "美国-085-Azure"
+    type: http
+    server: 20.127.128.70
+    port: 8080
+    tls: true
+    # 延迟: 780ms | 运营商: Azure
+
+  - name: "芬兰-086-Telia Finland Oyj"
+    type: http
+    server: 88.193.151.157
+    port: 80
+    # 延迟: 411ms | 运营商: Telia Finland Oyj
+
+  - name: "芬兰-087-机房"
+    type: http
+    server: 185.230.190.195
+    port: 3128
+    tls: true
+    # 延迟: 4658ms | 运营商: 机房
+
+  - name: "英国-088-NSFOCUS, Inc."
+    type: http
+    server: 212.58.132.5
+    port: 8888
+    tls: true
+    # 延迟: 654ms | 运营商: NSFOCUS, Inc.
+
+  - name: "英国-089-机房"
+    type: http
+    server: 139.162.200.213
+    port: 80
+    # 延迟: 840ms | 运营商: 机房
+
+  - name: "英国-090-机房"
+    type: http
+    server: 46.101.95.183
+    port: 8888
+    tls: true
+    # 延迟: 966ms | 运营商: 机房
+
+  - name: "英国-091-Contabo GmbH"
+    type: http
+    server: 94.72.109.214
+    port: 8888
+    tls: true
+    # 延迟: 367ms | 运营商: Contabo GmbH
+
+  - name: "荷兰-092-Timeweb, LLP"
+    type: http
+    server: 194.87.26.83
+    port: 3128
+    tls: true
+    # 延迟: 438ms | 运营商: Timeweb, LLP
+
+  - name: "荷兰-093-机房"
+    type: http
+    server: 159.223.225.118
+    port: 8888
+    tls: true
+    # 延迟: 358ms | 运营商: 机房
+
+  - name: "越南-094-VietNam Post and Telecom Corporation"
+    type: http
+    server: 113.160.132.26
+    port: 8080
+    tls: true
+    # 延迟: 1408ms | 运营商: VietNam Post and Telecom Corporation
+
+  - name: "越南-095-NTT"
+    type: http
+    server: 137.59.47.73
+    port: 3128
+    tls: true
+    # 延迟: 1501ms | 运营商: NTT
+
+  - name: "韩国-096-Korea Telecom"
+    type: http
+    server: 112.184.234.229
+    port: 80
+    # 延迟: 783ms | 运营商: Korea Telecom
+
+  - name: "韩国-097-Korea Telecom"
+    type: http
+    server: 220.116.142.217
+    port: 80
+    # 延迟: 762ms | 运营商: Korea Telecom
+
+  - name: "韩国-098-SK宽频"
+    type: http
+    server: 1.231.81.166
+    port: 3128
+    tls: true
+    # 延迟: 579ms | 运营商: SK宽频
+
+  - name: "韩国-099-甲骨文云"
+    type: http
+    server: 132.226.235.199
+    port: 1080
+    tls: true
+    # 延迟: 4253ms | 运营商: 甲骨文云
+
+  - name: "香港-100-Hong Kong Cable Television Limited"
+    type: http
+    server: 218.252.192.228
+    port: 80
+    # 延迟: 850ms | 运营商: Hong Kong Cable Television Limited
+
+  - name: "香港-101-M247 Europe SRL"
+    type: http
+    server: 193.239.86.180
+    port: 80
+    # 延迟: 1330ms | 运营商: M247 Europe SRL
+
+  - name: "香港-102-中国电信"
+    type: http
+    server: 203.19.38.114
+    port: 1080
+    # 延迟: 1101ms | 运营商: 中国电信
+
+  - name: "香港-103-Hong Kong Cable Television Limited"
+    type: http
+    server: 218.252.100.222
+    port: 80
+    # 延迟: 911ms | 运营商: Hong Kong Cable Television Limited
+
+  - name: "马来西亚-104-ADSL Streamyx Telekom Malaysia"
+    type: http
+    server: 219.93.101.60
+    port: 80
+    # 延迟: 538ms | 运营商: ADSL Streamyx Telekom Malaysia
+
+  - name: "马来西亚-105-ADSL Streamyx Telekom Malaysia"
+    type: http
+    server: 219.93.101.63
+    port: 80
+    # 延迟: 770ms | 运营商: ADSL Streamyx Telekom Malaysia
