@@ -4,87 +4,77 @@ proxies:
     server: 45.167.124.71
     port: 999
 
-  - name: "南非-002-OM-SN-44/24"
+  - name: "加拿大-002-HostPapa"
+    type: http
+    server: 72.11.151.159
+    port: 6005
+
+  - name: "南非-003-OM-SN-44/24"
     type: http
     server: 102.212.44.151
     port: 12354
 
-  - name: "新加坡-003-OVH SAS"
+  - name: "新加坡-004-OVH SAS"
     type: http
     server: 15.235.131.237
     port: 8080
 
-  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.237.94
-    port: 3128
-
-  - name: "哥伦比亚-005-Internexa S.a. E.S.P"
-    type: http
-    server: 179.1.113.113
-    port: 999
-
-  - name: "英国-006-DigitalOcean, LLC"
-    type: http
-    server: 46.101.95.183
-    port: 8888
-
-  - name: "美国-007-Alibaba.com LLC"
-    type: http
-    server: 47.85.51.197
-    port: 1080
-
-  - name: "美国-008-Contabo Inc."
+  - name: "美国-005-Contabo Inc."
     type: http
     server: 209.126.84.232
     port: 8888
 
-  - name: "法国-009-Fly.io, Inc."
+  - name: "印度-006-Syscon Infoway Pvt. Ltd."
     type: http
-    server: 149.248.215.39
-    port: 8081
+    server: 103.209.36.58
+    port: 8080
 
-  - name: "墨西哥-010-Digy Networks"
+  - name: "新加坡-007-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.237.113.119
+    port: 999
+
+  - name: "英国-008-DigitalOcean, LLC"
+    type: http
+    server: 46.101.95.183
+    port: 8888
+
+  - name: "墨西哥-009-Digy Networks"
     type: http
     server: 148.230.4.241
     port: 999
 
-  - name: "Kazakhstan-011-Kcell JSC"
+  - name: "哥伦比亚-010-Internexa S.a. E.S.P"
     type: http
-    server: 2.78.60.10
-    port: 3129
+    server: 179.1.113.129
+    port: 999
 
-  - name: "越南-012-VietNam Post and Telecom Corporation"
+  - name: "越南-011-VietNam Post and Telecom Corporation"
     type: http
     server: 113.160.132.26
     port: 8080
 
-  - name: "新加坡-013-Alibaba Cloud (Singapore) Private Limited"
-    type: http
-    server: 8.219.97.248
-    port: 80
-
-  - name: "巴西-014-Claro S.A."
-    type: http
-    server: 200.174.198.32
-    port: 8888
-
-  - name: "韩国-015-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
-    port: 3128
-
-  - name: "Cambodia-016-WiCAM Corporation"
-    type: http
-    server: 49.156.44.114
-    port: 8080
-
-  - name: "中国-017-Beijing Kingsoft Cloud Internet Technology Co"
+  - name: "中国-012-Beijing Kingsoft Cloud Internet Technology Co"
     type: http
     server: 120.92.108.86
     port: 7890
 
-  - name: "美国-018-Microsoft Corporation"
+  - name: "香港-013-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.128.246
+    port: 80
+
+  - name: "美国-014-Microsoft Corporation"
     type: http
     server: 20.127.128.70
     port: 8080
+
+  - name: "巴西-015-Claro S.A."
+    type: http
+    server: 200.174.198.32
+    port: 8888
+
+  - name: "韩国-016-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
+    port: 3128
