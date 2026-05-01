@@ -5,6 +5,12 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
+- name: 德国-Hessen-43.165.6.179:1080
+  type: socks5
+  server: 43.165.6.179
+  port: 1080
+  udp: true
+  skip-cert-verify: true
 - name: 俄罗斯-Sankt-Peterburg-185.164.173.168:1080
   type: socks5
   server: 185.164.173.168
@@ -17,29 +23,17 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 美国-Georgia-132.243.194.11:1080
-  type: socks5
-  server: 132.243.194.11
-  port: 1080
-  udp: true
-  skip-cert-verify: true
 - name: 德国-Bayern-116.203.131.36:1080
   type: socks5
   server: 116.203.131.36
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 德国-Hessen-43.165.6.179:1080
+- name: 美国-Georgia-132.243.194.11:1080
   type: socks5
-  server: 43.165.6.179
+  server: 132.243.194.11
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: KH-Phnom Penh-202.79.26.242:1080
-  type: socks5
-  server: 202.79.26.242
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-total: 7
-updated: '2026-05-01 18:31:14'
+total: 6
+updated: '2026-05-01 18:59:00'
