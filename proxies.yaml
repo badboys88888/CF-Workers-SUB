@@ -1,500 +1,90 @@
 proxies:
-  - name: "Cambodia-001-Today Communication Co., Ltd"
+  - name: "哥伦比亚-001-Sepcom Comunicaciones SAS"
     type: http
-    server: 203.95.196.148
+    server: 45.167.124.71
+    port: 999
+
+  - name: "南非-002-OM-SN-44/24"
+    type: http
+    server: 102.212.44.151
+    port: 12354
+
+  - name: "新加坡-003-OVH SAS"
+    type: http
+    server: 15.235.131.237
     port: 8080
 
-  - name: "Cambodia-002-Today Communication Co., Ltd"
+  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 203.95.198.144
-    port: 8080
+    server: 43.167.237.94
+    port: 3128
 
-  - name: "Cambodia-003-Today Communication Co., Ltd"
+  - name: "哥伦比亚-005-Internexa S.a. E.S.P"
     type: http
-    server: 203.95.198.174
-    port: 8080
+    server: 179.1.113.113
+    port: 999
 
-  - name: "Cambodia-004-Today Communication Co"
+  - name: "英国-006-DigitalOcean, LLC"
     type: http
-    server: 103.216.51.2
-    port: 8080
+    server: 46.101.95.183
+    port: 8888
 
-  - name: "Cambodia-005-ANGKOR E & C (CAMBODIA) Co., Ltd."
+  - name: "美国-007-Alibaba.com LLC"
     type: http
-    server: 103.118.44.199
-    port: 8080
+    server: 47.85.51.197
+    port: 1080
 
-  - name: "Kazakhstan-006-Kcell JSC"
+  - name: "美国-008-Contabo Inc."
+    type: http
+    server: 209.126.84.232
+    port: 8888
+
+  - name: "法国-009-Fly.io, Inc."
+    type: http
+    server: 149.248.215.39
+    port: 8081
+
+  - name: "墨西哥-010-Digy Networks"
+    type: http
+    server: 148.230.4.241
+    port: 999
+
+  - name: "Kazakhstan-011-Kcell JSC"
     type: http
     server: 2.78.60.10
     port: 3129
-    tls: true
 
-  - name: "Kyrgyzstan-007-Hoster kg, Ltd."
+  - name: "越南-012-VietNam Post and Telecom Corporation"
     type: http
-    server: 176.126.164.213
+    server: 113.160.132.26
+    port: 8080
+
+  - name: "新加坡-013-Alibaba Cloud (Singapore) Private Limited"
+    type: http
+    server: 8.219.97.248
     port: 80
 
-  - name: "Latvia-008-Interneta Pasaule SIA"
+  - name: "巴西-014-Claro S.A."
     type: http
-    server: 87.226.22.225
-    port: 80
+    server: 200.174.198.32
+    port: 8888
 
-  - name: "Tanzania-009-Tanzania e-Government Agency"
+  - name: "韩国-015-SK Broadband Co Ltd"
     type: http
-    server: 102.223.9.53
-    port: 80
+    server: 1.231.81.166
+    port: 3128
 
-  - name: "中国-010-中国联通"
+  - name: "Cambodia-016-WiCAM Corporation"
     type: http
-    server: 113.208.119.142
-    port: 9002
+    server: 49.156.44.114
+    port: 8080
 
-  - name: "中国-011-中国移动"
-    type: http
-    server: 183.215.23.242
-    port: 9091
-
-  - name: "中国-012-中国电信"
-    type: http
-    server: 58.216.109.17
-    port: 800
-
-  - name: "中国-013-CNC Group Jiangsu province network"
-    type: http
-    server: 58.241.88.13
-    port: 800
-
-  - name: "中国-014-中国电信"
-    type: http
-    server: 58.216.109.13
-    port: 800
-
-  - name: "中国-015-中国电信"
-    type: http
-    server: 58.216.109.18
-    port: 800
-
-  - name: "中国-016-CNC Group Jiangsu province network"
-    type: http
-    server: 58.241.88.17
-    port: 800
-
-  - name: "中国-017-中国电信"
-    type: http
-    server: 58.216.109.8
-    port: 800
-
-  - name: "中国-018-中国联通"
-    type: http
-    server: 101.66.195.111
-    port: 8085
-
-  - name: "中国-019-中国联通"
-    type: http
-    server: 103.213.97.78
-    port: 80
-
-  - name: "中国-020-CNC Group CHINA169 Henan Province Network"
-    type: http
-    server: 61.158.175.38
-    port: 9002
-
-  - name: "中国-021-中国移动"
-    type: http
-    server: 36.138.53.26
-    port: 10019
-
-  - name: "中国-022-中国联通"
-    type: http
-    server: 116.171.106.78
-    port: 3000
-
-  - name: "中国-023-CNC Group Jiangsu province network"
-    type: http
-    server: 58.241.88.8
-    port: 800
-
-  - name: "中国-024-中国移动"
-    type: http
-    server: 36.138.53.26
-    port: 10017
-
-  - name: "中国-025-中国电信"
-    type: http
-    server: 221.231.13.198
-    port: 1080
-
-  - name: "中国-026-中国联通"
-    type: http
-    server: 101.66.198.169
-    port: 8085
-
-  - name: "中国-027-中国联通"
-    type: http
-    server: 153.0.171.163
-    port: 8085
-
-  - name: "中国-028-Beijing Kingsoft Cloud Internet Technology Co"
+  - name: "中国-017-Beijing Kingsoft Cloud Internet Technology Co"
     type: http
     server: 120.92.108.86
     port: 7890
 
-  - name: "中国-029-CNC Group Jiangsu province network"
-    type: http
-    server: 58.241.88.7
-    port: 800
-
-  - name: "中国-030-CNC Group Jiangsu province network"
-    type: http
-    server: 58.241.88.18
-    port: 800
-
-  - name: "中国-031-中国移动"
-    type: http
-    server: 223.84.151.86
-    port: 30005
-    tls: true
-
-  - name: "中国-032-Beijing Kingsoft Cloud Internet Technology Co"
-    type: http
-    server: 120.92.212.16
-    port: 8890
-    tls: true
-
-  - name: "乌克兰-033-SDS-Vostok Ltd."
-    type: http
-    server: 176.101.220.90
-    port: 8090
-
-  - name: "乌克兰-034-Triolan"
-    type: http
-    server: 159.224.232.194
-    port: 8888
-
-  - name: "俄罗斯-035-First Server Limited"
-    type: http
-    server: 91.217.81.131
-    port: 1080
-    tls: true
-
-  - name: "俄罗斯-036-Limited Liability Company Infocentre"
-    type: http
-    server: 95.66.138.21
-    port: 8880
-
-  - name: "俄罗斯-037-NCNET"
-    type: http
-    server: 37.110.147.13
-    port: 80
-
-  - name: "俄罗斯-038-NPF SOFTVIDEO Ltd"
-    type: http
-    server: 176.106.241.50
-    port: 80
-
-  - name: "俄罗斯-039-俄罗斯电信"
-    type: http
-    server: 37.79.248.25
-    port: 80
-
-  - name: "俄罗斯-040-CJSC AVIEL"
-    type: http
-    server: 31.10.83.158
-    port: 8080
-
-  - name: "俄罗斯-041-Sakhalin Telecom Ltd."
-    type: http
-    server: 89.188.242.243
-    port: 80
-
-  - name: "南非-042-Accelerit Technologies PTY LTD"
-    type: http
-    server: 196.251.131.87
-    port: 8080
-
-  - name: "南非-043-Azure"
-    type: http
-    server: 20.164.75.153
-    port: 8080
-    tls: true
-
-  - name: "印度-044-Azure"
-    type: http
-    server: 4.213.98.253
-    port: 80
-
-  - name: "印度-045-Azure"
-    type: http
-    server: 4.213.167.178
-    port: 80
-
-  - name: "印度-046-Bell Teleservices India Pvt Ltd"
-    type: http
-    server: 27.34.242.98
-    port: 80
-
-  - name: "台湾-047-中华电信"
-    type: http
-    server: 122.116.125.115
-    port: 8888
-
-  - name: "哥伦比亚-048-Sepcom Comunicaciones SAS"
-    type: http
-    server: 45.167.124.71
-    port: 999
-    tls: true
-
-  - name: "哥伦比亚-049-Internexa S.a. E.S.P"
-    type: http
-    server: 179.1.113.129
-    port: 999
-
-  - name: "奥地利-050-Aeza International LTD"
-    type: http
-    server: 77.110.116.224
-    port: 3128
-    tls: true
-
-  - name: "巴西-051-Claro S.A."
-    type: http
-    server: 200.174.198.32
-    port: 8888
-    tls: true
-
-  - name: "德国-052-Contabo GmbH"
-    type: http
-    server: 141.98.153.86
-    port: 80
-
-  - name: "德国-053-M247 Europe SRL"
-    type: http
-    server: 85.121.53.198
-    port: 80
-
-  - name: "捷克-054-CESNET z.s.p.o."
-    type: http
-    server: 147.231.163.133
-    port: 80
-
-  - name: "新加坡-055-机房"
-    type: http
-    server: 15.235.131.237
-    port: 8080
-    tls: true
-
-  - name: "新加坡-056-机房"
-    type: http
-    server: 103.253.145.138
-    port: 6980
-
-  - name: "新加坡-057-GoDaddy.com, LLC"
-    type: http
-    server: 97.74.87.226
-    port: 80
-
-  - name: "日本-058-Azure"
-    type: http
-    server: 74.176.195.135
-    port: 80
-
-  - name: "日本-059-Azure"
-    type: http
-    server: 48.210.225.96
-    port: 80
-
-  - name: "日本-060-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
-    type: http
-    server: 101.36.105.101
-    port: 9128
-    tls: true
-
-  - name: "比利时-061-谷歌云"
-    type: http
-    server: 34.140.137.151
-    port: 80
-
-  - name: "法国-062-Azure"
-    type: http
-    server: 40.89.145.14
-    port: 80
-
-  - name: "法国-063-甲骨文云"
-    type: http
-    server: 141.253.118.174
-    port: 80
-
-  - name: "法国-064-Fly.io, Inc."
-    type: http
-    server: 149.248.215.39
-    port: 8081
-    tls: true
-
-  - name: "法国-065-机房"
-    type: http
-    server: 37.187.74.125
-    port: 80
-
-  - name: "法国-066-Contabo GmbH"
-    type: http
-    server: 173.212.246.157
-    port: 3128
-    tls: true
-
-  - name: "波兰-067-Korbank S. A."
-    type: http
-    server: 79.110.200.27
-    port: 8000
-
-  - name: "波兰-068-Korbank S. A."
-    type: http
-    server: 79.110.200.148
-    port: 8081
-
-  - name: "波兰-069-IDEALAN Spolka Jawna - Piekarski"
-    type: http
-    server: 178.212.144.7
-    port: 80
-
-  - name: "波兰-070-Korbank S. A."
-    type: http
-    server: 79.110.202.131
-    port: 8081
-
-  - name: "瑞士-071-M247 Europe SRL"
-    type: http
-    server: 84.39.112.144
-    port: 3128
-
-  - name: "秘鲁-072-America Movil Peru S.A.C."
-    type: http
-    server: 190.119.132.62
-    port: 80
-
-  - name: "秘鲁-073-America Movil Peru S.A.C."
-    type: http
-    server: 190.119.132.61
-    port: 80
-
-  - name: "美国-074-机房"
-    type: http
-    server: 142.93.202.130
-    port: 3128
-
-  - name: "美国-075-Azure"
-    type: http
-    server: 51.141.175.118
-    port: 80
-
-  - name: "美国-076-Black Mesa Corporation"
-    type: http
-    server: 23.247.136.254
-    port: 80
-
-  - name: "美国-077-Beijing Primezone Technologies Inc."
-    type: http
-    server: 117.122.240.82
-    port: 3338
-    tls: true
-
-  - name: "美国-078-阿里云"
-    type: http
-    server: 47.85.51.197
-    port: 1080
-    tls: true
-
-  - name: "美国-079-NetLab Global"
-    type: http
-    server: 154.64.232.35
-    port: 8080
-    tls: true
-
-  - name: "美国-080-Azure"
-    type: http
-    server: 172.200.72.48
-    port: 80
-
-  - name: "美国-081-Azure"
-    type: http
-    server: 52.229.30.3
-    port: 80
-
-  - name: "美国-082-Azure"
+  - name: "美国-018-Microsoft Corporation"
     type: http
     server: 20.127.128.70
     port: 8080
-    tls: true
-
-  - name: "芬兰-083-机房"
-    type: http
-    server: 65.109.213.99
-    port: 1080
-    tls: true
-
-  - name: "英国-084-Kaopu Cloud HK Limited"
-    type: http
-    server: 38.60.196.214
-    port: 80
-
-  - name: "英国-085-机房"
-    type: http
-    server: 46.101.95.183
-    port: 8888
-    tls: true
-
-  - name: "越南-086-VietNam Post and Telecom Corporation"
-    type: http
-    server: 113.160.132.26
-    port: 8080
-    tls: true
-
-  - name: "韩国-087-Korea Telecom"
-    type: http
-    server: 221.153.92.39
-    port: 80
-
-  - name: "韩国-088-Korea Telecom"
-    type: http
-    server: 183.109.79.187
-    port: 80
-
-  - name: "韩国-089-Korea Telecom"
-    type: http
-    server: 112.184.234.229
-    port: 80
-
-  - name: "韩国-090-Korea Telecom"
-    type: http
-    server: 220.116.142.217
-    port: 80
-
-  - name: "韩国-091-SK宽频"
-    type: http
-    server: 1.231.81.166
-    port: 3128
-    tls: true
-
-  - name: "韩国-092-腾讯云"
-    type: http
-    server: 43.155.138.148
-    port: 3128
-
-  - name: "香港-093-Hong Kong Cable Television Limited"
-    type: http
-    server: 218.252.192.228
-    port: 80
-
-  - name: "香港-094-M247 Europe SRL"
-    type: http
-    server: 193.239.86.180
-    port: 80
-
-  - name: "香港-095-中国电信"
-    type: http
-    server: 203.19.38.114
-    port: 1080
-
-  - name: "香港-096-阿里云"
-    type: http
-    server: 47.238.134.126
-    port: 8291
