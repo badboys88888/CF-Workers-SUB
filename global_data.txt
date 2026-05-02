@@ -1,0 +1,128 @@
+一、JSON 格式（global_data.json）
+适用场景
+跨语言使用（Python、JavaScript、Java、Go 等）
+
+配置文件、API 数据交换
+
+不需要在代码中硬编码
+使用方法
+1. 在 Python 中读取
+
+
+import json
+
+# 读取 JSON 文件
+with open('global_data.json', 'r', encoding='utf-8') as f:
+    global_data = json.load(f)
+
+# 引用数据
+countries = global_data["国家"]
+china_provinces = global_data["中国省份"]
+china_cities = global_data["中国城市"]
+world_cities = global_data["全球城市"]
+operators = global_data["运营商"]
+
+# 示例：判断某个地方是否属于中国省份
+place = "广东省"
+if place in china_provinces:
+    print(f"{place} 是中国的一个省份")
+. 在 JavaScript（Node.js）中读取
+const fs = require('fs');
+const globalData = JSON.parse(fs.readFileSync('global_data.json', 'utf8'));
+
+console.log(globalData["国家"]);
+console.log(globalData["中国城市"]);
+
+在浏览器中（通过 fetch）
+fetch('global_data.json')
+  .then(response => response.json())
+  .then(data => {
+      console.log(data["运营商"]);
+  });
+
+4. 在其他语言（Java、Go 等）
+使用各自语言的标准 JSON 解析库，将文件解析为 Map/Dict 结构即可。
+
+二、Python 格式（global_data.py）
+适用场景
+仅在 Python 项目中使用
+
+希望直接导入变量，无需每次读取文件
+
+可以方便地修改和扩展数据
+
+使用方法
+方式一：直接导入（推荐）
+将 global_data.py 放在您的 Python 项目目录下（或 Python 路径中），然后：
+
+from global_data import global_data
+
+# 使用数据
+countries = global_data["国家"]
+china_provinces = global_data["中国省份"]
+china_cities = global_data["中国城市"]
+world_cities = global_data["全球城市"]
+operators = global_data["运营商"]
+
+print(f"中国有 {len(china_provinces)} 个省级行政区")
+# 在 global_data.py 末尾添加以下代码（可选）
+if __name__ == "__main__":
+    print("全球国家数量:", len(global_data["国家"]))
+    print("中国省份:", global_data["中国省份"][:5])  # 打印前5个
+注意事项
+确保 global_data.py 中的变量名是 global_data（与您保存的一致）。
+
+如果您的文件名不是 global_data.py，例如 data.py，则导入语句相应改为 from data import global_data。
+三、归属地匹配示例
+无论您使用 JSON 还是 Python 格式，加载后的 global_data 字典结构完全相同。以下是一些常见的归属地匹配逻辑：
+1. 判断一个地点是否是中国省份或直辖市
+place = "广东省"
+if place in global_data["中国省份"]:
+    print(f"{place} 是中国省级行政区")
+2. 判断一个城市是否是中国城市（地级市/自治州/地区等）
+city = "苏州市"
+if city in global_data["中国城市"]:
+    print(f"{city} 是中国的地级市（或同级行政单位）")
+3. 判断一个城市是否属于全球其他主要城市（不含中国）
+city = "纽约"
+if city in global_data["全球城市"]:
+    print(f"{city} 是全球主要城市（非中国）")
+
+4. 判断运营商是否在列表中
+carrier = "中国移动"
+if carrier in global_data["运营商"]:
+    print(f"{carrier} 在运营商列表中")
+5. 综合归属地判断（例如从用户数据中提取国家、城市、运营商）
+def check_location(country, city, carrier):
+    if country in global_data["国家"]:
+        print(f"国家 {country} 是已知国家")
+    if city in global_data["中国城市"]:
+        print(f"城市 {city} 属于中国")
+    elif city in global_data["全球城市"]:
+        print(f"城市 {city} 是国外主要城市")
+    if carrier in global_data["运营商"]:
+        print(f"运营商 {carrier} 已收录")
+四、扩展与维护建议
+增加新数据：根据实际业务，您可以直接修改 JSON 文件或 Python 文件，添加新的城市、运营商等。注意保持格式正确。
+
+去重检查：目前“中国城市”和“全球城市”没有重叠（中国城市不包含在“全球城市”中），但如果您添加新数据，注意避免重复。
+
+性能优化：如果数据量很大且需要频繁查找，可以将列表转换为集合（set）来提高查找速度。例如：
+china_city_set = set(global_data["中国城市"])
+if city in china_city_set:
+    ...
+五、常见问题
+Q1：为什么 JSON 文件中没有注释？
+A：JSON 标准不支持注释。如果您需要保留注释，请使用 Python 格式（允许 # 注释）。
+
+Q2：我能否只保留需要的部分（比如只想要中国城市和运营商）？
+A：可以。您可以直接编辑 JSON 或 Python 文件，删除不需要的键值对。
+
+Q3：如何确保中文字符不乱码？
+A：保存文件时请使用 UTF-8 编码（现代编辑器默认）。在 Python 中使用 encoding='utf-8' 打开文件。
+
+Q4：我想把数据嵌入到代码中而不依赖外部文件，怎么办？
+A：直接将 Python 文件中的 global_data 变量复制到您的脚本中即可，但会显得冗长。推荐保持外部文件。
+
+
+
