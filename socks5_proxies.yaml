@@ -17,9 +17,15 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 美国-加利福尼亚-47.77.216.82:1080
+- name: 美国-俄勒冈-16.148.30.199:1080
   type: socks5
-  server: 47.77.216.82
+  server: 16.148.30.199
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 法国-法兰西岛-52.47.115.41:1080
+  type: socks5
+  server: 52.47.115.41
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -29,9 +35,15 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 美国-俄勒冈-16.148.30.199:1080
+- name: 德国-Hessen-104.128.138.186:1080
   type: socks5
-  server: 16.148.30.199
+  server: 104.128.138.186
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 德国-Hessen-63.181.83.210:1080
+  type: socks5
+  server: 63.181.83.210
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -47,29 +59,23 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 德国-Hessen-43.165.6.179:1080
-  type: socks5
-  server: 43.165.6.179
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 德国-Hessen-43.165.6.179:1080
-  type: socks5
-  server: 43.165.6.179
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 俄罗斯-Moskva-158.160.235.69:1080
-  type: socks5
-  server: 158.160.235.69
-  port: 1080
-  udp: true
-  skip-cert-verify: true
 - name: SC-English River-72.56.7.144:1080
   type: socks5
   server: 72.56.7.144
   port: 1080
   udp: true
+  skip-cert-verify: true
+- name: 德国-Hessen-43.165.6.179:1080
+  type: socks5
+  server: 43.165.6.179
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 日本-东京-43.224.34.205:1080
+  type: socks5
+  server: 43.224.34.205
+  port: 1080
+  udp: false
   skip-cert-verify: true
 - name: 印度-Maharashtra-15.207.100.187:1080
   type: socks5
@@ -77,27 +83,21 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 俄罗斯-Moskva-213.219.210.45:1080
-  type: socks5
-  server: 213.219.210.45
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 日本-东京-43.224.34.205:1080
-  type: socks5
-  server: 43.224.34.205
-  port: 1080
-  udp: true
-  skip-cert-verify: true
 - name: 日本-大阪-45.78.51.252:1080
   type: socks5
   server: 45.78.51.252
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 澳大利亚-New South Wales-3.25.192.74:1080
   type: socks5
   server: 3.25.192.74
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 俄罗斯-Sankt-Peterburg-185.164.173.168:1080
+  type: socks5
+  server: 185.164.173.168
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -113,17 +113,23 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
-  type: socks5
-  server: 103.18.132.205
-  port: 1080
-  udp: true
-  skip-cert-verify: true
 - name: 印度尼西亚-Jakarta Raya-108.136.168.3:1080
   type: socks5
   server: 108.136.168.3
   port: 1080
   udp: true
+  skip-cert-verify: true
+- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
+  type: socks5
+  server: 103.18.132.205
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
+  type: socks5
+  server: 103.18.132.205
+  port: 1080
+  udp: false
   skip-cert-verify: true
 - name: 泰国-Krung Thep Maha Nakhon-43.208.10.60:1080
   type: socks5
@@ -131,9 +137,9 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-上海-47.116.187.58:1080
+- name: 泰国-Krung Thep Maha Nakhon-43.208.16.199:1080
   type: socks5
-  server: 47.116.187.58
+  server: 43.208.16.199
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -141,17 +147,23 @@ proxies:
   type: socks5
   server: 47.116.187.58
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 中国-上海-47.116.180.125:1080
   type: socks5
   server: 47.116.180.125
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 中国-广东-120.24.186.212:1080
   type: socks5
   server: 120.24.186.212
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-广东-47.113.219.128:1080
+  type: socks5
+  server: 47.113.219.128
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -159,7 +171,7 @@ proxies:
   type: socks5
   server: 8.163.97.33
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 中国-广东-47.113.219.128:1080
   type: socks5
@@ -167,41 +179,47 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-广东-47.113.219.128:1080
+- name: 乌克兰-Kyiv-5.53.119.134:1080
   type: socks5
-  server: 47.113.219.128
+  server: 5.53.119.134
   port: 1080
-  udp: true
+  udp: false
+  skip-cert-verify: true
+- name: 德国-Hessen-43.165.6.179:1080
+  type: socks5
+  server: 43.165.6.179
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-上海-47.116.187.58:1080
+  type: socks5
+  server: 47.116.187.58
+  port: 1080
+  udp: false
   skip-cert-verify: true
 - name: 美国-佐治亚-132.243.194.11:1080
   type: socks5
   server: 132.243.194.11
   port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 美国-佐治亚-132.243.194.11:1080
-  type: socks5
-  server: 132.243.194.11
-  port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 俄罗斯-Moskva-213.219.210.45:1080
   type: socks5
   server: 213.219.210.45
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
+- name: 美国-佐治亚-132.243.194.11:1080
   type: socks5
-  server: 103.18.132.205
+  server: 132.243.194.11
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: 荷兰-Noord-Holland-5.253.59.171:1080
+- name: KH-Phnom Penh-202.79.26.242:1080
   type: socks5
-  server: 5.253.59.171
+  server: 202.79.26.242
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: KH-Phnom Penh-202.79.26.242:1080
   type: socks5
@@ -209,17 +227,11 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 韩国-Gyeonggi-do-121.133.175.101:1080
+- name: 美国-加利福尼亚-47.77.216.82:1080
   type: socks5
-  server: 121.133.175.101
+  server: 47.77.216.82
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: 荷兰-Noord-Holland-5.253.59.171:1080
-  type: socks5
-  server: 5.253.59.171
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-total: 37
-updated: '2026-05-02 00:41:41'
+total: 39
+updated: '2026-05-02 01:02:39'
