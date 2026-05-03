@@ -5,9 +5,9 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 德国-Sachsen-176.9.62.93:1080
+- name: 德国-Hessen-43.165.6.179:1080
   type: socks5
-  server: 176.9.62.93
+  server: 43.165.6.179
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -17,9 +17,9 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 德国-Hessen-43.165.6.179:1080
+- name: 德国-Sachsen-176.9.62.93:1080
   type: socks5
-  server: 43.165.6.179
+  server: 176.9.62.93
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -29,33 +29,15 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 俄罗斯-Moskva-158.160.235.69:1080
-  type: socks5
-  server: 158.160.235.69
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 美国-佐治亚-135.136.188.42:1080
-  type: socks5
-  server: 135.136.188.42
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 俄罗斯-Sankt-Peterburg-185.164.173.168:1080
-  type: socks5
-  server: 185.164.173.168
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 俄罗斯-Tyumenskaya oblast'-194.67.44.129:1080
-  type: socks5
-  server: 194.67.44.129
-  port: 1080
-  udp: false
-  skip-cert-verify: true
 - name: 日本-大阪-45.78.51.252:1080
   type: socks5
   server: 45.78.51.252
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 韩国-Seoul-teukbyeolsi-43.201.194.57:1080
+  type: socks5
+  server: 43.201.194.57
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -65,11 +47,23 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 美国-佐治亚-132.243.194.11:1080
+- name: 中国-HK-38.190.208.159:1080
   type: socks5
-  server: 132.243.194.11
+  server: 38.190.208.159
   port: 1080
   udp: false
+  skip-cert-verify: true
+- name: 韩国-Seoul-teukbyeolsi-221.133.129.35:1080
+  type: socks5
+  server: 221.133.129.35
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: BD-Dhaka-202.72.232.121:1080
+  type: socks5
+  server: 202.72.232.121
+  port: 1080
+  udp: true
   skip-cert-verify: true
 - name: 中国-上海-47.116.187.58:1080
   type: socks5
@@ -77,21 +71,21 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-Jiangsu-49.77.52.52:1080
+- name: 新加坡-Singapore-8.222.160.1:1080
   type: socks5
-  server: 49.77.52.52
+  server: 8.222.160.1
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-上海-123.206.101.168:1080
+- name: 中国-上海-218.79.166.10:1080
   type: socks5
-  server: 123.206.101.168
+  server: 218.79.166.10
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: 中国-广东-120.24.186.212:1080
+- name: 中国-广东-8.163.97.33:1080
   type: socks5
-  server: 120.24.186.212
+  server: 8.163.97.33
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -101,9 +95,9 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-广东-8.163.97.33:1080
+- name: 中国-北京-140.143.193.41:1080
   type: socks5
-  server: 8.163.97.33
+  server: 140.143.193.41
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -113,21 +107,21 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 韩国-Gyeonggi-do-121.182.218.176:1080
+- name: 中国-Zhejiang-47.118.24.68:1080
   type: socks5
-  server: 121.182.218.176
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 中国-上海-47.100.179.135:1080
-  type: socks5
-  server: 47.100.179.135
+  server: 47.118.24.68
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-北京-140.143.193.41:1080
+- name: 新加坡-Singapore-165.22.110.253:1080
   type: socks5
-  server: 140.143.193.41
+  server: 165.22.110.253
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-Hubei-221.232.56.122:1080
+  type: socks5
+  server: 221.232.56.122
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -143,27 +137,33 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-上海-116.232.217.26:1080
+- name: 中国-上海-124.78.78.27:1080
   type: socks5
-  server: 116.232.217.26
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: BD-Dhaka-202.72.232.121:1080
-  type: socks5
-  server: 202.72.232.121
+  server: 124.78.78.27
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 俄罗斯-Belgorodskaya oblast'-146.158.38.49:1080
+- name: 美国-佐治亚-132.243.194.11:1080
   type: socks5
-  server: 146.158.38.49
+  server: 132.243.194.11
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 俄罗斯-Moskva-213.219.210.45:1080
+- name: 中国-Hainan-221.176.85.229:1080
   type: socks5
-  server: 213.219.210.45
+  server: 221.176.85.229
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-Jiangsu-49.77.52.52:1080
+  type: socks5
+  server: 49.77.52.52
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-广东-14.153.184.40:1080
+  type: socks5
+  server: 14.153.184.40
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -179,5 +179,17 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-total: 30
-updated: '2026-05-03 07:57:49'
+- name: 中国-上海-47.100.179.135:1080
+  type: socks5
+  server: 47.100.179.135
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-广东-120.24.186.212:1080
+  type: socks5
+  server: 120.24.186.212
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+total: 32
+updated: '2026-05-03 12:55:04'
