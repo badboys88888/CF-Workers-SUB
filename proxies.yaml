@@ -4,57 +4,42 @@ proxies:
     server: 45.167.124.71
     port: 999
 
-  - name: "瑞典-002-Fornex Hosting S.L."
-    type: http
-    server: 185.21.11.140
-    port: 1080
-
-  - name: "新加坡-003-OVH SAS"
+  - name: "新加坡-002-OVH SAS"
     type: http
     server: 15.235.131.237
     port: 8080
 
-  - name: "墨西哥-004-Digy Networks"
-    type: http
-    server: 148.230.4.241
-    port: 999
-
-  - name: "哥伦比亚-005-Internexa S.a. E.S.P"
-    type: http
-    server: 179.1.113.113
-    port: 999
-
-  - name: "越南-006-VietNam Post and Telecom Corporation"
+  - name: "越南-003-VietNam Post and Telecom Corporation"
     type: http
     server: 113.160.132.26
     port: 8080
 
-  - name: "美国-007-Alibaba.com LLC"
+  - name: "英国-004-NSFOCUS, Inc."
     type: http
-    server: 47.85.51.197
+    server: 212.58.132.5
+    port: 8888
+
+  - name: "法国-005-OVH SAS"
+    type: http
+    server: 91.121.63.51
     port: 1080
 
-  - name: "Kazakhstan-008-Kcell JSC"
+  - name: "法国-006-CGI GLOBAL LIMITED"
     type: http
-    server: 2.78.60.10
-    port: 3129
+    server: 31.56.48.253
+    port: 26133
 
-  - name: "韩国-009-SK Broadband Co Ltd"
+  - name: "美国-007-NetLab Global"
+    type: http
+    server: 154.64.232.35
+    port: 8080
+
+  - name: "韩国-008-SK Broadband Co Ltd"
     type: http
     server: 1.231.81.166
     port: 3128
 
-  - name: "哥伦比亚-010-Internexa S.a. E.S.P"
+  - name: "法国-009-Contabo GmbH"
     type: http
-    server: 179.1.113.129
-    port: 999
-
-  - name: "中国-011-Beijing Kingsoft Cloud Internet Technology Co"
-    type: http
-    server: 120.92.108.86
-    port: 7890
-
-  - name: "南非-012-Microsoft Corporation"
-    type: http
-    server: 20.164.75.153
-    port: 8080
+    server: 173.212.245.136
+    port: 8888
