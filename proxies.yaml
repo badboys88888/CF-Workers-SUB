@@ -1,45 +1,90 @@
 proxies:
-  - name: "哥伦比亚-001-Sepcom Comunicaciones SAS"
+  - name: "中国-001-Huashu media&Network Limited"
     type: http
-    server: 45.167.124.71
-    port: 999
+    server: 218.108.131.186
+    port: 17890
 
   - name: "新加坡-002-OVH SAS"
     type: http
     server: 15.235.131.237
     port: 8080
 
-  - name: "越南-003-VietNam Post and Telecom Corporation"
+  - name: "印度尼西亚-003-PT Global Media Data Prima"
     type: http
-    server: 113.160.132.26
-    port: 8080
+    server: 103.63.26.231
+    port: 1111
 
-  - name: "英国-004-NSFOCUS, Inc."
+  - name: "Kazakhstan-004-Kcell JSC"
     type: http
-    server: 212.58.132.5
-    port: 8888
+    server: 2.78.60.10
+    port: 3129
 
-  - name: "法国-005-OVH SAS"
+  - name: "墨西哥-005-Digy Networks"
     type: http
-    server: 91.121.63.51
-    port: 1080
+    server: 148.230.4.241
+    port: 999
 
-  - name: "法国-006-CGI GLOBAL LIMITED"
+  - name: "Ecuador-006-Eliana Vanessa Morocho Oña"
     type: http
-    server: 31.56.48.253
-    port: 26133
+    server: 45.239.48.102
+    port: 999
 
-  - name: "美国-007-NetLab Global"
+  - name: "Ecuador-007-IFX Networks Argentina S.R.L"
     type: http
-    server: 154.64.232.35
-    port: 8080
+    server: 181.119.97.24
+    port: 999
 
-  - name: "韩国-008-SK Broadband Co Ltd"
+  - name: "中国-008-Beijing Kingsoft Cloud Internet Technology Co"
+    type: http
+    server: 120.92.108.86
+    port: 7890
+
+  - name: "韩国-009-SK Broadband Co Ltd"
     type: http
     server: 1.231.81.166
     port: 3128
 
-  - name: "法国-009-Contabo GmbH"
+  - name: "南非-010-Microsoft Corporation"
+    type: http
+    server: 20.164.75.153
+    port: 8080
+
+  - name: "Cambodia-011-WiCAM Corporation"
+    type: http
+    server: 49.156.44.114
+    port: 8080
+
+  - name: "韩国-012-Oracle Corporation"
+    type: http
+    server: 193.123.250.39
+    port: 1080
+
+  - name: "法国-013-Contabo GmbH"
     type: http
     server: 173.212.245.136
     port: 8888
+
+  - name: "墨西哥-014-IENTC S de RL de CV"
+    type: http
+    server: 38.49.143.219
+    port: 999
+
+  - name: "哥伦比亚-015-Atenea Telecomunicaciones"
+    type: http
+    server: 45.173.12.140
+    port: 1994
+
+  - name: "秘鲁-016-FICOM TELECOMUNICACIONES"
+    type: http
+    server: 45.166.72.35
+    port: 999
+
+  - name: "美国-017-Microsoft Corporation"
+    type: http
+    server: 20.127.128.70
+    port: 8080
+
+  - name: "香港-018-VMISS Inc"
+    type: http
+    server: 38.207.165.200
+    port: 6005
