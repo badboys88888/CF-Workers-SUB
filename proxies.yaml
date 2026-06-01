@@ -1,5 +1,80 @@
 proxies:
-  - name: "瑞士-001-RouterHosting LLC"
+  - name: "芬兰-001-Chsl ONE LTD"
     type: http
-    server: 45.59.122.132
+    server: 2.27.51.203
+    port: 8080
+
+  - name: "墨西哥-002-Cogent Communications"
+    type: http
+    server: 38.123.220.147
+    port: 999
+
+  - name: "新加坡-003-DigitalOcean, LLC"
+    type: http
+    server: 152.42.239.142
+    port: 3128
+
+  - name: "印度-004-NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED"
+    type: http
+    server: 45.89.106.12
     port: 80
+
+  - name: "印度-005-NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED"
+    type: http
+    server: 45.89.106.12
+    port: 8080
+
+  - name: "泰国-006-Office of Info.Tech. Admin. for Educational Development"
+    type: http
+    server: 202.28.194.139
+    port: 31280
+
+  - name: "瑞典-007-Aeza International LTD"
+    type: http
+    server: 147.45.75.124
+    port: 8080
+
+  - name: "Nicaragua-008-TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA"
+    type: http
+    server: 190.212.131.238
+    port: 3128
+
+  - name: "越南-009-MOBIFONECNTT"
+    type: http
+    server: 137.59.47.73
+    port: 3128
+
+  - name: "美国-010-Oracle Corporation"
+    type: http
+    server: 129.153.7.7
+    port: 60000
+
+  - name: "墨西哥-011-Uninet S.A. de C.V."
+    type: http
+    server: 201.130.96.166
+    port: 3128
+
+  - name: "中国-012-UCLOUD"
+    type: http
+    server: 117.50.248.177
+    port: 1080
+
+  - name: "法国-013-Contabo GmbH"
+    type: http
+    server: 173.212.245.136
+    port: 8888
+
+  - name: "香港-014-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.155.20.204
+    port: 3128
+
+  - name: "Ecuador-015-Eliana Vanessa Morocho Oña"
+    type: http
+    server: 45.239.48.100
+    port: 999
+
+  - name: "菲律宾-016-Globe Telecom"
+    type: http
+    server: 120.28.216.197
+    port: 8082
