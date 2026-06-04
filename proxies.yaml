@@ -1,45 +1,135 @@
 proxies:
-  - name: "荷兰-001-Play2go International Limited"
+  - name: "日本-001-NTT Communications Corporation"
     type: http
-    server: 2.27.21.28
+    server: 180.2.108.38
     port: 8080
 
-  - name: "美国-002-Google LLC"
+  - name: "乌克兰-002-Cogento Backbone Limited"
     type: http
-    server: 34.71.229.255
-    port: 3128
+    server: 176.111.37.5
+    port: 39811
 
   - name: "印度-003-NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED"
     type: http
     server: 45.89.106.12
     port: 80
 
-  - name: "韩国-004-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
-    port: 3128
-
-  - name: "乌克兰-005-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "芬兰-006-Hetzner Online GmbH"
-    type: http
-    server: 65.109.206.22
-    port: 8080
-
-  - name: "新加坡-007-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.156.175.175
-    port: 8080
-
-  - name: "芬兰-008-Chsl ONE LTD"
+  - name: "芬兰-004-Chsl ONE LTD"
     type: http
     server: 2.27.50.150
     port: 8080
 
-  - name: "Kazakhstan-009-Kcell JSC"
+  - name: "俄罗斯-005-UFO Hosting LLC"
     type: http
-    server: 2.78.60.10
-    port: 3129
+    server: 45.153.231.229
+    port: 8080
+
+  - name: "美国-006-IONOS SE"
+    type: http
+    server: 162.222.206.167
+    port: 8080
+
+  - name: "俄罗斯-007-I-servers LTD"
+    type: http
+    server: 185.200.188.234
+    port: 10001
+
+  - name: "乌克兰-008-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "日本-009-InfoSphere"
+    type: http
+    server: 116.80.63.181
+    port: 3172
+
+  - name: "韩国-010-Korea Telecom"
+    type: http
+    server: 175.198.235.18
+    port: 3128
+
+  - name: "香港-011-Aceville Pte.ltd"
+    type: http
+    server: 43.161.239.147
+    port: 8888
+
+  - name: "Syria-012-ISP-TARASSUL"
+    type: http
+    server: 78.155.67.86
+    port: 8080
+
+  - name: "印度-013-NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED"
+    type: http
+    server: 45.89.106.12
+    port: 8080
+
+  - name: "墨西哥-014-Jair Lozano / Intercom Internet"
+    type: http
+    server: 38.210.179.19
+    port: 999
+
+  - name: "墨西哥-015-Cogent Communications"
+    type: http
+    server: 38.123.220.147
+    port: 999
+
+  - name: "美国-016-H4Y Technologies LLC"
+    type: http
+    server: 192.154.230.206
+    port: 8080
+
+  - name: "越南-017-KIENPHONGITS"
+    type: http
+    server: 202.47.87.5
+    port: 9090
+
+  - name: "美国-018-HostPapa"
+    type: http
+    server: 104.168.96.172
+    port: 1888
+
+  - name: "芬兰-019-xorek.cloud International LTD"
+    type: http
+    server: 178.236.244.215
+    port: 8080
+
+  - name: "芬兰-020-xorek.cloud International LTD"
+    type: http
+    server: 150.241.70.128
+    port: 8080
+
+  - name: "日本-021-InfoSphere"
+    type: http
+    server: 116.80.48.138
+    port: 3172
+
+  - name: "Dominican Republic-022-Cogent Communications"
+    type: http
+    server: 38.75.81.21
+    port: 9992
+
+  - name: "Bulgaria-023-Comnet Bulgaria Holding Ltd."
+    type: http
+    server: 185.78.37.238
+    port: 8080
+
+  - name: "哥伦比亚-024-TV&MÁS S.A.S"
+    type: http
+    server: 38.191.212.83
+    port: 999
+
+  - name: "智利-025-Grupo ZGH SpA"
+    type: http
+    server: 38.7.195.50
+    port: 999
+
+  - name: "加拿大-026-Microsoft Corporation"
+    type: http
+    server: 4.204.10.60
+    port: 9944
+
+  - name: "西班牙-027-MasMovil Access Network"
+    type: http
+    server: 81.0.49.104
+    port: 20500
