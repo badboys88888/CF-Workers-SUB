@@ -1,150 +1,87 @@
 proxies:
-  - name: "加拿大-001-OVH SAS"
+  - name: "美国-001-ReliableSite.Net LLC"
     type: http
-    server: 192.99.8.15
-    port: 8850
+    server: 199.127.62.89
+    port: 3129
 
-  - name: "日本-002-NTT Communications Corporation"
+  - name: "土耳其-002-Turk Telekomunikasyon Anonim Sirketi"
     type: http
-    server: 180.2.108.38
+    server: 95.3.69.222
     port: 8080
 
-  - name: "韩国-003-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "俄罗斯-003-Radist LTD"
+    type: http
+    server: 91.233.223.147
+    port: 3128
+
+  - name: "印度-004-Syscon Infoway Pvt. Ltd."
+    type: http
+    server: 103.209.36.58
+    port: 8080
+
+  - name: "韩国-005-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
+    port: 3128
+
+  - name: "荷兰-006-Servers Tech Fzco"
+    type: http
+    server: 88.210.11.216
+    port: 8989
+
+  - name: "俄罗斯-007-JSC TIMEWEB"
+    type: http
+    server: 185.233.186.88
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "韩国-008-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.128.145.26
     port: 1080
 
-  - name: "乌克兰-004-Cogento Backbone Limited"
+  - name: "美国-009-Ace Data Centers II"
     type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "俄罗斯-005-LLC Nauka-Svyaz"
-    type: http
-    server: 84.47.150.125
+    server: 2.26.87.216
     port: 1080
 
-  - name: "德国-006-Oracle Corporation"
-    type: http
-    server: 138.2.156.101
-    port: 3128
-
-  - name: "德国-007-DigitalOcean, LLC"
-    type: http
-    server: 165.227.133.230
-    port: 8888
-
-  - name: "澳大利亚-008-Southern Phone Company Ltd"
-    type: http
-    server: 203.30.9.8
-    port: 8443
-
-  - name: "乌克兰-009-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "芬兰-010-Chsl ONE LTD"
-    type: http
-    server: 2.27.50.150
-    port: 8080
-
-  - name: "瑞典-011-Data Communication & Software i Grondal Aktiebolag"
-    type: http
-    server: 185.106.183.85
-    port: 8080
-
-  - name: "印度-012-NETRANEX TECHNOLOGIES (INDIA) PRIVATE LIMITED"
-    type: http
-    server: 45.89.106.12
-    port: 8080
-
-  - name: "英国-013-Global Connectivity Solutions LLP"
-    type: http
-    server: 147.45.179.108
-    port: 1080
-
-  - name: "土耳其-014-TURKSAT"
-    type: http
-    server: 94.54.168.129
-    port: 3310
-
-  - name: "南非-015-Microsoft Corporation"
-    type: http
-    server: 4.221.164.109
-    port: 443
-
-  - name: "日本-016-Amazon Technologies Inc."
-    type: http
-    server: 18.181.150.57
-    port: 8080
-
-  - name: "新加坡-017-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.156.175.175
-    port: 8080
-
-  - name: "美国-018-Ace Data Centers II"
-    type: http
-    server: 2.26.3.66
-    port: 8080
-
-  - name: "荷兰-019-NetCrafters OU"
-    type: http
-    server: 62.60.245.126
-    port: 8080
-
-  - name: "南非-020-Microsoft Corporation"
+  - name: "南非-010-Microsoft Corporation"
     type: http
     server: 4.221.164.109
     port: 80
 
-  - name: "越南-021-VNPT"
+  - name: "美国-011-Amazon Technologies Inc."
     type: http
-    server: 113.176.92.71
-    port: 3128
+    server: 3.90.0.161
+    port: 8000
 
-  - name: "俄罗斯-022-LLC Smart Ape"
+  - name: "越南-012-KIENPHONGITS"
     type: http
-    server: 188.127.242.83
-    port: 8080
+    server: 202.47.87.5
+    port: 9090
 
-  - name: "荷兰-023-PUSHPKT OU"
-    type: http
-    server: 37.49.224.15
-    port: 3128
-
-  - name: "Kazakhstan-024-Kcell JSC"
-    type: http
-    server: 2.78.60.10
-    port: 3129
-
-  - name: "瑞典-025-Aeza International LTD"
-    type: http
-    server: 147.45.75.124
-    port: 8080
-
-  - name: "美国-026-Oracle Corporation"
-    type: http
-    server: 207.211.161.235
-    port: 8888
-
-  - name: "印度-027-Oracle Corporation"
-    type: http
-    server: 141.148.200.249
-    port: 1080
-
-  - name: "越南-028-MOBIFONECNTT"
+  - name: "越南-013-MOBIFONECNTT"
     type: http
     server: 137.59.47.73
     port: 3128
 
-  - name: "罗马尼亚-029-IP Solus Inc"
+  - name: "南非-014-Microsoft Corporation"
     type: http
-    server: 185.141.26.131
-    port: 3128
+    server: 4.221.164.109
+    port: 9443
 
-  - name: "日本-030-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-015-Internet Utilities NA LLC"
     type: http
-    server: 43.153.158.48
-    port: 8080
+    server: 199.68.217.62
+    port: 7890
+
+  - name: "Kazakhstan-016-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "哥伦比亚-017-TV AZTECA SUCURSAL COLOMBIA"
+    type: http
+    server: 177.93.33.55
+    port: 999
