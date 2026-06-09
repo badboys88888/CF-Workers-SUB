@@ -1,35 +1,60 @@
 proxies:
-  - name: "韩国-001-SK Broadband Co Ltd"
+  - name: "美国-001-Input Output Flood LLC"
     type: http
-    server: 1.231.81.166
+    server: 104.161.37.187
     port: 3128
 
-  - name: "印度-002-Oracle Corporation"
+  - name: "香港-002-Aceville Pte.ltd"
     type: http
-    server: 152.67.191.232
-    port: 6800
+    server: 43.161.239.147
+    port: 11090
 
-  - name: "泰国-003-Office of Info.Tech. Admin. for Educational Development"
+  - name: "荷兰-003-PUSHPKT OU"
     type: http
-    server: 202.28.194.139
-    port: 31280
+    server: 117.55.203.161
+    port: 8899
 
   - name: "德国-004-Contabo GmbH"
     type: http
     server: 167.86.95.198
     port: 3128
 
-  - name: "墨西哥-005-Digy Networks"
+  - name: "罗马尼亚-005-IP Solus Inc"
     type: http
-    server: 148.230.4.241
-    port: 999
+    server: 185.141.26.131
+    port: 3128
 
-  - name: "Ecuador-006-Eliana Vanessa Morocho Oña"
+  - name: "荷兰-006-Private Customer"
     type: http
-    server: 45.239.48.100
-    port: 999
+    server: 151.243.153.157
+    port: 8118
 
-  - name: "秘鲁-007-Fiber Digital S.R.L"
+  - name: "巴基斯坦-007-Khawaja Mohammad Owais"
     type: http
-    server: 45.189.118.192
-    port: 999
+    server: 103.174.97.95
+    port: 9999
+
+  - name: "德国-008-Oracle Corporation"
+    type: http
+    server: 138.2.156.101
+    port: 3128
+
+  - name: "南非-009-Microsoft Corporation"
+    type: http
+    server: 20.33.10.132
+    port: 80
+
+  - name: "中国-010-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.213.187
+    port: 8080
+
+  - name: "越南-011-VNPT"
+    type: http
+    server: 113.176.92.71
+    port: 3128
+
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.209.163
+    port: 9999
