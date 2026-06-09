@@ -1,27 +1,15 @@
 proxies:
-- name: 美国-佛罗里达-23.175.248.21:1080
+- name: 乌克兰-Kyiv-5.53.119.134:1080
   type: socks5
-  server: 23.175.248.21
+  server: 5.53.119.134
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 德国-Hessen-43.165.6.179:1080
+- name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
   type: socks5
-  server: 43.165.6.179
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-HK-8.210.54.203:1080
-  type: socks5
-  server: 8.210.54.203
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 韩国-Gyeonggi-do-121.133.175.101:1080
-  type: socks5
-  server: 121.133.175.101
+  server: 115.137.99.234
   port: 1080
   udp: true
   skip-cert-verify: true
-total: 4
-updated: '2026-06-08 09:25:18'
+total: 2
+updated: '2026-06-09 08:20:09'
