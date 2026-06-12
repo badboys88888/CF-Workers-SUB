@@ -1,50 +1,135 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "日本-001-NTT Communications Corporation"
+    type: http
+    server: 180.2.108.38
+    port: 8080
+
+  - name: "韩国-002-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
+    port: 3128
+
+  - name: "美国-003-Google LLC"
     type: http
     server: 34.71.229.255
     port: 3128
 
-  - name: "乌克兰-002-Cogento Backbone Limited"
+  - name: "芬兰-004-Hetzner Online GmbH"
     type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "越南-003-VietNam Post and Telecom Corporation"
-    type: http
-    server: 113.160.132.26
+    server: 77.42.127.4
     port: 8080
 
-  - name: "日本-004-InfoSphere"
+  - name: "罗马尼亚-005-IP Solus Inc"
     type: http
-    server: 116.80.64.3
+    server: 185.141.26.131
+    port: 3128
+
+  - name: "俄罗斯-006-Moscow Local Telephone Network (OAO MGTS)"
+    type: http
+    server: 95.165.152.252
+    port: 3128
+
+  - name: "日本-007-InfoSphere"
+    type: http
+    server: 116.80.92.228
     port: 3172
 
-  - name: "印度尼西亚-005-DIGITNET"
+  - name: "日本-008-InfoSphere"
     type: http
-    server: 202.154.18.72
-    port: 8084
-
-  - name: "瑞士-006-Infomaniak Network SA"
-    type: http
-    server: 195.15.201.180
-    port: 1080
-
-  - name: "南非-007-Microsoft Corporation"
-    type: http
-    server: 4.221.164.109
-    port: 9443
-
-  - name: "中国-008-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.116.181.146
-    port: 8081
+    server: 116.80.63.155
+    port: 3172
 
   - name: "日本-009-InfoSphere"
+    type: http
+    server: 116.80.48.236
+    port: 3172
+
+  - name: "墨西哥-010-Digy Networks S.A De C.V."
+    type: http
+    server: 148.230.4.241
+    port: 999
+
+  - name: "日本-011-InfoSphere"
     type: http
     server: 116.80.48.17
     port: 3172
 
-  - name: "日本-010-InfoSphere"
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.210.176
+    port: 8080
+
+  - name: "德国-013-Hetzner Online GmbH"
+    type: http
+    server: 49.12.219.42
+    port: 8000
+
+  - name: "德国-014-Contabo GmbH"
+    type: http
+    server: 167.86.95.198
+    port: 3128
+
+  - name: "中国-015-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.109.110.100
+    port: 8089
+
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.214.192
+    port: 6379
+
+  - name: "芬兰-017-Global Connectivity Solutions LLP"
+    type: http
+    server: 81.177.214.151
+    port: 8080
+
+  - name: "马来西亚-018-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.250.155.254
+    port: 8004
+
+  - name: "乌克兰-019-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "日本-020-InfoSphere"
+    type: http
+    server: 116.80.64.3
+    port: 3172
+
+  - name: "日本-021-InfoSphere"
+    type: http
+    server: 116.80.81.108
+    port: 3172
+
+  - name: "日本-022-InfoSphere"
     type: http
     server: 116.80.63.47
     port: 3172
+
+  - name: "香港-023-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.134.126
+    port: 3129
+
+  - name: "日本-024-InfoSphere"
+    type: http
+    server: 116.80.62.226
+    port: 3172
+
+  - name: "日本-025-InfoSphere"
+    type: http
+    server: 116.80.91.161
+    port: 3172
+
+  - name: "哥伦比亚-026-Internexa S.a. E.S.P"
+    type: http
+    server: 179.1.113.113
+    port: 999
+
+  - name: "智利-027-Grupo ZGH SpA"
+    type: http
+    server: 38.7.195.51
+    port: 999
