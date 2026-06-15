@@ -1,40 +1,20 @@
 proxies:
-  - name: "荷兰-001-Timeweb, LLP"
+  - name: "韩国-001-SK Broadband Co Ltd"
     type: http
-    server: 185.11.134.227
-    port: 8443
+    server: 1.231.81.166
+    port: 3128
 
-  - name: "芬兰-002-U1 DIGITAL SERVICES LTD"
+  - name: "罗马尼亚-002-IP Solus Inc"
+    type: http
+    server: 185.141.26.131
+    port: 3128
+
+  - name: "芬兰-003-U1 DIGITAL SERVICES LTD"
     type: http
     server: 64.188.125.187
     port: 3128
 
-  - name: "香港-003-Alibaba Cloud LLC"
+  - name: "德国-004-DigitalOcean, LLC"
     type: http
-    server: 47.52.223.161
-    port: 5872
-
-  - name: "俄罗斯-004-Moscow Local Telephone Network (OAO MGTS)"
-    type: http
-    server: 95.165.152.252
-    port: 3128
-
-  - name: "德国-005-Contabo GmbH"
-    type: http
-    server: 167.86.95.198
-    port: 3128
-
-  - name: "俄罗斯-006-PJSC Moscow city telephone network"
-    type: http
-    server: 195.9.238.37
-    port: 8080
-
-  - name: "越南-007-MOBIFONECNTT"
-    type: http
-    server: 137.59.47.73
-    port: 3128
-
-  - name: "韩国-008-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
-    port: 3128
+    server: 164.92.165.209
+    port: 18080
