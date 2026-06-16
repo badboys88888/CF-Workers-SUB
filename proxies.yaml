@@ -1,20 +1,20 @@
 proxies:
-  - name: "韩国-001-SK Broadband Co Ltd"
+  - name: "土耳其-001-Turk Telekomunikasyon Anonim Sirketi"
     type: http
-    server: 1.231.81.166
-    port: 3128
+    server: 95.3.69.222
+    port: 8080
 
-  - name: "罗马尼亚-002-IP Solus Inc"
+  - name: "香港-002-Alibaba Cloud LLC"
     type: http
-    server: 185.141.26.131
-    port: 3128
+    server: 47.238.130.212
+    port: 8080
 
-  - name: "芬兰-003-U1 DIGITAL SERVICES LTD"
+  - name: "中国-003-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 64.188.125.187
-    port: 3128
+    server: 47.121.133.212
+    port: 4006
 
-  - name: "德国-004-DigitalOcean, LLC"
+  - name: "中国-004-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 164.92.165.209
-    port: 18080
+    server: 120.25.189.254
+    port: 8081
