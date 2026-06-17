@@ -1,20 +1,20 @@
 proxies:
-  - name: "土耳其-001-Turk Telekomunikasyon Anonim Sirketi"
+  - name: "芬兰-001-U1 DIGITAL SERVICES LTD"
     type: http
-    server: 95.3.69.222
-    port: 8080
+    server: 64.188.125.187
+    port: 3128
 
-  - name: "香港-002-Alibaba Cloud LLC"
+  - name: "罗马尼亚-002-IP Solus Inc"
     type: http
-    server: 47.238.130.212
-    port: 8080
+    server: 185.141.26.131
+    port: 3128
 
-  - name: "中国-003-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "俄罗斯-003-JSC TIMEWEB"
     type: http
-    server: 47.121.133.212
-    port: 4006
+    server: 72.56.238.99
+    port: 9090
 
-  - name: "中国-004-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "法国-004-Contabo GmbH"
     type: http
-    server: 120.25.189.254
-    port: 8081
+    server: 173.212.237.47
+    port: 3128
