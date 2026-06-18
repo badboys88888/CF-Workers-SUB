@@ -1,20 +1,67 @@
 proxies:
-  - name: "芬兰-001-U1 DIGITAL SERVICES LTD"
+  - name: "日本-001-NTT Communications Corporation"
     type: http
-    server: 64.188.125.187
-    port: 3128
+    server: 180.2.108.38
+    port: 8080
 
-  - name: "罗马尼亚-002-IP Solus Inc"
-    type: http
-    server: 185.141.26.131
-    port: 3128
-
-  - name: "俄罗斯-003-JSC TIMEWEB"
-    type: http
-    server: 72.56.238.99
-    port: 9090
-
-  - name: "法国-004-Contabo GmbH"
+  - name: "法国-002-Contabo GmbH"
     type: http
     server: 173.212.237.47
     port: 3128
+
+  - name: "荷兰-003-Play2go International Limited"
+    type: http
+    server: 45.84.222.25
+    port: 1080
+
+  - name: "德国-004-Senko Digital LLC"
+    type: http
+    server: 144.31.63.226
+    port: 3128
+
+  - name: "台湾-005-Sony Network Taiwan Limited"
+    type: http
+    server: 219.84.152.65
+    port: 3128
+
+  - name: "德国-006-Hetzner Online AG"
+    type: http
+    server: 91.107.182.124
+    port: 82
+
+  - name: "俄罗斯-007-Ihor Hosting LTD"
+    type: http
+    server: 185.200.188.234
+    port: 10001
+
+  - name: "德国-008-Oracle Corporation"
+    type: http
+    server: 138.2.156.101
+    port: 3128
+
+  - name: "乌克兰-009-Maxnet LLC"
+    type: http
+    server: 31.202.84.127
+    port: 38777
+
+  - name: "南非-010-Microsoft Corporation"
+    type: http
+    server: 4.221.164.109
+    port: 80
+
+  - name: "香港-011-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.130.212
+    port: 8008
+
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.214.192
+    port: 80
+
+  - name: "英国-013-Iomart Cloud Services Limited"
+    type: http
+    server: 81.168.119.85
+    port: 443
+    tls: true
+    skip-cert-verify: true
