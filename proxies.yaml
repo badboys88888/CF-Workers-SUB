@@ -1,45 +1,45 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "日本-001-NTT Communications Corporation"
     type: http
-    server: 34.71.229.255
+    server: 180.2.108.38
+    port: 8080
+
+  - name: "荷兰-002-Eurofiber Nederland BV"
+    type: http
+    server: 144.178.199.118
+    port: 8443
+
+  - name: "韩国-003-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
     port: 3128
 
-  - name: "罗马尼亚-002-IP Solus Inc"
+  - name: "罗马尼亚-004-IP Solus Inc"
     type: http
     server: 185.141.26.131
     port: 3128
 
-  - name: "德国-003-OC NETWORKS LIMITED"
+  - name: "俄罗斯-005-Moscow Local Telephone Network (OAO MGTS)"
     type: http
-    server: 95.85.252.153
-    port: 21064
-
-  - name: "荷兰-004-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.9
+    server: 95.165.152.252
     port: 3128
 
-  - name: "新加坡-005-Tencent Cloud Computing (Beijing) Co"
+  - name: "俄罗斯-006-Radist LTD"
     type: http
-    server: 129.226.92.241
-    port: 80
-
-  - name: "日本-006-Oracle Corporation"
-    type: http
-    server: 168.110.52.228
+    server: 91.233.223.147
     port: 3128
 
-  - name: "德国-007-Oracle Corporation"
+  - name: "俄罗斯-007-Ihor Hosting LTD"
     type: http
-    server: 138.2.156.101
-    port: 3128
+    server: 185.200.188.234
+    port: 10001
 
   - name: "日本-008-InfoSphere"
     type: http
-    server: 116.80.50.48
+    server: 116.80.64.7
     port: 3172
 
-  - name: "荷兰-009-Timeweb, LLP"
+  - name: "新加坡-009-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 72.56.87.46
-    port: 3128
+    server: 47.237.113.119
+    port: 8181
