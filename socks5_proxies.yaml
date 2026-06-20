@@ -1,33 +1,45 @@
 proxies:
-- name: 韩国-Seoul-teukbyeolsi-119.66.210.154:1080
+- name: 美国-佛罗里达-23.175.248.21:1080
   type: socks5
-  server: 119.66.210.154
+  server: 23.175.248.21
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
+- name: 德国-Bayern-116.203.131.36:1080
   type: socks5
-  server: 1.176.45.216
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 中国-广东-106.52.232.134:1080
-  type: socks5
-  server: 106.52.232.134
+  server: 116.203.131.36
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-北京-140.143.193.41:1080
+- name: 中国-Zhejiang-112.124.108.67:1080
   type: socks5
-  server: 140.143.193.41
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-Zhejiang-122.224.198.218:1080
-  type: socks5
-  server: 122.224.198.218
+  server: 112.124.108.67
   port: 1080
   udp: true
   skip-cert-verify: true
-total: 5
-updated: '2026-06-19 09:32:43'
+- name: 中国-北京-106.13.48.221:1080
+  type: socks5
+  server: 106.13.48.221
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-北京-117.175.168.195:1080
+  type: socks5
+  server: 117.175.168.195
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 中国-上海-123.206.101.168:1080
+  type: socks5
+  server: 123.206.101.168
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 韩国-Seoul-teukbyeolsi-132.226.229.220:1080
+  type: socks5
+  server: 132.226.229.220
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+total: 7
+updated: '2026-06-20 08:16:06'
