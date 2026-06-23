@@ -1,9 +1,9 @@
 proxies:
-- name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
+- name: 韩国-Gyeonggi-do-121.133.175.101:1080
   type: socks5
-  server: 1.176.45.216
+  server: 121.133.175.101
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 total: 1
-updated: '2026-06-22 10:34:45'
+updated: '2026-06-23 08:16:35'
