@@ -1,20 +1,60 @@
 proxies:
-  - name: "韩国-001-SK Broadband Co Ltd"
+  - name: "日本-001-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 1.231.81.166
+    server: 43.153.182.147
     port: 3128
 
   - name: "日本-002-Shenzhen Tencent Computer Systems Company Limited"
     type: http
+    server: 43.133.169.167
+    port: 3128
+
+  - name: "日本-003-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.199.44
+    port: 3128
+
+  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
     server: 43.167.245.99
     port: 3128
 
-  - name: "日本-003-InfoSphere"
+  - name: "日本-005-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 116.80.50.99
-    port: 3172
+    server: 43.167.187.233
+    port: 3128
 
-  - name: "泰国-004-Siamdata Communication Co., ltd."
+  - name: "日本-006-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 45.136.253.145
+    server: 43.167.187.107
+    port: 3128
+
+  - name: "日本-007-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.214.133
+    port: 3128
+
+  - name: "日本-008-Aceville Pte.ltd"
+    type: http
+    server: 43.133.15.47
+    port: 3128
+
+  - name: "日本-009-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.213.156
+    port: 3128
+
+  - name: "俄罗斯-010-Radist LTD"
+    type: http
+    server: 91.233.223.147
+    port: 3128
+
+  - name: "日本-011-Aceville Pte.ltd"
+    type: http
+    server: 43.133.1.198
+    port: 3128
+
+  - name: "日本-012-Aceville Pte.ltd"
+    type: http
+    server: 43.133.30.18
     port: 3128
