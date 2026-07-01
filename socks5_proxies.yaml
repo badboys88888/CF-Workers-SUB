@@ -1,21 +1,21 @@
 proxies:
-- name: 中国-Shaanxi-106.36.197.230:1080
+- name: 美国-佛罗里达-23.175.248.21:1080
   type: socks5
-  server: 106.36.197.230
+  server: 23.175.248.21
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
+  type: socks5
+  server: 103.18.132.205
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-广东-106.52.232.134:1080
+- name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
   type: socks5
-  server: 106.52.232.134
+  server: 115.137.99.234
   port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-上海-47.100.179.135:1080
-  type: socks5
-  server: 47.100.179.135
-  port: 1080
-  udp: false
+  udp: true
   skip-cert-verify: true
 total: 3
-updated: '2026-06-29 09:28:44'
+updated: '2026-07-01 08:49:28'
