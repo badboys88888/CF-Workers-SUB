@@ -1,17 +1,17 @@
 proxies:
-  - name: "印度-001-Contabo Asia Private Limited"
+  - name: "英国-001-FranTech Solutions"
     type: http
-    server: 217.217.249.12
+    server: 104.194.148.188
     port: 3128
 
-  - name: "日本-002-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "瑞士-002-Geronimo Ramirez Computer Network"
     type: http
-    server: 43.133.169.167
+    server: 185.191.239.248
     port: 3128
 
   - name: "日本-003-Aceville Pte.ltd"
     type: http
-    server: 43.133.15.47
+    server: 43.133.30.18
     port: 3128
 
   - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
@@ -21,20 +21,55 @@ proxies:
 
   - name: "日本-005-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 43.167.199.44
+    server: 43.167.187.107
     port: 3128
 
   - name: "日本-006-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 43.167.187.107
+    server: 43.167.199.44
     port: 3128
 
-  - name: "日本-007-Aceville Pte.ltd"
+  - name: "澳大利亚-007-Akamai Technologies"
     type: http
-    server: 43.133.30.18
+    server: 172.105.177.180
     port: 3128
 
-  - name: "日本-008-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "俄罗斯-008-JSC TIMEWEB"
+    type: http
+    server: 72.56.238.99
+    port: 9090
+
+  - name: "日本-009-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.245.99
+    port: 3128
+
+  - name: "日本-010-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.167.187.233
+    port: 3128
+
+  - name: "日本-011-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.214.133
+    port: 3128
+
+  - name: "日本-012-Aceville Pte.ltd"
+    type: http
+    server: 43.133.1.198
+    port: 3128
+
+  - name: "日本-013-Aceville Pte.ltd"
+    type: http
+    server: 43.133.15.47
+    port: 3128
+
+  - name: "Kazakhstan-014-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "泰国-015-Siamdata Communication Co., ltd."
+    type: http
+    server: 45.136.253.145
     port: 3128
