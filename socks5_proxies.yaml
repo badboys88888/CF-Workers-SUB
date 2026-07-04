@@ -1,9 +1,21 @@
 proxies:
-- name: 中国-广东-106.52.232.134:1080
+- name: 印度尼西亚-Jakarta Raya-103.18.132.205:1080
   type: socks5
-  server: 106.52.232.134
+  server: 103.18.132.205
   port: 1080
   udp: false
+  skip-cert-verify: true
+- name: 韩国-Seoul-teukbyeolsi-119.66.210.154:1080
+  type: socks5
+  server: 119.66.210.154
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
+  type: socks5
+  server: 115.137.99.234
+  port: 1080
+  udp: true
   skip-cert-verify: true
 - name: 中国-广东-47.113.219.128:1080
   type: socks5
@@ -11,11 +23,11 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-Zhejiang-122.224.198.218:1080
+- name: KH-Phnom Penh-202.79.26.242:1080
   type: socks5
-  server: 122.224.198.218
+  server: 202.79.26.242
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-total: 3
-updated: '2026-07-02 08:03:54'
+total: 5
+updated: '2026-07-04 07:34:57'
