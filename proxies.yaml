@@ -1,40 +1,20 @@
 proxies:
-  - name: "乌克兰-001-Cogento Backbone Limited"
+  - name: "美国-001-Amazon Technologies Inc."
     type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "俄罗斯-002-Ihor Hosting LTD"
-    type: http
-    server: 185.200.188.234
-    port: 10001
-
-  - name: "日本-003-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.187.107
+    server: 3.216.29.196
     port: 3128
 
-  - name: "印度-004-Contabo Asia Private Limited"
+  - name: "日本-002-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.13.115
+    port: 3128
+
+  - name: "印度-003-Contabo Asia Private Limited"
     type: http
     server: 217.217.249.12
     port: 3128
 
-  - name: "法国-005-OVH SAS"
+  - name: "越南-004-VietNam Post and Telecom Corporation"
     type: http
-    server: 51.178.253.98
-    port: 80
-
-  - name: "日本-006-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.171.85
-    port: 3128
-
-  - name: "日本-007-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.187.233
-    port: 3128
-
-  - name: "墨西哥-008-Jair Lozano / Intercom Internet"
-    type: http
-    server: 38.210.179.4
-    port: 999
+    server: 203.162.13.222
+    port: 6868
