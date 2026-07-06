@@ -1,60 +1,70 @@
 proxies:
-  - name: "美国-001-Amazon.com, Inc."
-    type: http
-    server: 34.209.216.57
-    port: 8080
-
-  - name: "德国-002-Global Connectivity Solutions LLP"
-    type: http
-    server: 185.161.251.195
-    port: 3128
-
-  - name: "荷兰-003-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.5
-    port: 3128
-
-  - name: "芬兰-004-SERV.HOST GROUP LTD"
-    type: http
-    server: 94.156.180.137
-    port: 3128
-
-  - name: "日本-005-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.133.187.166
-    port: 3128
-
-  - name: "日本-006-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "日本-001-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.167.16.253
     port: 3128
 
-  - name: "日本-007-TOKAI Communications Corporation"
+  - name: "英国-002-FranTech Solutions"
     type: http
-    server: 110.172.62.196
-    port: 8080
-
-  - name: "俄罗斯-008-Radist LTD"
-    type: http
-    server: 91.233.223.147
+    server: 104.194.148.188
     port: 3128
 
-  - name: "印度-009-Contabo Asia Private Limited"
+  - name: "英国-003-Hydra Communications Ltd"
     type: http
-    server: 217.217.249.12
+    server: 81.19.210.10
+    port: 80
+
+  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.171.85
     port: 3128
 
-  - name: "香港-010-HostHatch, LLC"
+  - name: "香港-005-HostHatch, LLC"
     type: http
     server: 103.69.129.89
     port: 24444
 
-  - name: "阿根廷-011-ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
+  - name: "香港-006-HostHatch"
     type: http
-    server: 181.209.96.157
-    port: 999
+    server: 103.73.66.232
+    port: 24444
 
-  - name: "香港-012-Alibaba Cloud LLC"
+  - name: "日本-007-Aceville Pte.ltd"
     type: http
-    server: 47.238.130.212
+    server: 43.133.15.47
+    port: 3128
+
+  - name: "日本-008-Tencent Cloud Computing (Beijing) Co"
+    type: http
+    server: 124.156.230.244
+    port: 3128
+
+  - name: "荷兰-009-LeaseWeb Netherlands B.V."
+    type: http
+    server: 95.211.174.135
+    port: 3128
+
+  - name: "土耳其-010-Hostigger INC."
+    type: http
+    server: 185.181.209.34
+    port: 8080
+
+  - name: "日本-011-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.187.107
+    port: 3128
+
+  - name: "日本-012-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.245.99
+    port: 3128
+
+  - name: "美国-013-AT&T Enterprises, LLC"
+    type: http
+    server: 45.26.30.144
+    port: 8888
+
+  - name: "日本-014-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.27.118
     port: 3128
