@@ -5,17 +5,17 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 新加坡-Singapore-43.106.60.21:1080
+- name: 中国-Shaanxi-106.36.197.230:1080
   type: socks5
-  server: 43.106.60.21
+  server: 106.36.197.230
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: KH-Phnom Penh-202.79.26.242:1080
+- name: 中国-北京-106.13.48.221:1080
   type: socks5
-  server: 202.79.26.242
+  server: 106.13.48.221
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 total: 3
-updated: '2026-07-05 07:56:57'
+updated: '2026-07-06 09:00:34'
