@@ -1,70 +1,60 @@
 proxies:
-  - name: "日本-001-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "乌克兰-001-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "日本-002-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.199.44
+    port: 3128
+
+  - name: "日本-003-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.167.187.233
+    port: 3128
+
+  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.167.16.253
     port: 3128
 
-  - name: "英国-002-FranTech Solutions"
+  - name: "日本-005-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 104.194.148.188
+    server: 43.167.214.133
     port: 3128
 
-  - name: "英国-003-Hydra Communications Ltd"
+  - name: "美国-006-Webair Internet Development Company Inc."
     type: http
-    server: 81.19.210.10
-    port: 80
+    server: 174.137.134.182
+    port: 2999
 
-  - name: "日本-004-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "日本-007-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 43.167.171.85
+    server: 43.167.13.115
     port: 3128
 
-  - name: "香港-005-HostHatch, LLC"
+  - name: "日本-008-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 103.69.129.89
-    port: 24444
-
-  - name: "香港-006-HostHatch"
-    type: http
-    server: 103.73.66.232
-    port: 24444
-
-  - name: "日本-007-Aceville Pte.ltd"
-    type: http
-    server: 43.133.15.47
+    server: 43.133.169.167
     port: 3128
 
-  - name: "日本-008-Tencent Cloud Computing (Beijing) Co"
+  - name: "日本-009-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 124.156.230.244
+    server: 43.167.213.156
     port: 3128
 
-  - name: "荷兰-009-LeaseWeb Netherlands B.V."
+  - name: "日本-010-Oracle Corporation"
     type: http
-    server: 95.211.174.135
+    server: 140.238.32.108
     port: 3128
 
-  - name: "土耳其-010-Hostigger INC."
+  - name: "墨西哥-011-Uninet S.A. de C.V."
     type: http
-    server: 185.181.209.34
-    port: 8080
-
-  - name: "日本-011-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.187.107
-    port: 3128
+    server: 187.172.57.158
+    port: 999
 
   - name: "日本-012-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 43.167.245.99
-    port: 3128
-
-  - name: "美国-013-AT&T Enterprises, LLC"
-    type: http
-    server: 45.26.30.144
-    port: 8888
-
-  - name: "日本-014-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.167.27.118
+    server: 43.167.187.107
     port: 3128
