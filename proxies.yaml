@@ -1,25 +1,32 @@
 proxies:
-  - name: "罗马尼亚-001-IP Solus Inc"
+  - name: "美国-001-Comcast Cable Communications, LLC"
+    type: http
+    server: 50.205.246.13
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "罗马尼亚-002-IP Solus Inc"
     type: http
     server: 185.141.26.131
     port: 3128
 
-  - name: "日本-002-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "乌克兰-003-Cogento Backbone Limited"
     type: http
-    server: 43.167.27.118
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "俄罗斯-004-Radist LTD"
+    type: http
+    server: 91.233.223.147
     port: 3128
 
-  - name: "日本-003-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "印度-005-Amazon.com, Inc."
     type: http
-    server: 43.133.169.167
-    port: 3128
-
-  - name: "瑞士-004-Geronimo Ramirez Computer Network"
-    type: http
-    server: 185.191.239.248
-    port: 3128
-
-  - name: "越南-005-Viettel Group"
-    type: http
-    server: 27.64.55.211
+    server: 43.205.89.88
     port: 80
+
+  - name: "法国-006-Contabo GmbH"
+    type: http
+    server: 173.212.246.157
+    port: 3128
