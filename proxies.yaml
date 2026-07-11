@@ -1,32 +1,160 @@
 proxies:
-  - name: "美国-001-Comcast Cable Communications, LLC"
+  - name: "美国-001-GTHost"
     type: http
-    server: 50.205.246.13
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 193.106.250.227
+    port: 8443
 
-  - name: "罗马尼亚-002-IP Solus Inc"
+  - name: "德国-002-Akamai Technologies, Inc."
     type: http
-    server: 185.141.26.131
+    server: 139.162.187.39
+    port: 8881
+
+  - name: "法国-003-Managed by IROKO Networks"
+    type: http
+    server: 185.87.150.37
+    port: 80
+
+  - name: "Armenia-004-Proitlab LLC"
+    type: http
+    server: 2.56.206.46
+    port: 80
+
+  - name: "美国-005-Zayo Bandwidth"
+    type: http
+    server: 165.138.86.202
+    port: 8080
+
+  - name: "印度尼西亚-006-PT iForte Global Internet"
+    type: http
+    server: 103.165.237.195
     port: 3128
 
-  - name: "乌克兰-003-Cogento Backbone Limited"
+  - name: "美国-007-Webair Internet Development Company Inc."
+    type: http
+    server: 174.137.134.182
+    port: 2999
+
+  - name: "美国-008-Comcast Cable Communications, LLC"
+    type: http
+    server: 50.205.246.13
+    port: 80
+
+  - name: "泰国-009-Office of Info.Tech. Admin. for Educational Development"
+    type: http
+    server: 202.28.194.139
+    port: 31280
+
+  - name: "美国-010-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12670
+
+  - name: "美国-011-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 10493
+
+  - name: "美国-012-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12557
+
+  - name: "Kazakhstan-013-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "美国-014-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 10395
+
+  - name: "美国-015-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12844
+
+  - name: "美国-016-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 9443
+
+  - name: "乌克兰-017-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "俄罗斯-004-Radist LTD"
+  - name: "美国-018-ZSCALER, INC."
     type: http
-    server: 91.233.223.147
+    server: 104.129.192.156
+    port: 10368
+
+  - name: "美国-019-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 11566
+
+  - name: "俄罗斯-020-Yandex.Cloud LLC"
+    type: http
+    server: 93.77.191.156
+    port: 8118
+
+  - name: "美国-021-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12415
+
+  - name: "美国-022-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12508
+
+  - name: "美国-023-Google LLC"
+    type: http
+    server: 153.72.68.0
+    port: 8080
+
+  - name: "巴西-024-Equinix (EMEA) Acquisition Enterprises B.V."
+    type: http
+    server: 201.20.42.46
     port: 3128
 
-  - name: "印度-005-Amazon.com, Inc."
+  - name: "香港-025-Stacks Inc"
     type: http
-    server: 43.205.89.88
-    port: 80
+    server: 103.167.61.162
+    port: 3128
 
-  - name: "法国-006-Contabo GmbH"
+  - name: "荷兰-026-LeaseWeb Netherlands B.V."
+    type: http
+    server: 95.211.174.135
+    port: 3128
+
+  - name: "波兰-027-OVH SAS"
+    type: http
+    server: 217.182.203.184
+    port: 8888
+
+  - name: "墨西哥-028-Cogent Communications"
+    type: http
+    server: 205.164.192.115
+    port: 999
+
+  - name: "美国-029-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 12015
+
+  - name: "美国-030-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 10915
+
+  - name: "法国-031-Contabo GmbH"
     type: http
     server: 173.212.246.157
     port: 3128
+
+  - name: "秘鲁-032-P&P BUSINESS GROUP SAC"
+    type: http
+    server: 45.177.20.187
+    port: 999
