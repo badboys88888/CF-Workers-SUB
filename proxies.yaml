@@ -1,32 +1,35 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "法国-001-OVH SAS"
     type: http
-    server: 34.71.229.255
+    server: 51.38.47.11
     port: 3128
 
-  - name: "乌克兰-002-Cogento Backbone Limited"
+  - name: "瑞士-002-RouterHosting LLC"
+    type: http
+    server: 45.59.122.132
+    port: 80
+
+  - name: "乌克兰-003-Cogento Backbone Limited"
     type: http
     server: 176.111.37.5
     port: 39811
 
-  - name: "法国-003-OVH SAS"
+  - name: "乌克兰-004-Cogento Backbone Limited"
     type: http
-    server: 37.59.125.131
-    port: 8888
+    server: 176.111.37.216
+    port: 39811
 
-  - name: "俄罗斯-004-Yandex.Cloud LLC"
+  - name: "美国-005-Google LLC"
     type: http
-    server: 93.77.191.156
-    port: 8118
+    server: 153.72.68.0
+    port: 8080
 
-  - name: "日本-005-Microsoft Corporation"
+  - name: "韩国-006-SK Broadband Co Ltd"
     type: http
-    server: 40.81.205.181
-    port: 1080
+    server: 1.231.81.166
+    port: 3128
 
-  - name: "俄罗斯-006-WEBDC"
+  - name: "中国-007-China Mobile"
     type: http
-    server: 176.12.65.24
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 112.28.149.156
+    port: 8443
