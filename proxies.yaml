@@ -1,35 +1,311 @@
 proxies:
-  - name: "法国-001-OVH SAS"
+  - name: "美国-001-Comcast Cable Communications, LLC"
     type: http
-    server: 51.38.47.11
+    server: 50.205.246.13
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "英国-002-Oracle Corporation"
+    type: http
+    server: 141.147.70.238
     port: 3128
 
-  - name: "瑞士-002-RouterHosting LLC"
+  - name: "美国-003-Google LLC"
     type: http
-    server: 45.59.122.132
+    server: 34.71.229.255
+    port: 3128
+
+  - name: "芬兰-004-Nokia Solutions and Networks Oy"
+    type: http
+    server: 135.87.39.23
     port: 80
 
-  - name: "乌克兰-003-Cogento Backbone Limited"
+  - name: "法国-005-Contabo GmbH"
+    type: http
+    server: 173.249.11.10
+    port: 20001
+
+  - name: "美国-006-Istqrar for Servers Services Ltd"
+    type: http
+    server: 45.153.4.154
+    port: 3128
+
+  - name: "印度-007-Amazon.com, Inc."
+    type: http
+    server: 43.205.89.88
+    port: 80
+
+  - name: "土耳其-008-Turk Telekomunikasyon A.S"
+    type: http
+    server: 88.247.152.241
+    port: 3310
+
+  - name: "土耳其-009-Turk Telekomunikasyon A.S"
+    type: http
+    server: 88.247.17.91
+    port: 1953
+
+  - name: "荷兰-010-PUSHPKT OU"
+    type: http
+    server: 117.55.203.158
+    port: 8899
+
+  - name: "Albania-011-Global Connectivity Solutions LLP"
+    type: http
+    server: 78.159.131.112
+    port: 1081
+
+  - name: "泰国-012-Office of Info.Tech. Admin. for Educational Development"
+    type: http
+    server: 202.28.194.139
+    port: 31280
+
+  - name: "法国-013-Managed by IROKO Networks"
+    type: http
+    server: 185.87.150.37
+    port: 80
+
+  - name: "Armenia-014-Proitlab LLC"
+    type: http
+    server: 2.56.206.46
+    port: 80
+
+  - name: "越南-015-VietNam Post and Telecom Corporation"
+    type: http
+    server: 113.160.132.26
+    port: 8080
+
+  - name: "Kazakhstan-016-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "美国-017-Ipxo LLC"
+    type: http
+    server: 140.99.255.61
+    port: 8443
+
+  - name: "越南-018-Long Van System Solution"
+    type: http
+    server: 42.96.18.62
+    port: 1311
+
+  - name: "美国-019-Zayo Bandwidth"
+    type: http
+    server: 165.138.86.202
+    port: 8080
+
+  - name: "美国-020-Amazon.com, Inc."
+    type: http
+    server: 34.221.185.20
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "法国-021-OVH SAS"
+    type: http
+    server: 37.59.125.131
+    port: 8888
+
+  - name: "墨西哥-022-Digy Networks S.A De C.V."
+    type: http
+    server: 148.230.4.241
+    port: 999
+
+  - name: "俄罗斯-023-JSC IOT"
+    type: http
+    server: 80.87.195.84
+    port: 2080
+
+  - name: "荷兰-024-SkyLink Data Center BV"
+    type: http
+    server: 146.19.169.212
+    port: 1081
+
+  - name: "美国-025-tzulo, inc."
+    type: http
+    server: 173.249.195.250
+    port: 8888
+
+  - name: "芬兰-026-Hetzner Online GmbH"
+    type: http
+    server: 46.62.189.77
+    port: 8888
+
+  - name: "印度尼西亚-027-Global Media Data Prima"
+    type: http
+    server: 103.124.139.170
+    port: 8080
+
+  - name: "Estonia-028-PAGM network"
+    type: http
+    server: 46.36.220.47
+    port: 80
+
+  - name: "荷兰-029-PUSHPKT OU"
+    type: http
+    server: 117.55.203.161
+    port: 8899
+
+  - name: "美国-030-Global Connectivity Solutions LLP"
+    type: http
+    server: 89.185.80.78
+    port: 1082
+
+  - name: "日本-031-Microsoft Corporation"
+    type: http
+    server: 40.81.205.181
+    port: 1080
+
+  - name: "法国-032-Contabo GmbH"
+    type: http
+    server: 173.212.245.136
+    port: 8888
+
+  - name: "乌克兰-033-Cogento Backbone Limited"
     type: http
     server: 176.111.37.5
     port: 39811
 
-  - name: "乌克兰-004-Cogento Backbone Limited"
+  - name: "俄罗斯-034-Domain names registrar REG.RU, Ltd"
+    type: http
+    server: 194.67.121.102
+    port: 8888
+
+  - name: "澳大利亚-035-AAPT Limited"
+    type: http
+    server: 210.8.69.102
+    port: 808
+
+  - name: "德国-036-Hetzner Online GmbH"
+    type: http
+    server: 91.98.86.26
+    port: 8888
+
+  - name: "俄罗斯-037-Ihor Hosting LTD"
+    type: http
+    server: 185.200.188.234
+    port: 10001
+
+  - name: "香港-038-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 8.217.11.244
+    port: 9568
+
+  - name: "乌克兰-039-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "美国-005-Google LLC"
+  - name: "荷兰-040-Eurofiber Nederland BV"
+    type: http
+    server: 144.178.199.118
+    port: 8443
+
+  - name: "美国-041-Google LLC"
     type: http
     server: 153.72.68.0
     port: 8080
 
-  - name: "韩国-006-SK Broadband Co Ltd"
+  - name: "俄罗斯-042-Yandex.Cloud LLC"
+    type: http
+    server: 93.77.191.156
+    port: 8118
+
+  - name: "美国-043-Global Connectivity Solutions LLP"
+    type: http
+    server: 89.185.80.251
+    port: 1081
+
+  - name: "美国-044-Ipxo LLC"
+    type: http
+    server: 157.254.194.57
+    port: 1080
+
+  - name: "Ecuador-045-Telconet S.A"
+    type: http
+    server: 181.39.25.196
+    port: 8118
+
+  - name: "中国-046-China Education and Research Network Center"
+    type: http
+    server: 59.66.192.182
+    port: 29290
+
+  - name: "罗马尼亚-047-IP Solus Inc"
+    type: http
+    server: 185.141.26.131
+    port: 3128
+
+  - name: "德国-048-Hetzner Online GmbH"
+    type: http
+    server: 91.99.146.21
+    port: 8881
+
+  - name: "印度-049-Amazon.com, Inc."
+    type: http
+    server: 43.205.89.88
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "波兰-050-OVH SAS"
+    type: http
+    server: 217.182.203.184
+    port: 8888
+
+  - name: "韩国-051-SK Broadband Co Ltd"
     type: http
     server: 1.231.81.166
     port: 3128
 
-  - name: "中国-007-China Mobile"
+  - name: "美国-052-Microsoft"
     type: http
-    server: 112.28.149.156
-    port: 8443
+    server: 172.171.83.26
+    port: 8080
+
+  - name: "俄罗斯-053-Beget LLC"
+    type: http
+    server: 159.194.228.40
+    port: 8888
+
+  - name: "荷兰-054-Servers Tech Fzco"
+    type: http
+    server: 89.124.80.251
+    port: 1080
+
+  - name: "荷兰-055-Global Connectivity Solutions LLP"
+    type: http
+    server: 81.90.29.194
+    port: 10808
+
+  - name: "法国-056-OVH SAS"
+    type: http
+    server: 51.38.47.11
+    port: 3128
+
+  - name: "墨西哥-057-Cogent Communications"
+    type: http
+    server: 205.164.192.115
+    port: 999
+
+  - name: "越南-058-MOBIFONECNTT"
+    type: http
+    server: 137.59.47.73
+    port: 3128
+
+  - name: "秘鲁-059-P&P BUSINESS GROUP SAC"
+    type: http
+    server: 45.177.20.187
+    port: 999
+
+  - name: "俄罗斯-060-PJSC Rostelecom"
+    type: http
+    server: 95.167.210.10
+    port: 8090
+
+  - name: "香港-061-West263 International Limited"
+    type: http
+    server: 103.43.191.71
+    port: 8888
