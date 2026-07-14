@@ -1,13 +1,7 @@
 proxies:
-- name: 美国-佛罗里达-23.175.248.21:1080
+- name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
   type: socks5
-  server: 23.175.248.21
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: KH-Phnom Penh-202.79.26.242:1080
-  type: socks5
-  server: 202.79.26.242
+  server: 115.137.99.234
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -17,5 +11,5 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-total: 3
-updated: '2026-07-13 08:01:39'
+total: 2
+updated: '2026-07-14 06:48:02'
