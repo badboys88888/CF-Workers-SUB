@@ -1,15 +1,33 @@
 proxies:
+- name: 韩国-Sejong-203.231.242.61:1080
+  type: socks5
+  server: 203.231.242.61
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 德国-Bayern-116.203.131.36:1080
+  type: socks5
+  server: 116.203.131.36
+  port: 1080
+  udp: false
+  skip-cert-verify: true
 - name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
   type: socks5
   server: 115.137.99.234
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-广东-106.52.232.134:1080
+- name: 中国-上海-218.79.166.10:1080
   type: socks5
-  server: 106.52.232.134
+  server: 218.79.166.10
   port: 1080
   udp: false
   skip-cert-verify: true
-total: 2
-updated: '2026-07-14 06:48:02'
+- name: 中国-北京-117.175.168.195:1080
+  type: socks5
+  server: 117.175.168.195
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+total: 5
+updated: '2026-07-15 06:49:35'
