@@ -1,289 +1,30 @@
 proxies:
-  - name: "美国-001-Alibaba Cloud LLC"
-    type: http
-    server: 47.253.58.201
-    port: 58000
-
-  - name: "美国-002-Google LLC"
+  - name: "美国-001-Google LLC"
     type: http
     server: 34.71.229.255
     port: 3128
 
-  - name: "美国-003-Comcast Cable Communications, LLC"
-    type: http
-    server: 50.205.246.13
-    port: 8080
-
-  - name: "美国-004-HostPapa"
-    type: http
-    server: 108.174.194.34
-    port: 10801
-
-  - name: "Armenia-005-Proitlab LLC"
-    type: http
-    server: 2.56.206.46
-    port: 80
-
-  - name: "Paraguay-006-MSW S.A."
-    type: http
-    server: 45.177.16.130
-    port: 999
-
-  - name: "美国-007-Istqrar for Servers Services Ltd"
-    type: http
-    server: 45.153.4.154
-    port: 3128
-
-  - name: "荷兰-008-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.8
-    port: 3128
-
-  - name: "越南-009-Long Van System Solution"
-    type: http
-    server: 42.96.18.62
-    port: 1311
-
-  - name: "荷兰-010-PUSHPKT OU"
-    type: http
-    server: 117.55.203.165
-    port: 8899
-
-  - name: "印度-011-Amazon.com, Inc."
-    type: http
-    server: 43.205.89.88
-    port: 80
-
-  - name: "法国-012-OVH SAS"
-    type: http
-    server: 37.59.125.131
-    port: 8888
-
-  - name: "日本-013-Oracle Corporation"
-    type: http
-    server: 140.238.32.108
-    port: 3128
-
-  - name: "美国-014-Amazon.com, Inc."
-    type: http
-    server: 34.221.185.20
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "越南-015-VietNam Post and Telecom Corporation"
-    type: http
-    server: 113.160.132.26
-    port: 8080
-
-  - name: "荷兰-016-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.4
-    port: 3128
-
-  - name: "美国-017-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "哥伦比亚-018-Super Redes"
-    type: http
-    server: 38.19.40.9
-    port: 8083
-
-  - name: "荷兰-019-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.6
-    port: 3128
-
-  - name: "荷兰-020-SkyLink Data Center BV"
-    type: http
-    server: 146.19.169.212
-    port: 1081
-
-  - name: "荷兰-021-MIRhosting B.V."
-    type: http
-    server: 194.147.115.50
-    port: 3128
-
-  - name: "美国-022-Comcast Cable Communications, LLC"
-    type: http
-    server: 50.205.246.13
-    port: 80
-
-  - name: "哥伦比亚-023-Media Commerce Partners S.A"
-    type: http
-    server: 181.118.147.28
-    port: 999
-
-  - name: "俄罗斯-024-RTCOMM"
-    type: http
-    server: 81.177.165.209
-    port: 10808
-
-  - name: "芬兰-025-Hetzner Online GmbH"
-    type: http
-    server: 46.62.189.77
-    port: 8888
-
-  - name: "瑞士-026-Geronimo Ramirez Computer Network"
-    type: http
-    server: 185.191.239.248
-    port: 3128
-
-  - name: "德国-027-Hetzner Online GmbH"
-    type: http
-    server: 168.119.153.216
-    port: 8888
-
-  - name: "英国-028-FranTech Solutions"
-    type: http
-    server: 104.194.146.9
-    port: 80
-
-  - name: "俄罗斯-029-Global Internet Solutions LLC"
-    type: http
-    server: 77.110.113.236
-    port: 8080
-
-  - name: "日本-030-Microsoft Corporation"
-    type: http
-    server: 40.81.205.181
-    port: 1080
-
-  - name: "日本-031-Microsoft Corporation"
+  - name: "日本-002-Microsoft Corporation"
     type: http
     server: 20.78.26.206
     port: 8561
 
-  - name: "荷兰-032-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.2
-    port: 3128
-
-  - name: "法国-033-Contabo GmbH"
-    type: http
-    server: 173.212.245.136
-    port: 8888
-
-  - name: "荷兰-034-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.5
-    port: 3128
-
-  - name: "香港-035-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 8.217.11.244
-    port: 9568
-
-  - name: "荷兰-036-Eurofiber Nederland BV"
-    type: http
-    server: 144.178.199.118
-    port: 8443
-
-  - name: "美国-037-Ipxo LLC"
-    type: http
-    server: 157.254.194.57
-    port: 1080
-
-  - name: "Ecuador-038-Eliana Vanessa Morocho Oña"
-    type: http
-    server: 45.4.202.170
-    port: 999
-
-  - name: "俄罗斯-039-Yandex.Cloud LLC"
-    type: http
-    server: 93.77.191.156
-    port: 8118
-
-  - name: "美国-040-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8080
-
-  - name: "波兰-041-Ckpartnet Network"
-    type: http
-    server: 185.21.36.249
-    port: 8080
-
-  - name: "德国-042-Mamaev"
-    type: http
-    server: 95.140.154.211
-    port: 8080
-
-  - name: "法国-043-OVH SAS"
-    type: http
-    server: 37.187.109.70
-    port: 10111
-
-  - name: "Ecuador-044-Eliana Vanessa Morocho Oña"
-    type: http
-    server: 45.239.48.99
-    port: 999
-
-  - name: "俄罗斯-045-Beget LLC"
-    type: http
-    server: 159.194.228.40
-    port: 8888
-
-  - name: "罗马尼亚-046-IP Solus Inc"
+  - name: "罗马尼亚-003-IP Solus Inc"
     type: http
     server: 185.141.26.131
     port: 3128
 
-  - name: "哥伦比亚-047-GTT Americas"
+  - name: "英国-004-FranTech Solutions"
     type: http
-    server: 64.204.90.177
-    port: 999
+    server: 104.194.148.204
+    port: 80
 
-  - name: "波兰-048-OVH SAS"
+  - name: "哥伦比亚-005-Telmex Colombia S.A."
     type: http
-    server: 217.182.203.184
-    port: 8888
+    server: 190.147.40.192
+    port: 9021
 
-  - name: "Bangladesh-049-Access Telecom (BD) Ltd"
+  - name: "巴基斯坦-006-Logitech Cable (Private) Limited"
     type: http
-    server: 175.29.127.158
-    port: 2525
-
-  - name: "韩国-050-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
+    server: 103.157.200.126
     port: 3128
-
-  - name: "香港-051-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
-    type: http
-    server: 101.36.109.77
-    port: 8118
-
-  - name: "荷兰-052-LeaseWeb Netherlands B.V."
-    type: http
-    server: 95.211.174.135
-    port: 3128
-
-  - name: "法国-053-OVH SAS"
-    type: http
-    server: 51.38.47.11
-    port: 3128
-
-  - name: "墨西哥-054-Cogent Communications"
-    type: http
-    server: 205.164.192.115
-    port: 999
-
-  - name: "芬兰-055-CGI GLOBAL LIMITED"
-    type: http
-    server: 95.182.115.33
-    port: 1080
-
-  - name: "越南-056-MOBIFONECNTT"
-    type: http
-    server: 137.59.47.73
-    port: 3128
-
-  - name: "香港-057-HostHatch"
-    type: http
-    server: 103.73.66.232
-    port: 24444
