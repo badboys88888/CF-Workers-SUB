@@ -1,30 +1,20 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "美国-001-Amazon.com, Inc."
     type: http
-    server: 34.71.229.255
+    server: 54.91.81.71
     port: 3128
 
-  - name: "日本-002-Microsoft Corporation"
+  - name: "印度尼西亚-002-PT Biznet Gio Nusantara"
     type: http
-    server: 20.78.26.206
-    port: 8561
+    server: 103.87.67.75
+    port: 3129
 
-  - name: "罗马尼亚-003-IP Solus Inc"
+  - name: "越南-003-VIETTEL"
     type: http
-    server: 185.141.26.131
-    port: 3128
+    server: 117.7.81.125
+    port: 2076
 
-  - name: "英国-004-FranTech Solutions"
-    type: http
-    server: 104.194.148.204
-    port: 80
-
-  - name: "哥伦比亚-005-Telmex Colombia S.A."
-    type: http
-    server: 190.147.40.192
-    port: 9021
-
-  - name: "巴基斯坦-006-Logitech Cable (Private) Limited"
+  - name: "巴基斯坦-004-Logitech Cable (Private) Limited"
     type: http
     server: 103.157.200.126
     port: 3128
