@@ -1,50 +1,50 @@
 proxies:
-  - name: "美国-001-AT&T Enterprises, LLC"
+  - name: "美国-001-Ipxo LLC"
     type: http
-    server: 168.184.84.82
-    port: 9443
+    server: 157.254.194.57
+    port: 1080
 
-  - name: "荷兰-002-DigitalOcean, LLC"
+  - name: "美国-002-AT&T Enterprises, LLC"
     type: http
-    server: 188.166.2.4
+    server: 168.184.86.34
+    port: 80
+
+  - name: "美国-003-DigitalOcean, LLC"
+    type: http
+    server: 64.23.188.3
     port: 3128
 
-  - name: "荷兰-003-LeaseWeb Netherlands B.V."
+  - name: "法国-004-Contabo GmbH"
     type: http
-    server: 95.211.174.135
-    port: 3128
+    server: 5.189.130.42
+    port: 23055
 
-  - name: "日本-004-Oracle Corporation"
-    type: http
-    server: 140.238.32.108
-    port: 3128
-
-  - name: "日本-005-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 8.209.255.13
-    port: 3128
-
-  - name: "乌克兰-006-Cogento Backbone Limited"
+  - name: "乌克兰-005-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "芬兰-007-Hetzner Online GmbH"
+  - name: "德国-006-Zenlayer Inc"
     type: http
-    server: 46.62.189.77
-    port: 8888
+    server: 103.237.102.191
+    port: 11111
 
-  - name: "法国-008-Contabo GmbH"
+  - name: "乌克兰-007-Cogento Backbone Limited"
     type: http
-    server: 173.212.246.157
+    server: 176.111.37.5
+    port: 39811
+
+  - name: "新加坡-008-Choopa"
+    type: http
+    server: 207.148.124.152
+    port: 6868
+
+  - name: "美国-009-Port Networks, Inc."
+    type: http
+    server: 205.215.247.164
     port: 3128
 
-  - name: "Kazakhstan-009-Kcell JSC"
+  - name: "美国-010-Amazon.com, Inc."
     type: http
-    server: 2.78.60.10
-    port: 3129
-
-  - name: "Latvia-010-Baykov Ilya Sergeevich"
-    type: http
-    server: 185.113.139.149
-    port: 3128
+    server: 54.164.50.201
+    port: 88
