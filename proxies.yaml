@@ -1,50 +1,30 @@
 proxies:
-  - name: "美国-001-Ipxo LLC"
+  - name: "荷兰-001-DigitalOcean, LLC"
     type: http
-    server: 157.254.194.57
-    port: 1080
-
-  - name: "美国-002-AT&T Enterprises, LLC"
-    type: http
-    server: 168.184.86.34
-    port: 80
-
-  - name: "美国-003-DigitalOcean, LLC"
-    type: http
-    server: 64.23.188.3
+    server: 188.166.2.4
     port: 3128
 
-  - name: "法国-004-Contabo GmbH"
+  - name: "韩国-002-Amazon.com, Inc."
     type: http
-    server: 5.189.130.42
-    port: 23055
+    server: 43.203.128.219
+    port: 3128
 
-  - name: "乌克兰-005-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "德国-006-Zenlayer Inc"
-    type: http
-    server: 103.237.102.191
-    port: 11111
-
-  - name: "乌克兰-007-Cogento Backbone Limited"
+  - name: "乌克兰-003-Cogento Backbone Limited"
     type: http
     server: 176.111.37.5
     port: 39811
 
-  - name: "新加坡-008-Choopa"
+  - name: "德国-004-Hetzner Online GmbH"
     type: http
-    server: 207.148.124.152
-    port: 6868
+    server: 91.98.86.26
+    port: 8888
 
-  - name: "美国-009-Port Networks, Inc."
+  - name: "瑞士-005-Geronimo Ramirez Computer Network"
     type: http
-    server: 205.215.247.164
+    server: 185.191.239.248
     port: 3128
 
-  - name: "美国-010-Amazon.com, Inc."
+  - name: "新加坡-006-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 54.164.50.201
-    port: 88
+    server: 47.237.113.119
+    port: 8888
