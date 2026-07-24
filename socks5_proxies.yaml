@@ -1,9 +1,15 @@
 proxies:
-- name: 新加坡-Singapore-178.128.53.12:1080
+- name: 韩国-Gyeonggi-do-121.182.218.176:1080
   type: socks5
-  server: 178.128.53.12
+  server: 121.182.218.176
   port: 1080
   udp: true
   skip-cert-verify: true
-total: 1
-updated: '2026-07-22 07:21:19'
+- name: 中国-Shaanxi-106.36.197.230:1080
+  type: socks5
+  server: 106.36.197.230
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+total: 2
+updated: '2026-07-24 07:18:44'
