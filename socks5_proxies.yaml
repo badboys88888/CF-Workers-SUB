@@ -1,21 +1,9 @@
 proxies:
-- name: KH-Phnom Penh-202.79.26.242:1080
+- name: 美国-佛罗里达-23.175.248.21:1080
   type: socks5
-  server: 202.79.26.242
+  server: 23.175.248.21
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 新加坡-Singapore-178.128.53.12:1080
-  type: socks5
-  server: 178.128.53.12
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-上海-218.79.166.10:1080
-  type: socks5
-  server: 218.79.166.10
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-total: 3
-updated: '2026-07-25 06:51:09'
+total: 1
+updated: '2026-07-26 07:23:24'
