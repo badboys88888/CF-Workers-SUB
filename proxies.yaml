@@ -1,60 +1,35 @@
 proxies:
-  - name: "美国-001-Alibaba Cloud LLC"
+  - name: "美国-001-Chesconet"
     type: http
-    server: 47.253.201.85
-    port: 7890
+    server: 204.108.154.43
+    port: 80
 
-  - name: "美国-002-Zayo Bandwidth"
+  - name: "美国-002-Comcast Cable Communications, LLC"
     type: http
-    server: 165.138.86.202
-    port: 8080
+    server: 50.205.246.13
+    port: 80
 
-  - name: "美国-003-FranTech Solutions"
-    type: http
-    server: 104.194.148.188
-    port: 3128
-
-  - name: "荷兰-004-Mastersoft S.R.L."
-    type: http
-    server: 103.112.69.58
-    port: 3128
-
-  - name: "法国-005-OVH SAS"
-    type: http
-    server: 37.187.109.70
-    port: 10111
-
-  - name: "乌克兰-006-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "法国-007-OVH SAS"
-    type: http
-    server: 37.59.125.131
-    port: 8888
-
-  - name: "香港-008-haoxiangyun"
+  - name: "香港-003-haoxiangyun"
     type: http
     server: 45.155.226.177
     port: 3128
 
-  - name: "芬兰-009-Hetzner Online GmbH"
+  - name: "瑞士-004-Geronimo Ramirez Computer Network"
     type: http
-    server: 46.62.189.77
-    port: 8888
-
-  - name: "印度-010-Asianet Satellite Communications Pvt Ltd"
-    type: http
-    server: 111.92.88.27
+    server: 185.191.239.248
     port: 3128
 
-  - name: "日本-011-Microsoft Corporation"
+  - name: "巴西-005-Locaweb Serviços de Internet S/A"
     type: http
-    server: 20.210.76.178
-    port: 8561
+    server: 191.252.219.129
+    port: 8889
 
-  - name: "日本-012-Alibaba.com LLC"
+  - name: "法国-006-OVH SAS"
     type: http
-    server: 47.79.33.142
-    port: 3128
+    server: 37.187.109.70
+    port: 10111
+
+  - name: "芬兰-007-WorkTitans B.V."
+    type: http
+    server: 92.118.234.124
+    port: 1080
