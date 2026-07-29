@@ -1,35 +1,60 @@
 proxies:
-  - name: "美国-001-Chesconet"
+  - name: "荷兰-001-LeaseWeb Netherlands B.V."
     type: http
-    server: 204.108.154.43
-    port: 80
+    server: 95.211.64.139
+    port: 8888
 
-  - name: "美国-002-Comcast Cable Communications, LLC"
+  - name: "韩国-002-SK Broadband Co Ltd"
     type: http
-    server: 50.205.246.13
-    port: 80
+    server: 1.231.81.166
+    port: 3128
 
-  - name: "香港-003-haoxiangyun"
+  - name: "韩国-003-Amazon.com, Inc."
+    type: http
+    server: 43.203.128.219
+    port: 3128
+
+  - name: "美国-004-Istqrar for Servers Services Ltd"
+    type: http
+    server: 45.153.4.154
+    port: 3128
+
+  - name: "香港-005-haoxiangyun"
     type: http
     server: 45.155.226.177
     port: 3128
 
-  - name: "瑞士-004-Geronimo Ramirez Computer Network"
+  - name: "乌克兰-006-Cogento Backbone Limited"
     type: http
-    server: 185.191.239.248
-    port: 3128
+    server: 176.111.37.5
+    port: 39811
 
-  - name: "巴西-005-Locaweb Serviços de Internet S/A"
+  - name: "乌克兰-007-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "巴西-008-Locaweb Serviços de Internet S/A"
     type: http
     server: 191.252.219.129
     port: 8889
 
-  - name: "法国-006-OVH SAS"
+  - name: "Kazakhstan-009-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "哥伦比亚-010-GTT Americas"
+    type: http
+    server: 64.204.90.185
+    port: 999
+
+  - name: "香港-011-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.128.246
+    port: 4002
+
+  - name: "法国-012-OVH SAS"
     type: http
     server: 37.187.109.70
     port: 10111
-
-  - name: "芬兰-007-WorkTitans B.V."
-    type: http
-    server: 92.118.234.124
-    port: 1080
