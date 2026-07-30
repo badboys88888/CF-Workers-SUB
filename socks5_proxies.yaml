@@ -1,9 +1,9 @@
 proxies:
-- name: BD-Dhaka-202.72.232.121:1080
+- name: 中国-Zhejiang-112.124.108.67:1080
   type: socks5
-  server: 202.72.232.121
+  server: 112.124.108.67
   port: 1080
   udp: true
   skip-cert-verify: true
 total: 1
-updated: '2026-07-27 08:14:34'
+updated: '2026-07-30 07:24:14'
