@@ -1,60 +1,57 @@
 proxies:
-  - name: "荷兰-001-LeaseWeb Netherlands B.V."
+  - name: "美国-001-Google LLC"
     type: http
-    server: 95.211.64.139
-    port: 8888
+    server: 34.134.231.117
+    port: 3129
 
-  - name: "韩国-002-SK Broadband Co Ltd"
+  - name: "芬兰-002-Nokia Solutions and Networks Oy"
+    type: http
+    server: 135.87.39.23
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Venezuela-003-ACT NETWORK, C.A."
+    type: http
+    server: 38.76.9.0
+    port: 999
+
+  - name: "韩国-004-SK Broadband Co Ltd"
     type: http
     server: 1.231.81.166
     port: 3128
 
-  - name: "韩国-003-Amazon.com, Inc."
-    type: http
-    server: 43.203.128.219
-    port: 3128
-
-  - name: "美国-004-Istqrar for Servers Services Ltd"
-    type: http
-    server: 45.153.4.154
-    port: 3128
-
-  - name: "香港-005-haoxiangyun"
-    type: http
-    server: 45.155.226.177
-    port: 3128
-
-  - name: "乌克兰-006-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "乌克兰-007-Cogento Backbone Limited"
+  - name: "乌克兰-005-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "巴西-008-Locaweb Serviços de Internet S/A"
+  - name: "墨西哥-006-Cogent Communications"
     type: http
-    server: 191.252.219.129
-    port: 8889
-
-  - name: "Kazakhstan-009-Kcell JSC"
-    type: http
-    server: 2.78.60.10
-    port: 3129
-
-  - name: "哥伦比亚-010-GTT Americas"
-    type: http
-    server: 64.204.90.185
+    server: 205.164.192.115
     port: 999
 
-  - name: "香港-011-Alibaba Cloud LLC"
+  - name: "马来西亚-007-Telekom Malaysia Berhad"
     type: http
-    server: 47.238.128.246
-    port: 4002
+    server: 175.136.239.174
+    port: 8181
 
-  - name: "法国-012-OVH SAS"
+  - name: "美国-008-FranTech Solutions"
     type: http
-    server: 37.187.109.70
-    port: 10111
+    server: 104.194.148.188
+    port: 3128
+
+  - name: "Cambodia-009-WiCAM Corporation"
+    type: http
+    server: 49.156.44.117
+    port: 8080
+
+  - name: "日本-010-Akamai Technologies, Inc."
+    type: http
+    server: 139.162.91.30
+    port: 3128
+
+  - name: "美国-011-ZSCALER, INC."
+    type: http
+    server: 104.129.192.156
+    port: 10365
