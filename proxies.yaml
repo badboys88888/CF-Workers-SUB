@@ -4,67 +4,107 @@ proxies:
     server: 54.165.248.109
     port: 3128
 
-  - name: "美国-002-Alibaba Cloud LLC"
+  - name: "加拿大-002-OVH SAS"
     type: http
-    server: 47.253.201.85
-    port: 7890
+    server: 51.79.63.111
+    port: 3128
 
-  - name: "美国-003-FranTech Solutions"
-    type: http
-    server: 104.194.148.204
-    port: 80
-
-  - name: "荷兰-004-Eurofiber Nederland BV"
-    type: http
-    server: 144.178.199.118
-    port: 8443
-
-  - name: "香港-005-haoxiangyun"
+  - name: "香港-003-haoxiangyun"
     type: http
     server: 45.155.226.177
     port: 3128
 
-  - name: "德国-006-Hetzner Online GmbH"
+  - name: "以色列-004-O.M.C. COMPUTERS & COMMUNICATIONS LTD"
     type: http
-    server: 91.98.86.26
-    port: 8888
+    server: 185.28.155.163
+    port: 1433
 
-  - name: "香港-007-HostHatch, LLC"
+  - name: "俄罗斯-005-Quartz Telecom"
+    type: http
+    server: 109.94.1.23
+    port: 4050
+
+  - name: "香港-006-HostHatch, LLC"
     type: http
     server: 103.69.129.89
     port: 24444
 
-  - name: "香港-008-HostHatch"
+  - name: "墨西哥-007-Cogent Communications"
     type: http
-    server: 103.73.66.232
-    port: 24444
+    server: 38.123.212.243
+    port: 999
+
+  - name: "日本-008-Eons Data Communications Limited"
+    type: http
+    server: 64.118.147.245
+    port: 20000
 
   - name: "乌克兰-009-Cogento Backbone Limited"
     type: http
-    server: 176.111.37.5
+    server: 176.111.37.216
     port: 39811
 
-  - name: "法国-010-Lrtc Network Rent"
+  - name: "土耳其-010-Turk Telekomunikasyon Anonim Sirketi"
     type: http
-    server: 89.116.30.252
-    port: 8881
+    server: 95.3.69.222
+    port: 8080
 
-  - name: "Venezuela-011-RED SERVITEL, CA"
+  - name: "加拿大-011-OVH SAS"
     type: http
-    server: 38.172.170.154
-    port: 999
+    server: 148.113.167.81
+    port: 3128
 
-  - name: "法国-012-Lrtc Network Rent"
+  - name: "美国-012-Google LLC"
     type: http
-    server: 89.116.30.252
-    port: 8888
+    server: 34.134.231.117
+    port: 3129
 
-  - name: "法国-013-OVH SAS"
+  - name: "美国-013-Amazon Technologies Inc."
+    type: http
+    server: 54.145.2.169
+    port: 3128
+
+  - name: "法国-014-OVH SAS"
     type: http
     server: 37.187.109.70
     port: 10111
 
-  - name: "马来西亚-014-Alibaba (US) Technology Co., Ltd."
+  - name: "美国-015-Google LLC"
     type: http
-    server: 47.250.155.254
-    port: 9090
+    server: 153.72.68.0
+    port: 8080
+
+  - name: "印度尼西亚-016-PT Persada Data Multimedia"
+    type: http
+    server: 103.180.118.150
+    port: 8080
+
+  - name: "墨西哥-017-Comunicacion Digital De Sinaloa SA De CV"
+    type: http
+    server: 201.46.85.20
+    port: 8080
+
+  - name: "Kazakhstan-018-Kcell JSC"
+    type: http
+    server: 2.78.60.10
+    port: 3129
+
+  - name: "墨西哥-019-Digy Networks"
+    type: http
+    server: 200.71.109.102
+    port: 999
+
+  - name: "Syria-020-High Speed For Internet Services L.L.C"
+    type: http
+    server: 139.28.49.230
+    port: 8080
+
+  - name: "巴西-021-T&M SERVICOS DE TELECOMUNICACOES LTDA - ME"
+    type: http
+    server: 190.124.252.129
+    port: 6666
+
+  - name: "德国-022-netcup GmbH"
+    type: http
+    server: 159.195.49.27
+    port: 8888
