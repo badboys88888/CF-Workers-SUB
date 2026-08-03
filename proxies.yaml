@@ -1,110 +1,40 @@
 proxies:
-  - name: "美国-001-Amazon.com, Inc."
-    type: http
-    server: 54.165.248.109
-    port: 3128
-
-  - name: "加拿大-002-OVH SAS"
+  - name: "加拿大-001-OVH SAS"
     type: http
     server: 51.79.63.111
     port: 3128
 
-  - name: "香港-003-haoxiangyun"
+  - name: "荷兰-002-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
     type: http
-    server: 45.155.226.177
+    server: 160.238.65.9
     port: 3128
 
-  - name: "以色列-004-O.M.C. COMPUTERS & COMMUNICATIONS LTD"
+  - name: "荷兰-003-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
     type: http
-    server: 185.28.155.163
-    port: 1433
+    server: 160.238.65.5
+    port: 3128
 
-  - name: "俄罗斯-005-Quartz Telecom"
+  - name: "Bangladesh-004-Harunur Rashid"
     type: http
-    server: 109.94.1.23
-    port: 4050
+    server: 103.136.107.60
+    port: 100
 
-  - name: "香港-006-HostHatch, LLC"
+  - name: "芬兰-005-H2nexus LTD"
+    type: http
+    server: 45.144.53.63
+    port: 5000
+
+  - name: "Honduras-006-Honduvision SRL"
+    type: http
+    server: 200.115.96.50
+    port: 999
+
+  - name: "香港-007-HostHatch"
+    type: http
+    server: 103.73.66.232
+    port: 24444
+
+  - name: "香港-008-HostHatch, LLC"
     type: http
     server: 103.69.129.89
     port: 24444
-
-  - name: "墨西哥-007-Cogent Communications"
-    type: http
-    server: 38.123.212.243
-    port: 999
-
-  - name: "日本-008-Eons Data Communications Limited"
-    type: http
-    server: 64.118.147.245
-    port: 20000
-
-  - name: "乌克兰-009-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "土耳其-010-Turk Telekomunikasyon Anonim Sirketi"
-    type: http
-    server: 95.3.69.222
-    port: 8080
-
-  - name: "加拿大-011-OVH SAS"
-    type: http
-    server: 148.113.167.81
-    port: 3128
-
-  - name: "美国-012-Google LLC"
-    type: http
-    server: 34.134.231.117
-    port: 3129
-
-  - name: "美国-013-Amazon Technologies Inc."
-    type: http
-    server: 54.145.2.169
-    port: 3128
-
-  - name: "法国-014-OVH SAS"
-    type: http
-    server: 37.187.109.70
-    port: 10111
-
-  - name: "美国-015-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8080
-
-  - name: "印度尼西亚-016-PT Persada Data Multimedia"
-    type: http
-    server: 103.180.118.150
-    port: 8080
-
-  - name: "墨西哥-017-Comunicacion Digital De Sinaloa SA De CV"
-    type: http
-    server: 201.46.85.20
-    port: 8080
-
-  - name: "Kazakhstan-018-Kcell JSC"
-    type: http
-    server: 2.78.60.10
-    port: 3129
-
-  - name: "墨西哥-019-Digy Networks"
-    type: http
-    server: 200.71.109.102
-    port: 999
-
-  - name: "Syria-020-High Speed For Internet Services L.L.C"
-    type: http
-    server: 139.28.49.230
-    port: 8080
-
-  - name: "巴西-021-T&M SERVICOS DE TELECOMUNICACOES LTDA - ME"
-    type: http
-    server: 190.124.252.129
-    port: 6666
-
-  - name: "德国-022-netcup GmbH"
-    type: http
-    server: 159.195.49.27
-    port: 8888
