@@ -1,45 +1,15 @@
 proxies:
-  - name: "香港-001-haoxiangyun"
+  - name: "印度尼西亚-001-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 8.215.25.3
+    port: 2081
+
+  - name: "荷兰-002-Psychz Networks"
+    type: http
+    server: 108.181.123.113
+    port: 3128
+
+  - name: "香港-003-haoxiangyun"
     type: http
     server: 45.155.226.177
     port: 3128
-
-  - name: "荷兰-002-LeaseWeb Netherlands B.V."
-    type: http
-    server: 95.211.174.135
-    port: 3128
-
-  - name: "德国-003-Hetzner Online GmbH"
-    type: http
-    server: 91.98.86.26
-    port: 8888
-
-  - name: "德国-004-Zenlayer Inc"
-    type: http
-    server: 103.237.102.191
-    port: 11111
-
-  - name: "香港-005-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "英国-006-NSFOCUS, Inc."
-    type: http
-    server: 212.58.132.5
-    port: 8888
-
-  - name: "Kazakhstan-007-Kcell JSC"
-    type: http
-    server: 2.78.60.10
-    port: 3129
-
-  - name: "香港-008-Alibaba Cloud LLC"
-    type: http
-    server: 47.238.134.126
-    port: 1081
-
-  - name: "新加坡-009-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 47.237.113.119
-    port: 1081
