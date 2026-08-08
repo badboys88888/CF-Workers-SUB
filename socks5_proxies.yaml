@@ -1,9 +1,9 @@
 proxies:
-- name: 中国-Zhejiang-112.124.108.67:1080
+- name: 中国-北京-106.13.48.221:1080
   type: socks5
-  server: 112.124.108.67
+  server: 106.13.48.221
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 total: 1
-updated: '2026-07-30 07:24:14'
+updated: '2026-08-08 05:28:19'
