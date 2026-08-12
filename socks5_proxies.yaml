@@ -1,9 +1,9 @@
 proxies:
-- name: 中国-上海-58.33.171.36:1080
+- name: 中国-Shaanxi-106.36.197.230:1080
   type: socks5
-  server: 58.33.171.36
+  server: 106.36.197.230
   port: 1080
   udp: false
   skip-cert-verify: true
 total: 1
-updated: '2026-08-11 05:48:25'
+updated: '2026-08-12 06:07:33'
