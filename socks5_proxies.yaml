@@ -1,9 +1,39 @@
 proxies:
+- name: 韩国-Seoul-teukbyeolsi-222.237.140.148:1080
+  type: socks5
+  server: 222.237.140.148
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 韩国-Gangwon-teukbyeoljachido-150.230.249.50:1080
+  type: socks5
+  server: 150.230.249.50
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 中国-上海-58.33.171.36:1080
+  type: socks5
+  server: 58.33.171.36
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 俄罗斯-Chelyabinskaya oblast'-5.206.91.155:1080
+  type: socks5
+  server: 5.206.91.155
+  port: 1080
+  udp: true
+  skip-cert-verify: true
 - name: 中国-北京-106.13.48.221:1080
   type: socks5
   server: 106.13.48.221
   port: 1080
   udp: false
   skip-cert-verify: true
-total: 1
-updated: '2026-08-16 05:13:51'
+- name: 新加坡-Singapore-178.128.53.12:1080
+  type: socks5
+  server: 178.128.53.12
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+total: 6
+updated: '2026-08-20 05:17:42'
