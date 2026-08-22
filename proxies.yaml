@@ -9,237 +9,189 @@ proxies:
     server: 13.221.202.200
     port: 3128
 
-  - name: "美国-003-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.153.82.179
-    port: 8888
-
-  - name: "美国-004-EXO BROADBAND"
+  - name: "美国-003-EXO BROADBAND"
     type: http
     server: 199.7.149.90
     port: 3128
+
+  - name: "德国-004-Zenlayer Inc"
+    type: http
+    server: 103.237.102.191
+    port: 11111
 
   - name: "瑞士-005-Geronimo Ramirez Computer Network"
     type: http
     server: 185.191.239.248
     port: 3128
 
-  - name: "美国-006-Amazon.com, Inc."
+  - name: "香港-006-Cogento Backbone Limited"
     type: http
-    server: 34.221.7.29
+    server: 176.111.37.5
+    port: 39811
+
+  - name: "香港-007-Amazon.com, Inc."
+    type: http
+    server: 95.40.233.164
     port: 3128
 
-  - name: "英国-007-NSFOCUS, Inc."
-    type: http
-    server: 212.58.132.5
-    port: 8888
-
-  - name: "新加坡-008-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.160.242.118
-    port: 3128
-
-  - name: "哥伦比亚-009-Cogent Communications"
-    type: http
-    server: 38.199.26.42
-    port: 999
-
-  - name: "德国-010-Zenlayer Inc"
-    type: http
-    server: 103.237.102.191
-    port: 11111
-
-  - name: "越南-011-Long Van System Solution"
-    type: http
-    server: 42.96.18.62
-    port: 1311
-
-  - name: "香港-012-haoxiangyun"
-    type: http
-    server: 45.156.223.54
-    port: 3128
-
-  - name: "以色列-013-O.M.C. COMPUTERS & COMMUNICATIONS LTD"
-    type: http
-    server: 185.28.155.163
-    port: 1433
-
-  - name: "印度尼西亚-014-PT Graha Multimedia Nusantara"
-    type: http
-    server: 150.107.104.18
-    port: 80
-
-  - name: "荷兰-015-Timeweb, LLP"
-    type: http
-    server: 72.56.109.88
-    port: 3128
-
-  - name: "法国-016-Contabo GmbH"
-    type: http
-    server: 80.241.214.192
-    port: 3128
-
-  - name: "美国-017-Google LLC"
-    type: http
-    server: 34.134.231.117
-    port: 3129
-
-  - name: "沙特阿拉伯-018-Oracle Corporation"
+  - name: "沙特阿拉伯-008-Oracle Corporation"
     type: http
     server: 130.110.103.245
     port: 3128
 
-  - name: "香港-019-haoxiangyun"
+  - name: "越南-009-Long Van System Solution"
     type: http
-    server: 45.156.223.57
-    port: 3128
+    server: 42.96.18.62
+    port: 1311
 
-  - name: "美国-020-Amazon.com, Inc."
+  - name: "美国-010-Amazon.com, Inc."
     type: http
     server: 98.83.197.228
     port: 3128
 
-  - name: "哥伦比亚-021-Ufinet Panama S.A."
+  - name: "哥伦比亚-011-Ufinet Panama S.A."
     type: http
     server: 181.78.74.253
     port: 999
 
-  - name: "Ecuador-022-Ufinet Panama S.A."
+  - name: "美国-012-Google LLC"
     type: http
-    server: 186.33.45.219
-    port: 999
+    server: 34.134.231.117
+    port: 3129
 
-  - name: "香港-023-Datacamp Limited"
-    type: http
-    server: 181.215.18.40
-    port: 8080
-
-  - name: "美国-024-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8080
-
-  - name: "香港-025-Cogento Backbone Limited"
+  - name: "香港-013-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "泰国-026-Office of Info.Tech. Admin. for Educational Development"
+  - name: "英国-014-NSFOCUS, Inc."
+    type: http
+    server: 212.58.132.5
+    port: 8888
+
+  - name: "加拿大-015-OVH SAS"
+    type: http
+    server: 15.235.21.254
+    port: 8080
+
+  - name: "美国-016-Amazon.com"
+    type: http
+    server: 44.193.20.213
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "美国-017-EXO BROADBAND"
+    type: http
+    server: 199.7.149.96
+    port: 3128
+
+  - name: "美国-018-Google LLC"
+    type: http
+    server: 153.72.68.0
+    port: 8080
+
+  - name: "泰国-019-Office of Info.Tech. Admin. for Educational Development"
     type: http
     server: 202.28.194.139
     port: 31280
 
-  - name: "美国-027-BlueVPS OU"
+  - name: "韩国-020-Oracle Corporation"
     type: http
-    server: 45.66.249.187
-    port: 8080
+    server: 130.162.144.61
+    port: 1080
 
-  - name: "美国-028-BlueVPS OU"
+  - name: "法国-021-Contabo GmbH"
     type: http
-    server: 45.66.249.187
-    port: 8181
+    server: 80.241.214.192
+    port: 3128
 
-  - name: "Ecuador-029-Telconet S.A"
+  - name: "Ecuador-022-Telconet S.A"
     type: http
     server: 181.39.25.196
     port: 8118
 
-  - name: "Venezuela-030-TotalCom Venezuela C.A."
+  - name: "新加坡-023-DigitalOcean, LLC"
     type: http
-    server: 200.59.191.27
-    port: 999
-
-  - name: "美国-031-BlueVPS OU"
-    type: http
-    server: 45.66.249.187
+    server: 152.42.167.241
     port: 3128
 
-  - name: "印度-032-National Knowledge Network"
-    type: http
-    server: 14.139.235.82
-    port: 3128
-
-  - name: "Bangladesh-033-Duranta Online"
+  - name: "Bangladesh-024-Duranta Online"
     type: http
     server: 103.177.118.145
     port: 8118
 
-  - name: "韩国-034-Naver Business Platform Asia Pacific Pte. Ltd."
+  - name: "印度-025-National Knowledge Network"
     type: http
-    server: 101.79.29.143
+    server: 14.139.235.82
     port: 3128
 
-  - name: "日本-035-Oracle Corporation"
-    type: http
-    server: 140.238.32.108
-    port: 3128
-
-  - name: "法国-036-OVH SAS"
+  - name: "法国-026-OVH SAS"
     type: http
     server: 37.59.125.131
     port: 8888
 
-  - name: "俄罗斯-037-Beget LLC"
+  - name: "巴基斯坦-027-Logitech Cable (Private) Limited"
     type: http
-    server: 159.194.228.40
-    port: 8888
+    server: 103.157.200.126
+    port: 3128
 
-  - name: "哥伦比亚-038-Ufinet Panama S.A."
+  - name: "俄罗斯-028-SpaceWeb Ltd"
+    type: http
+    server: 77.222.54.205
+    port: 3128
+
+  - name: "哥伦比亚-029-Ufinet Panama S.A."
     type: http
     server: 181.78.74.252
     port: 999
 
-  - name: "罗马尼亚-039-IP Solus Inc"
+  - name: "Venezuela-030-Viginet C.A"
     type: http
-    server: 185.141.26.131
-    port: 3128
+    server: 190.97.229.118
+    port: 999
 
-  - name: "韩国-040-SK Broadband Co Ltd"
+  - name: "韩国-031-SK Broadband Co Ltd"
     type: http
     server: 1.231.81.166
     port: 3128
 
-  - name: "香港-041-haoxiangyun"
+  - name: "波兰-032-The Constant Company, LLC"
     type: http
-    server: 45.156.223.38
+    server: 70.34.249.28
+    port: 2001
+
+  - name: "中国-033-China Telecom (Group)"
+    type: http
+    server: 114.94.148.37
+    port: 18080
+
+  - name: "美国-034-Amazon.com, Inc."
+    type: http
+    server: 34.238.165.158
     port: 3128
 
-  - name: "越南-042-VNPT"
+  - name: "以色列-035-Google LLC"
     type: http
-    server: 113.176.92.71
-    port: 3128
+    server: 34.165.141.4
+    port: 8888
 
-  - name: "美国-043-Google LLC"
+  - name: "荷兰-036-Global Connectivity Solutions LLP"
     type: http
-    server: 34.94.46.8
-    port: 80
+    server: 153.80.240.37
+    port: 8080
 
-  - name: "菲律宾-044-GigaFiber Corp."
+  - name: "香港-037-Byteplus Pte. Ltd."
     type: http
-    server: 154.82.131.34
-    port: 8082
+    server: 101.47.75.240
+    port: 5000
 
-  - name: "荷兰-045-LeaseWeb Netherlands B.V."
-    type: http
-    server: 95.211.174.135
-    port: 3128
-
-  - name: "香港-046-haoxiangyun"
-    type: http
-    server: 45.156.223.55
-    port: 3128
-
-  - name: "巴基斯坦-047-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10940
-
-  - name: "法国-048-Contabo GmbH"
+  - name: "法国-038-Contabo GmbH"
     type: http
     server: 213.136.77.119
     port: 8888
 
-  - name: "墨西哥-049-Cogent Communications"
+  - name: "马来西亚-039-Telekom Malaysia Berhad"
     type: http
-    server: 205.164.192.115
-    port: 999
+    server: 175.136.239.173
+    port: 8181
