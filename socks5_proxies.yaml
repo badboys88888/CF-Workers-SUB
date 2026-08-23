@@ -1,13 +1,13 @@
 proxies:
-- name: 中国-上海-47.100.179.135:1080
-  type: socks5
-  server: 47.100.179.135
-  port: 1080
-  udp: false
-  skip-cert-verify: true
 - name: 韩国-Seoul-teukbyeolsi-222.237.140.148:1080
   type: socks5
   server: 222.237.140.148
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 俄罗斯-Chelyabinskaya oblast'-5.206.91.155:1080
+  type: socks5
+  server: 5.206.91.155
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -17,11 +17,5 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: KH-Phnom Penh-202.79.26.242:1080
-  type: socks5
-  server: 202.79.26.242
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-total: 4
-updated: '2026-08-22 05:13:08'
+total: 3
+updated: '2026-08-23 05:15:29'
