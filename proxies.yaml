@@ -1,10 +1,200 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "美国-001-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.153.82.179
+    port: 8888
+
+  - name: "美国-002-Hosted Backbone"
+    type: http
+    server: 64.112.184.210
+    port: 3128
+
+  - name: "美国-003-EXO BROADBAND"
+    type: http
+    server: 199.7.149.90
+    port: 3128
+
+  - name: "美国-004-BlueVPS OU"
+    type: http
+    server: 45.66.249.187
+    port: 8080
+
+  - name: "以色列-005-The Constant Company, LLC"
+    type: http
+    server: 64.176.171.202
+    port: 2001
+
+  - name: "瑞士-006-Geronimo Ramirez Computer Network"
+    type: http
+    server: 185.191.239.248
+    port: 3128
+
+  - name: "新加坡-007-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.160.242.118
+    port: 3128
+
+  - name: "越南-008-Long Van System Solution"
+    type: http
+    server: 42.96.18.62
+    port: 1311
+
+  - name: "沙特阿拉伯-009-Oracle Corporation"
+    type: http
+    server: 130.110.103.245
+    port: 3128
+
+  - name: "英国-010-NSFOCUS, Inc."
+    type: http
+    server: 212.58.132.5
+    port: 8888
+
+  - name: "Venezuela-011-Viginet C.A"
+    type: http
+    server: 190.97.236.129
+    port: 999
+
+  - name: "美国-012-Google LLC"
+    type: http
+    server: 34.134.231.117
+    port: 3129
+
+  - name: "香港-013-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 43.99.100.108
+    port: 3128
+
+  - name: "哥伦比亚-014-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.253
+    port: 999
+
+  - name: "美国-015-Amazon.com"
+    type: http
+    server: 44.193.20.213
+    port: 8081
+
+  - name: "马来西亚-016-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.250.155.254
+    port: 111
+
+  - name: "法国-017-Contabo GmbH"
+    type: http
+    server: 80.241.214.192
+    port: 3128
+
+  - name: "美国-018-BlueVPS OU"
+    type: http
+    server: 45.66.249.187
+    port: 8181
+
+  - name: "加拿大-019-OVH SAS"
+    type: http
+    server: 15.235.21.254
+    port: 8080
+
+  - name: "美国-020-EXO BROADBAND"
+    type: http
+    server: 199.7.149.96
+    port: 3128
+
+  - name: "美国-021-Google LLC"
     type: http
     server: 153.72.68.0
     port: 8080
 
-  - name: "Ecuador-002-Telconet S.A"
+  - name: "泰国-022-Office of Info.Tech. Admin. for Educational Development"
+    type: http
+    server: 202.28.194.139
+    port: 31280
+
+  - name: "Ecuador-023-Telconet S.A"
     type: http
     server: 181.39.25.196
     port: 8118
+
+  - name: "印度-024-National Knowledge Network"
+    type: http
+    server: 14.139.235.82
+    port: 3128
+
+  - name: "Bangladesh-025-Duranta Online"
+    type: http
+    server: 103.177.118.145
+    port: 8118
+
+  - name: "德国-026-Hetzner Online GmbH"
+    type: http
+    server: 159.69.45.217
+    port: 1083
+
+  - name: "俄罗斯-027-Region Svyaz Konsalt LLC"
+    type: http
+    server: 217.77.102.18
+    port: 3128
+
+  - name: "新加坡-028-DigitalOcean, LLC"
+    type: http
+    server: 152.42.167.241
+    port: 3128
+
+  - name: "哥伦比亚-029-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.252
+    port: 999
+
+  - name: "法国-030-OVH SAS"
+    type: http
+    server: 37.59.125.131
+    port: 8888
+
+  - name: "Venezuela-031-Viginet C.A"
+    type: http
+    server: 190.97.236.128
+    port: 999
+
+  - name: "泰国-032-Alibaba.com LLC"
+    type: http
+    server: 47.81.56.193
+    port: 8888
+
+  - name: "韩国-033-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
+    port: 3128
+
+  - name: "菲律宾-034-Globe Telecom"
+    type: http
+    server: 180.191.52.42
+    port: 8081
+
+  - name: "波兰-035-The Constant Company, LLC"
+    type: http
+    server: 70.34.249.28
+    port: 2001
+
+  - name: "美国-036-Alibaba Cloud LLC"
+    type: http
+    server: 47.252.52.58
+    port: 8081
+
+  - name: "马来西亚-037-TM TECHNOLOGY SERVICES SDN BHD"
+    type: http
+    server: 175.139.255.25
+    port: 8181
+
+  - name: "香港-038-Byteplus Pte. Ltd."
+    type: http
+    server: 101.47.75.240
+    port: 5000
+
+  - name: "法国-039-Contabo GmbH"
+    type: http
+    server: 173.212.245.136
+    port: 8888
+
+  - name: "Venezuela-040-RED SERVITEL, CA"
+    type: http
+    server: 38.172.160.16
+    port: 999
