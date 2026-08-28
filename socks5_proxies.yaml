@@ -1,15 +1,15 @@
 proxies:
-- name: 俄罗斯-Chelyabinskaya oblast'-5.206.91.155:1080
+- name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
   type: socks5
-  server: 5.206.91.155
+  server: 1.176.45.216
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-北京-106.13.48.221:1080
+- name: 中国-HK-82.152.163.131:1080
   type: socks5
-  server: 106.13.48.221
+  server: 82.152.163.131
   port: 1080
   udp: false
   skip-cert-verify: true
 total: 2
-updated: '2026-08-27 15:37:58'
+updated: '2026-08-28 17:02:13'
