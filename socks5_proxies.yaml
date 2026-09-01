@@ -11,11 +11,11 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: KH-Phnom Penh-202.79.26.242:1080
+- name: 中国-北京-106.13.48.221:1080
   type: socks5
-  server: 202.79.26.242
+  server: 106.13.48.221
   port: 1080
   udp: false
   skip-cert-verify: true
 total: 3
-updated: '2026-08-31 11:16:00'
+updated: '2026-09-01 09:46:25'
