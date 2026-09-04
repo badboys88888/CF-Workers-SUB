@@ -1,10 +1,4 @@
 proxies:
-- name: 中国-HK-43.174.86.28:1080
-  type: socks5
-  server: 43.174.86.28
-  port: 1080
-  udp: false
-  skip-cert-verify: true
 - name: 中国-Zhejiang-112.124.108.67:1080
   type: socks5
   server: 112.124.108.67
@@ -17,11 +11,17 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-上海-218.79.166.10:1080
+- name: 中国-HK-43.174.86.28:1080
   type: socks5
-  server: 218.79.166.10
+  server: 43.174.86.28
   port: 1080
   udp: false
   skip-cert-verify: true
+- name: 中国-广东-134.175.238.113:1080
+  type: socks5
+  server: 134.175.238.113
+  port: 1080
+  udp: true
+  skip-cert-verify: true
 total: 4
-updated: '2026-09-03 09:19:11'
+updated: '2026-09-04 09:12:26'
