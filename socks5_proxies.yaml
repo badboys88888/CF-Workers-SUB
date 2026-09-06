@@ -5,11 +5,11 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 韩国-Seoul-teukbyeolsi-115.137.99.234:1080
+- name: 中国-上海-218.79.166.10:1080
   type: socks5
-  server: 115.137.99.234
+  server: 218.79.166.10
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 - name: 中国-Zhejiang-112.124.108.67:1080
   type: socks5
@@ -24,4 +24,4 @@ proxies:
   udp: false
   skip-cert-verify: true
 total: 4
-updated: '2026-09-05 08:43:04'
+updated: '2026-09-06 09:00:52'
