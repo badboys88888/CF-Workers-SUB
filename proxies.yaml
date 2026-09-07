@@ -1,52 +1,50 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "哥伦比亚-001-Ufinet Panama S.A."
     type: http
-    server: 34.43.46.91
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 181.78.23.187
+    port: 999
 
-  - name: "中国-002-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "哥伦比亚-002-Ufinet Panama S.A."
     type: http
-    server: 120.26.104.146
-    port: 1111
+    server: 181.78.74.253
+    port: 999
 
   - name: "英国-003-Hydra Communications Ltd"
     type: http
     server: 81.19.210.10
     port: 80
 
-  - name: "Venezuela-004-Cogent Communications"
-    type: http
-    server: 154.59.56.76
-    port: 999
-
-  - name: "美国-005-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 80
-
-  - name: "美国-006-Google LLC"
-    type: http
-    server: 34.134.231.117
-    port: 3129
-
-  - name: "美国-007-Google LLC"
+  - name: "美国-004-Google LLC"
     type: http
     server: 153.72.68.0
     port: 8080
 
-  - name: "美国-008-Google LLC"
+  - name: "哥伦比亚-005-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.252
+    port: 999
+
+  - name: "美国-006-Google LLC"
     type: http
     server: 153.72.68.0
     port: 8081
 
-  - name: "芬兰-009-SERV.HOST GROUP LTD"
+  - name: "中国-007-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 94.156.180.94
-    port: 40001
+    server: 139.196.175.68
+    port: 8080
 
-  - name: "印度-010-Microsoft Corporation"
+  - name: "中国-008-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 52.140.40.92
-    port: 80
+    server: 47.107.166.143
+    port: 3128
+
+  - name: "马来西亚-009-TM TECHNOLOGY SERVICES SDN BHD"
+    type: http
+    server: 175.143.76.177
+    port: 8181
+
+  - name: "中国-010-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.108.159.113
+    port: 9080
