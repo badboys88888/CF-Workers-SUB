@@ -9,177 +9,237 @@ proxies:
     server: 181.78.23.187
     port: 999
 
-  - name: "哥伦比亚-003-Ufinet Panama S.A."
+  - name: "土耳其-003-Turk Telekomunikasyon Anonim Sirketi"
     type: http
-    server: 181.78.74.253
-    port: 999
-
-  - name: "沙特阿拉伯-004-Oracle Corporation"
-    type: http
-    server: 130.110.103.245
-    port: 3128
-
-  - name: "香港-005-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 47.57.69.227
-    port: 3128
-
-  - name: "埃及-006-Link Egypt (Link.NET)"
-    type: http
-    server: 197.164.101.13
-    port: 1981
-
-  - name: "泰国-007-Office of Info.Tech. Admin. for Educational Development"
-    type: http
-    server: 202.28.194.139
-    port: 31280
-
-  - name: "Venezuela-008-Tecnoven Services C.A"
-    type: http
-    server: 38.51.207.104
+    server: 95.3.69.222
     port: 8080
 
-  - name: "香港-009-haoxiangyun"
+  - name: "香港-004-haoxiangyun"
     type: http
     server: 103.211.103.170
     port: 3128
 
-  - name: "德国-010-Hetzner Online GmbH"
+  - name: "沙特阿拉伯-005-Oracle Corporation"
+    type: http
+    server: 130.110.103.245
+    port: 3128
+
+  - name: "哥伦比亚-006-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.253
+    port: 999
+
+  - name: "德国-007-Hetzner Online GmbH"
     type: http
     server: 167.233.169.253
     port: 1081
 
-  - name: "法国-011-OVH SAS"
+  - name: "美国-008-RapidSeedbox Ltd"
+    type: http
+    server: 45.86.245.81
+    port: 8080
+
+  - name: "泰国-009-Office of Info.Tech. Admin. for Educational Development"
+    type: http
+    server: 202.28.194.139
+    port: 31280
+
+  - name: "埃及-010-Link Egypt (Link.NET)"
+    type: http
+    server: 197.164.101.13
+    port: 1981
+
+  - name: "埃及-011-LINKdotNET AS number"
+    type: http
+    server: 41.128.90.51
+    port: 1981
+
+  - name: "法国-012-OVH SAS"
     type: http
     server: 37.59.125.131
     port: 8888
 
-  - name: "德国-012-Hetzner Online GmbH"
-    type: http
-    server: 167.233.169.253
-    port: 1083
-
-  - name: "埃及-013-Vodafone Data - Egypt"
-    type: http
-    server: 196.204.3.21
-    port: 1981
-
-  - name: "德国-014-Hetzner Online GmbH"
+  - name: "德国-013-Hetzner Online GmbH"
     type: http
     server: 167.233.169.253
     port: 1082
 
-  - name: "埃及-015-Vodafone Data - Egypt"
+  - name: "德国-014-netcup GmbH"
     type: http
-    server: 196.204.3.21
-    port: 1976
-
-  - name: "加拿大-016-Amanah Tech Inc."
-    type: http
-    server: 184.75.221.82
-    port: 3118
-
-  - name: "美国-017-Google LLC"
-    type: http
-    server: 34.134.231.117
-    port: 3129
-
-  - name: "香港-018-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "越南-019-VTDC"
-    type: http
-    server: 210.211.113.37
-    port: 80
-
-  - name: "Venezuela-020-Viginet C.A"
-    type: http
-    server: 190.97.236.129
-    port: 999
-
-  - name: "德国-021-Hetzner Online GmbH"
-    type: http
-    server: 116.202.172.187
-    port: 11000
-
-  - name: "香港-022-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "俄罗斯-023-Ihor Hosting LTD"
-    type: http
-    server: 185.200.188.234
-    port: 10001
-
-  - name: "美国-024-EXO BROADBAND"
-    type: http
-    server: 199.7.149.96
-    port: 3128
-
-  - name: "Venezuela-025-Viginet C.A"
-    type: http
-    server: 190.97.241.106
-    port: 999
-
-  - name: "美国-026-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8080
-
-  - name: "哥伦比亚-027-Ufinet Panama S.A."
-    type: http
-    server: 181.78.74.252
-    port: 999
-
-  - name: "印度-028-National Knowledge Network"
-    type: http
-    server: 14.139.235.82
-    port: 3128
-
-  - name: "韩国-029-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
-    port: 3128
-
-  - name: "印度-030-BSNL Internet"
-    type: http
-    server: 117.236.124.166
-    port: 3128
-
-  - name: "美国-031-Google LLC"
-    type: http
-    server: 153.72.68.0
+    server: 152.53.183.107
     port: 8081
 
-  - name: "越南-032-VNPT"
+  - name: "马来西亚-015-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 14.251.13.20
-    port: 8080
+    server: 47.250.155.254
+    port: 111
 
-  - name: "瑞士-033-Geronimo Ramirez Computer Network"
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.208.149
+    port: 8008
+
+  - name: "新加坡-017-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.237.113.119
+    port: 1080
+
+  - name: "瑞士-018-Geronimo Ramirez Computer Network"
     type: http
     server: 185.191.239.248
     port: 3128
 
-  - name: "台湾-034-CDS Global Cloud Co., Ltd"
+  - name: "香港-019-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
     type: http
-    server: 164.52.11.194
-    port: 18080
+    server: 165.154.7.156
+    port: 8888
 
-  - name: "德国-035-Hetzner Online GmbH"
+  - name: "中国-020-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 47.116.210.163
+    port: 8888
+
+  - name: "美国-021-Google LLC"
+    type: http
+    server: 34.134.231.117
+    port: 3129
+
+  - name: "香港-022-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.5
+    port: 39811
+
+  - name: "德国-023-Hetzner Online GmbH"
+    type: http
+    server: 167.233.169.253
+    port: 1083
+
+  - name: "埃及-024-Link Egypt (Link.NET)"
+    type: http
+    server: 197.164.101.14
+    port: 1976
+
+  - name: "瑞典-025-SERV.HOST GROUP LTD"
+    type: http
+    server: 193.23.200.64
+    port: 3128
+
+  - name: "Venezuela-026-Viginet C.A"
+    type: http
+    server: 190.97.236.129
+    port: 999
+
+  - name: "Venezuela-027-Viginet C.A"
+    type: http
+    server: 190.97.241.106
+    port: 999
+
+  - name: "香港-028-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "英国-029-BT Public Internet Service"
+    type: http
+    server: 81.158.71.182
+    port: 8888
+
+  - name: "越南-030-VTDC"
+    type: http
+    server: 210.211.113.37
+    port: 80
+
+  - name: "美国-031-Google LLC"
+    type: http
+    server: 153.72.68.0
+    port: 8080
+
+  - name: "俄罗斯-032-Ihor Hosting LTD"
+    type: http
+    server: 185.200.188.234
+    port: 10001
+
+  - name: "哥伦比亚-033-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.252
+    port: 999
+
+  - name: "美国-034-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
+    type: http
+    server: 165.154.162.73
+    port: 8888
+
+  - name: "越南-035-VTDC"
+    type: http
+    server: 210.211.113.33
+    port: 80
+
+  - name: "Venezuela-036-Viginet C.A"
+    type: http
+    server: 190.97.236.128
+    port: 999
+
+  - name: "印度-037-National Knowledge Network"
+    type: http
+    server: 14.139.235.82
+    port: 3128
+
+  - name: "新加坡-038-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 43.98.172.166
+    port: 3128
+
+  - name: "美国-039-Google LLC"
+    type: http
+    server: 153.72.68.0
+    port: 8081
+
+  - name: "加拿大-040-HostPapa"
+    type: http
+    server: 167.160.186.208
+    port: 8080
+
+  - name: "泰国-041-Alibaba.com LLC"
+    type: http
+    server: 47.81.56.193
+    port: 8888
+
+  - name: "韩国-042-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
+    port: 3128
+
+  - name: "墨西哥-043-Uninet S.A. de C.V."
+    type: http
+    server: 187.172.186.75
+    port: 999
+
+  - name: "越南-044-VNPT"
+    type: http
+    server: 14.251.13.20
+    port: 8080
+
+  - name: "德国-045-Hetzner Online GmbH"
     type: http
     server: 167.233.169.253
     port: 1084
 
-  - name: "中国-036-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "中国-046-Alibaba (US) Technology Co"
     type: http
-    server: 47.116.210.163
-    port: 80
+    server: 47.100.130.127
+    port: 8090
 
-  - name: "美国-037-Oy Crea Nova Hosting Solution Ltd"
+  - name: "中国-047-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 85.209.156.148
-    port: 1080
+    server: 47.116.181.146
+    port: 8090
+
+  - name: "中国-048-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 106.14.104.220
+    port: 3333
+
+  - name: "中国-049-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 120.79.217.196
+    port: 9000
