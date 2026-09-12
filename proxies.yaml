@@ -1,220 +1,90 @@
 proxies:
-  - name: "土耳其-001-Turk Telekomunikasyon Anonim Sirketi"
+  - name: "哥伦比亚-001-Ufinet Panama S.A."
     type: http
-    server: 95.3.69.222
+    server: 181.78.23.187
+    port: 999
+
+  - name: "法国-002-Contabo GmbH"
+    type: http
+    server: 167.86.104.220
+    port: 80
+
+  - name: "Venezuela-003-Viginet C.A"
+    type: http
+    server: 190.97.236.129
+    port: 999
+
+  - name: "美国-004-Google LLC"
+    type: http
+    server: 34.134.231.117
+    port: 3129
+
+  - name: "哥伦比亚-005-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.253
+    port: 999
+
+  - name: "中国-006-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.208.236
+    port: 34567
+
+  - name: "美国-007-Google LLC"
+    type: http
+    server: 153.72.68.0
     port: 8080
 
-  - name: "荷兰-002-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
+  - name: "中国-008-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 160.238.65.9
+    server: 121.43.154.123
+    port: 8085
+
+  - name: "哥伦比亚-009-Ufinet Panama S.A."
+    type: http
+    server: 181.78.74.252
+    port: 999
+
+  - name: "Venezuela-010-Viginet C.A"
+    type: http
+    server: 190.97.236.128
+    port: 999
+
+  - name: "美国-011-Google LLC"
+    type: http
+    server: 34.43.46.91
+    port: 443
+
+  - name: "美国-012-Google LLC"
+    type: http
+    server: 153.72.68.0
+    port: 8081
+
+  - name: "美国-013-Amazon.com, Inc."
+    type: http
+    server: 54.177.115.112
+    port: 1080
+
+  - name: "韩国-014-SK Broadband Co Ltd"
+    type: http
+    server: 1.231.81.166
     port: 3128
 
-  - name: "沙特阿拉伯-003-Oracle Corporation"
+  - name: "越南-015-VNPT"
     type: http
-    server: 130.110.103.245
-    port: 3128
-
-  - name: "德国-004-Hetzner Online GmbH"
-    type: http
-    server: 167.233.169.253
-    port: 1081
-
-  - name: "Venezuela-005-Tecnoven Services C.A"
-    type: http
-    server: 38.51.207.104
+    server: 14.251.13.20
     port: 8080
 
-  - name: "香港-006-haoxiangyun"
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 103.211.103.170
-    port: 3128
-
-  - name: "埃及-007-Link Egypt (Link.NET)"
-    type: http
-    server: 197.164.101.13
-    port: 1981
-
-  - name: "荷兰-008-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.3
-    port: 3128
-
-  - name: "泰国-009-Office of Info.Tech. Admin. for Educational Development"
-    type: http
-    server: 202.28.194.139
-    port: 31280
-
-  - name: "荷兰-010-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.7
-    port: 3128
-
-  - name: "芬兰-011-Baykov Ilya Sergeevich"
-    type: http
-    server: 109.122.194.122
-    port: 9000
-
-  - name: "德国-012-Hetzner Online GmbH"
-    type: http
-    server: 167.233.169.253
-    port: 1083
-
-  - name: "法国-013-OVH SAS"
-    type: http
-    server: 37.59.125.131
+    server: 39.102.211.162
     port: 8888
-
-  - name: "荷兰-014-GZ REMITTANCE (CHINA) INDUSTRY LIMITED"
-    type: http
-    server: 160.238.65.8
-    port: 3128
-
-  - name: "Bangladesh-015-Duranta Online"
-    type: http
-    server: 103.177.118.145
-    port: 8118
-
-  - name: "美国-016-1337 Services GmbH"
-    type: http
-    server: 124.198.131.164
-    port: 3128
 
   - name: "德国-017-Hetzner Online GmbH"
     type: http
     server: 167.233.169.253
     port: 1082
 
-  - name: "加拿大-018-Amanah Tech Inc."
-    type: http
-    server: 184.75.221.82
-    port: 3118
-
-  - name: "越南-019-VTDC"
-    type: http
-    server: 210.211.113.35
-    port: 80
-
-  - name: "香港-020-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.5
-    port: 39811
-
-  - name: "Venezuela-021-Viginet C.A"
-    type: http
-    server: 190.97.236.129
-    port: 999
-
-  - name: "新加坡-022-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 43.98.172.166
-    port: 3128
-
-  - name: "中国-023-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.236
-    port: 10000
-
-  - name: "俄罗斯-024-Ihor Hosting LTD"
-    type: http
-    server: 185.200.188.234
-    port: 10001
-
-  - name: "瑞士-025-Geronimo Ramirez Computer Network"
-    type: http
-    server: 185.191.239.248
-    port: 3128
-
-  - name: "美国-026-Google LLC"
-    type: http
-    server: 34.134.231.117
-    port: 3129
-
-  - name: "美国-027-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8080
-
-  - name: "英国-028-BT Public Internet Service"
-    type: http
-    server: 81.158.71.182
-    port: 8888
-
-  - name: "越南-029-VTDC"
-    type: http
-    server: 210.211.113.37
-    port: 80
-
-  - name: "香港-030-Cogento Backbone Limited"
-    type: http
-    server: 176.111.37.216
-    port: 39811
-
-  - name: "Venezuela-031-Viginet C.A"
-    type: http
-    server: 190.97.236.128
-    port: 999
-
-  - name: "美国-032-Google LLC"
-    type: http
-    server: 153.72.68.0
-    port: 8081
-
-  - name: "印度-033-National Knowledge Network"
-    type: http
-    server: 14.139.235.82
-    port: 3128
-
-  - name: "中国-034-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 139.196.175.68
-    port: 8080
-
-  - name: "韩国-035-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
-    port: 3128
-
-  - name: "荷兰-036-LeaseWeb Netherlands B.V."
-    type: http
-    server: 95.211.174.135
-    port: 3128
-
-  - name: "越南-037-VNPT"
-    type: http
-    server: 14.251.13.20
-    port: 8080
-
-  - name: "德国-038-Hetzner Online GmbH"
+  - name: "德国-018-Hetzner Online GmbH"
     type: http
     server: 167.233.169.253
     port: 1084
-
-  - name: "哥伦比亚-039-Intermegamundo Partners S.A.S."
-    type: http
-    server: 45.172.218.67
-    port: 3028
-
-  - name: "德国-040-Hetzner Online GmbH"
-    type: http
-    server: 167.233.169.253
-    port: 1085
-
-  - name: "法国-041-Contabo GmbH"
-    type: http
-    server: 194.163.175.167
-    port: 40001
-
-  - name: "中国-042-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 120.79.217.196
-    port: 9000
-
-  - name: "中国-043-China Internet Network Information Center"
-    type: http
-    server: 114.215.127.92
-    port: 8118
-
-  - name: "印度尼西亚-044-PT Kawan Lama Sejahtera"
-    type: http
-    server: 103.61.234.186
-    port: 8180
