@@ -1,170 +1,172 @@
 proxies:
-  - name: "墨西哥-001-Comunicación por Fibra SA de CV"
+  - name: "墨西哥-001-Latitude.sh"
     type: http
-    server: 189.51.168.164
-    port: 999
+    server: 103.88.234.239
+    port: 40002
 
-  - name: "香港-002-Cogento Backbone Limited"
+  - name: "Kazakhstan-002-JSC Kazakhtelecom"
+    type: http
+    server: 212.154.169.90
+    port: 3128
+
+  - name: "香港-003-Cogento Backbone Limited"
     type: http
     server: 176.111.37.5
     port: 39811
 
-  - name: "越南-003-VTDC"
+  - name: "瑞士-004-Geronimo Ramirez Computer Network"
     type: http
-    server: 210.211.113.37
-    port: 80
+    server: 185.191.239.248
+    port: 3128
 
-  - name: "美国-004-Google LLC"
+  - name: "美国-005-Contabo Inc."
     type: http
-    server: 34.134.231.117
-    port: 3129
+    server: 144.126.137.165
+    port: 1080
 
-  - name: "荷兰-005-SOLLUTIUM EU Sp z.o.o."
+  - name: "墨西哥-006-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40006
+
+  - name: "荷兰-007-SOLLUTIUM EU Sp z.o.o."
     type: http
     server: 213.111.146.36
     port: 18080
 
-  - name: "沙特阿拉伯-006-Oracle Corporation"
+  - name: "美国-008-Google LLC"
     type: http
-    server: 130.110.103.245
+    server: 34.134.231.117
+    port: 3129
+
+  - name: "法国-009-Contabo GmbH"
+    type: http
+    server: 213.136.72.147
     port: 3128
 
-  - name: "加拿大-007-OVH SAS"
-    type: http
-    server: 148.113.202.99
-    port: 3128
-
-  - name: "埃及-008-Etisalat"
-    type: http
-    server: 62.193.104.26
-    port: 1981
-
-  - name: "美国-009-Nocix, LLC"
+  - name: "美国-010-Nocix, LLC"
     type: http
     server: 107.150.41.226
     port: 18080
 
-  - name: "越南-010-VTDC"
+  - name: "Iran-011-Noyan Abr Arvan Co. ( Private Joint Stock)"
     type: http
-    server: 210.211.113.34
-    port: 80
-
-  - name: "芬兰-011-Hetzner Online GmbH"
-    type: http
-    server: 65.109.217.164
-    port: 3128
+    server: 37.32.20.216
+    port: 8080
 
   - name: "俄罗斯-012-Ihor Hosting LTD"
-    type: http
-    server: 45.132.252.25
-    port: 49156
-
-  - name: "俄罗斯-013-Ihor Hosting LTD"
     type: http
     server: 185.200.188.234
     port: 10001
 
-  - name: "越南-014-VTDC"
+  - name: "香港-013-Cogento Backbone Limited"
     type: http
-    server: 210.211.113.33
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "俄罗斯-014-Ihor Hosting LTD"
+    type: http
+    server: 45.132.252.25
+    port: 49156
+
+  - name: "越南-015-VTDC"
+    type: http
+    server: 210.211.113.34
     port: 80
 
-  - name: "香港-015-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
+  - name: "美国-016-Comcast Cable Communications"
     type: http
-    server: 101.36.112.205
-    port: 1081
+    server: 73.162.86.230
+    port: 8194
 
-  - name: "美国-016-Google LLC"
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 153.72.68.0
-    port: 8080
+    server: 39.102.209.121
+    port: 8888
 
-  - name: "越南-017-VTDC"
+  - name: "美国-018-Comcast Cable Communications"
     type: http
-    server: 210.211.113.35
-    port: 80
+    server: 73.162.86.230
+    port: 443
+    tls: true
+    skip-cert-verify: true
 
-  - name: "Uzbekistan-018-Uzbektelekom Joint Stock Company"
-    type: http
-    server: 195.158.22.212
-    port: 3128
-
-  - name: "Venezuela-019-Tecnoven Services C.A"
-    type: http
-    server: 38.51.207.104
-    port: 8080
-
-  - name: "法国-020-Contabo GmbH"
-    type: http
-    server: 167.86.104.220
-    port: 80
-
-  - name: "Uzbekistan-021-LLC BROSS-TELECOM"
-    type: http
-    server: 193.104.179.115
-    port: 3128
-
-  - name: "越南-022-VTDC"
+  - name: "越南-019-VTDC"
     type: http
     server: 210.211.113.36
     port: 80
 
-  - name: "美国-023-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "印度-020-National Knowledge Network"
     type: http
-    server: 43.153.123.79
-    port: 80
+    server: 14.139.235.82
+    port: 3128
 
-  - name: "法国-024-OVH SAS"
+  - name: "美国-021-Microsoft Corporation"
+    type: http
+    server: 172.210.12.8
+    port: 3128
+
+  - name: "法国-022-OVH SAS"
     type: http
     server: 37.59.125.131
     port: 8888
 
-  - name: "美国-025-Google LLC"
+  - name: "Uzbekistan-023-LLC BROSS-TELECOM"
     type: http
-    server: 153.72.68.0
-    port: 8081
-
-  - name: "韩国-026-SK Broadband Co Ltd"
-    type: http
-    server: 1.231.81.166
+    server: 193.104.179.115
     port: 3128
 
-  - name: "法国-027-Contabo GmbH"
+  - name: "美国-024-DigitalOcean, LLC"
     type: http
-    server: 194.163.175.167
-    port: 40000
+    server: 165.227.220.70
+    port: 40001
 
-  - name: "中国-028-Hangzhou Alibaba Advertising Co"
+  - name: "巴基斯坦-025-Connect Communication"
     type: http
-    server: 106.14.104.220
-    port: 9098
+    server: 111.119.162.248
+    port: 10919
 
-  - name: "越南-029-VNPT"
+  - name: "德国-026-netcup GmbH"
     type: http
-    server: 14.251.13.20
+    server: 152.53.183.107
+    port: 8081
+
+  - name: "Iran-027-Pars Abr Toseeh Ertebatat LTD"
+    type: http
+    server: 85.133.250.27
+    port: 80
+
+  - name: "中国-028-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 47.116.210.163
     port: 8080
 
-  - name: "Venezuela-030-TotalCom Venezuela C.A."
+  - name: "中国-029-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 200.59.191.27
-    port: 999
+    server: 106.14.104.220
+    port: 5060
 
-  - name: "美国-031-HostPapa"
+  - name: "美国-030-HostPapa"
     type: http
     server: 107.172.232.2
     port: 7890
 
-  - name: "Morocco-032-Oracle Corporation"
+  - name: "中国-031-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 84.8.216.230
-    port: 2001
+    server: 47.108.159.113
+    port: 3129
 
-  - name: "瑞典-033-SERV.HOST GROUP LTD"
+  - name: "俄罗斯-032-MTS PJSC"
     type: http
-    server: 193.23.200.64
+    server: 195.19.217.200
     port: 3128
 
-  - name: "越南-034-VNPT"
+  - name: "中国-033-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 14.161.87.244
-    port: 2001
+    server: 47.116.181.146
+    port: 9443
+
+  - name: "法国-034-Contabo GmbH"
+    type: http
+    server: 157.173.115.35
+    port: 1081
