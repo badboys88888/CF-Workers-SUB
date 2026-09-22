@@ -1,265 +1,85 @@
 proxies:
-  - name: "法国-001-Contabo GmbH"
-    type: http
-    server: 167.86.104.220
-    port: 80
-
-  - name: "Venezuela-002-Valor Information Technologies"
-    type: http
-    server: 153.51.201.35
-    port: 999
-
-  - name: "瑞士-003-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10088
-
-  - name: "瑞士-004-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 11368
-
-  - name: "Kazakhstan-005-JSC Kazakhtelecom"
-    type: http
-    server: 212.154.169.90
-    port: 3128
-
-  - name: "瑞士-006-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10878
-
-  - name: "越南-007-Vietnam Posts and Telecommunications Group"
-    type: http
-    server: 14.225.68.207
-    port: 1337
-
-  - name: "土耳其-008-Turk Telekomunikasyon Anonim Sirketi"
-    type: http
-    server: 95.3.69.222
-    port: 8080
-
-  - name: "瑞士-009-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 22222
-
-  - name: "墨西哥-010-Latitude.sh"
-    type: http
-    server: 103.88.234.239
-    port: 40011
-
-  - name: "新加坡-011-DigitalOcean, LLC"
-    type: http
-    server: 167.172.84.23
-    port: 3128
-
-  - name: "美国-012-DigitalOcean, LLC"
-    type: http
-    server: 159.65.233.169
-    port: 54321
-
-  - name: "荷兰-013-SOLLUTIUM EU Sp z.o.o."
-    type: http
-    server: 213.111.146.36
-    port: 18080
-
-  - name: "Venezuela-014-Viginet C.A"
-    type: http
-    server: 190.97.236.129
-    port: 999
-
-  - name: "墨西哥-015-Latitude.sh"
+  - name: "墨西哥-001-Latitude.sh"
     type: http
     server: 103.88.234.239
     port: 40002
 
-  - name: "瑞士-016-Zscaler Switzerland GmbH"
+  - name: "土耳其-002-Turk Telekomunikasyon Anonim Sirketi"
     type: http
-    server: 147.161.246.246
-    port: 12284
+    server: 95.3.69.222
+    port: 8080
 
-  - name: "墨西哥-017-Latitude.sh"
+  - name: "埃及-003-Etisalat"
     type: http
-    server: 103.88.234.239
-    port: 40010
+    server: 62.193.104.26
+    port: 1976
 
-  - name: "瑞士-018-Datasource AG"
+  - name: "印度尼西亚-004-PT SELARAS CITRA TERABIT"
+    type: http
+    server: 121.101.133.105
+    port: 8586
+
+  - name: "荷兰-005-SOLLUTIUM EU Sp z.o.o."
+    type: http
+    server: 213.111.146.36
+    port: 18080
+
+  - name: "越南-006-Vietnam Posts and Telecommunications Group"
+    type: http
+    server: 14.225.68.207
+    port: 1337
+
+  - name: "美国-007-DigitalOcean, LLC"
+    type: http
+    server: 159.65.233.169
+    port: 54321
+
+  - name: "俄罗斯-008-Ihor Hosting LTD"
+    type: http
+    server: 185.200.188.234
+    port: 10001
+
+  - name: "瑞士-009-Datasource AG"
     type: http
     server: 185.195.71.218
     port: 18080
 
-  - name: "中国-019-Hangzhou Alibaba Advertising Co"
+  - name: "Bangladesh-010-Mutual Trust Bank Limited"
     type: http
-    server: 47.107.142.198
-    port: 8082
+    server: 124.109.105.44
+    port: 3128
 
-  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+  - name: "俄罗斯-011-Ihor Hosting LTD"
     type: http
-    server: 39.102.213.187
-    port: 8090
+    server: 45.132.252.25
+    port: 49156
 
-  - name: "香港-021-Alibaba Cloud LLC"
-    type: http
-    server: 47.238.128.246
-    port: 1000
-
-  - name: "埃及-022-LINKdotNET AS number"
-    type: http
-    server: 41.128.90.54
-    port: 1976
-
-  - name: "俄罗斯-023-JSC TIMEWEB"
-    type: http
-    server: 5.129.249.123
-    port: 61925
-
-  - name: "瑞士-024-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10314
-
-  - name: "瑞士-025-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 11914
-
-  - name: "Venezuela-026-Viginet C.A"
-    type: http
-    server: 190.97.236.130
-    port: 999
-
-  - name: "瑞士-027-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 11776
-
-  - name: "Venezuela-028-Tecnoven Services C.A"
-    type: http
-    server: 38.51.207.104
-    port: 8080
-
-  - name: "瑞士-029-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 11143
-
-  - name: "瑞士-030-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 12070
-
-  - name: "Iran-031-Pars Abr Toseeh Ertebatat LTD"
-    type: http
-    server: 85.133.250.27
-    port: 80
-
-  - name: "德国-032-Hetzner Online GmbH"
-    type: http
-    server: 157.90.89.52
-    port: 8484
-
-  - name: "瑞士-033-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10696
-
-  - name: "Uzbekistan-034-LLC BROSS-TELECOM"
+  - name: "Uzbekistan-012-LLC BROSS-TELECOM"
     type: http
     server: 193.104.179.115
     port: 3128
 
-  - name: "Venezuela-035-Viginet C.A"
-    type: http
-    server: 190.97.236.128
-    port: 999
-
-  - name: "瑞士-036-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 9443
-
-  - name: "瑞士-037-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10284
-
-  - name: "中国-038-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.121.183.107
-    port: 4006
-
-  - name: "瑞士-039-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 11477
-
-  - name: "中国-040-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 120.26.104.146
-    port: 8081
-
-  - name: "埃及-041-Link Egypt (Link.NET)"
-    type: http
-    server: 41.196.16.230
-    port: 1981
-
-  - name: "中国-042-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.213.213
-    port: 8443
-
-  - name: "荷兰-043-LeaseWeb Netherlands B.V."
-    type: http
-    server: 95.211.174.135
-    port: 3128
-
-  - name: "巴西-044-Saveincloud Hospedagem na Internet Ltda"
-    type: http
-    server: 200.229.76.160
-    port: 3128
-
-  - name: "Morocco-045-Oracle Corporation"
+  - name: "Morocco-013-Oracle Corporation"
     type: http
     server: 51.170.133.249
     port: 80
 
-  - name: "瑞士-046-Zscaler Switzerland GmbH"
+  - name: "菲律宾-014-Philippine Long Distance Telephone Co."
     type: http
-    server: 147.161.246.246
-    port: 12573
+    server: 112.210.146.120
+    port: 8082
 
-  - name: "越南-047-VietNam Post and Telecom Corporation"
+  - name: "荷兰-015-LeaseWeb Netherlands B.V."
     type: http
-    server: 113.161.93.6
-    port: 8080
-
-  - name: "瑞士-048-Zscaler Switzerland GmbH"
-    type: http
-    server: 147.161.246.246
-    port: 10810
-
-  - name: "中国-049-China Mobile Communications Corporation"
-    type: http
-    server: 36.137.204.11
-    port: 8002
-
-  - name: "俄罗斯-050-MTS PJSC"
-    type: http
-    server: 195.19.217.200
+    server: 95.211.174.135
     port: 3128
 
-  - name: "美国-051-Oy Crea Nova Hosting Solution Ltd"
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 85.209.156.148
-    port: 1080
+    server: 47.104.198.111
+    port: 9080
 
-  - name: "印度-052-Akamai Technologies, Inc."
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 172.236.189.209
-    port: 3128
-
-  - name: "英国-053-Akamai Technologies, Inc."
-    type: http
-    server: 88.80.186.173
-    port: 19180
+    server: 39.102.213.187
+    port: 8888
