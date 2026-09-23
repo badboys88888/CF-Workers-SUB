@@ -1,85 +1,117 @@
 proxies:
-  - name: "墨西哥-001-Latitude.sh"
-    type: http
-    server: 103.88.234.239
-    port: 40002
-
-  - name: "土耳其-002-Turk Telekomunikasyon Anonim Sirketi"
+  - name: "土耳其-001-Turk Telekomunikasyon Anonim Sirketi"
     type: http
     server: 95.3.69.222
     port: 8080
 
-  - name: "埃及-003-Etisalat"
-    type: http
-    server: 62.193.104.26
-    port: 1976
-
-  - name: "印度尼西亚-004-PT SELARAS CITRA TERABIT"
-    type: http
-    server: 121.101.133.105
-    port: 8586
-
-  - name: "荷兰-005-SOLLUTIUM EU Sp z.o.o."
-    type: http
-    server: 213.111.146.36
-    port: 18080
-
-  - name: "越南-006-Vietnam Posts and Telecommunications Group"
+  - name: "越南-002-Vietnam Posts and Telecommunications Group"
     type: http
     server: 14.225.68.207
     port: 1337
 
-  - name: "美国-007-DigitalOcean, LLC"
+  - name: "荷兰-003-SOLLUTIUM EU Sp z.o.o."
     type: http
-    server: 159.65.233.169
-    port: 54321
+    server: 213.111.146.36
+    port: 18080
 
-  - name: "俄罗斯-008-Ihor Hosting LTD"
+  - name: "墨西哥-004-Latitude.sh"
     type: http
-    server: 185.200.188.234
-    port: 10001
+    server: 103.88.234.239
+    port: 40006
 
-  - name: "瑞士-009-Datasource AG"
+  - name: "瑞士-005-Datasource AG"
     type: http
     server: 185.195.71.218
     port: 18080
 
-  - name: "Bangladesh-010-Mutual Trust Bank Limited"
+  - name: "德国-006-Shenzhen Tencent Computer Systems Company Limited"
+    type: http
+    server: 43.157.98.90
+    port: 8080
+
+  - name: "Bangladesh-007-Mutual Trust Bank Limited"
     type: http
     server: 124.109.105.44
     port: 3128
 
-  - name: "俄罗斯-011-Ihor Hosting LTD"
+  - name: "中国-008-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 45.132.252.25
-    port: 49156
+    server: 39.102.209.121
+    port: 9080
 
-  - name: "Uzbekistan-012-LLC BROSS-TELECOM"
+  - name: "俄罗斯-009-Beget LLC"
+    type: http
+    server: 159.194.228.40
+    port: 8888
+
+  - name: "荷兰-010-Aeza International LTD"
+    type: http
+    server: 193.233.211.220
+    port: 8443
+
+  - name: "Venezuela-011-Tecnoven Services C.A"
+    type: http
+    server: 38.51.207.104
+    port: 8080
+
+  - name: "Ecuador-012-Ufinet Panama S.A."
+    type: http
+    server: 181.119.224.25
+    port: 8080
+
+  - name: "法国-013-OVH SAS"
+    type: http
+    server: 37.59.125.131
+    port: 8888
+
+  - name: "Uzbekistan-014-LLC BROSS-TELECOM"
     type: http
     server: 193.104.179.115
     port: 3128
 
-  - name: "Morocco-013-Oracle Corporation"
+  - name: "Bangladesh-015-Mutual Trust Bank Limited"
+    type: http
+    server: 124.109.105.44
+    port: 80
+
+  - name: "Morocco-016-Oracle Corporation"
     type: http
     server: 51.170.133.249
     port: 80
 
-  - name: "菲律宾-014-Philippine Long Distance Telephone Co."
+  - name: "美国-017-Sharktech"
     type: http
-    server: 112.210.146.120
-    port: 8082
+    server: 107.167.18.122
+    port: 443
+    tls: true
+    skip-cert-verify: true
 
-  - name: "荷兰-015-LeaseWeb Netherlands B.V."
+  - name: "巴西-018-Mundivox Do Brasil Ltda"
     type: http
-    server: 95.211.174.135
+    server: 200.142.97.66
     port: 3128
 
-  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+  - name: "巴西-019-Saveincloud Hospedagem na Internet Ltda"
     type: http
-    server: 47.104.198.111
-    port: 9080
+    server: 200.229.65.172
+    port: 3128
 
-  - name: "中国-017-Hangzhou Alibaba Advertising Co"
+  - name: "新加坡-020-Amazon Technologies Inc."
     type: http
-    server: 39.102.213.187
+    server: 54.255.90.26
     port: 8888
+
+  - name: "墨西哥-021-Alestra, S. de R.L. de C.V."
+    type: http
+    server: 200.188.112.147
+    port: 999
+
+  - name: "新加坡-022-OVH SAS"
+    type: http
+    server: 51.79.147.161
+    port: 30007
+
+  - name: "俄罗斯-023-MTS PJSC"
+    type: http
+    server: 195.19.217.200
+    port: 3128
