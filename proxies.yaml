@@ -1,117 +1,112 @@
 proxies:
-  - name: "土耳其-001-Turk Telekomunikasyon Anonim Sirketi"
-    type: http
-    server: 95.3.69.222
-    port: 8080
-
-  - name: "越南-002-Vietnam Posts and Telecommunications Group"
-    type: http
-    server: 14.225.68.207
-    port: 1337
-
-  - name: "荷兰-003-SOLLUTIUM EU Sp z.o.o."
+  - name: "荷兰-001-SOLLUTIUM EU Sp z.o.o."
     type: http
     server: 213.111.146.36
     port: 18080
 
-  - name: "墨西哥-004-Latitude.sh"
+  - name: "新加坡-002-DigitalOcean, LLC"
     type: http
-    server: 103.88.234.239
-    port: 40006
+    server: 167.172.84.23
+    port: 3128
 
-  - name: "瑞士-005-Datasource AG"
+  - name: "香港-003-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.5
+    port: 39811
+
+  - name: "土耳其-004-Turk Telekomunikasyon Anonim Sirketi"
+    type: http
+    server: 95.3.69.222
+    port: 8080
+
+  - name: "埃及-005-Etisalat"
+    type: http
+    server: 62.193.104.28
+    port: 1981
+
+  - name: "瑞士-006-Datasource AG"
     type: http
     server: 185.195.71.218
     port: 18080
 
-  - name: "德国-006-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "俄罗斯-007-JSC TIMEWEB"
     type: http
-    server: 43.157.98.90
-    port: 8080
+    server: 5.129.249.123
+    port: 61925
 
-  - name: "Bangladesh-007-Mutual Trust Bank Limited"
+  - name: "美国-008-Microsoft Corporation"
     type: http
-    server: 124.109.105.44
+    server: 172.210.12.8
     port: 3128
 
-  - name: "中国-008-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.209.121
-    port: 9080
-
-  - name: "俄罗斯-009-Beget LLC"
-    type: http
-    server: 159.194.228.40
-    port: 8888
-
-  - name: "荷兰-010-Aeza International LTD"
-    type: http
-    server: 193.233.211.220
-    port: 8443
-
-  - name: "Venezuela-011-Tecnoven Services C.A"
-    type: http
-    server: 38.51.207.104
-    port: 8080
-
-  - name: "Ecuador-012-Ufinet Panama S.A."
-    type: http
-    server: 181.119.224.25
-    port: 8080
-
-  - name: "法国-013-OVH SAS"
+  - name: "法国-009-OVH SAS"
     type: http
     server: 37.59.125.131
     port: 8888
 
-  - name: "Uzbekistan-014-LLC BROSS-TELECOM"
+  - name: "Uzbekistan-010-LLC BROSS-TELECOM"
     type: http
     server: 193.104.179.115
     port: 3128
 
-  - name: "Bangladesh-015-Mutual Trust Bank Limited"
+  - name: "捷克-011-WEDOS Internet"
     type: http
-    server: 124.109.105.44
-    port: 80
+    server: 31.31.74.185
+    port: 9898
 
-  - name: "Morocco-016-Oracle Corporation"
+  - name: "North Macedonia-012-Andrew Kristuli"
     type: http
-    server: 51.170.133.249
-    port: 80
+    server: 195.144.24.57
+    port: 3128
 
-  - name: "美国-017-Sharktech"
+  - name: "美国-013-Oy Crea Nova Hosting Solution Ltd"
+    type: http
+    server: 85.209.156.148
+    port: 1080
+
+  - name: "巴西-014-Saveincloud Hospedagem na Internet Ltda"
+    type: http
+    server: 200.229.65.172
+    port: 3128
+
+  - name: "美国-015-Sharktech"
     type: http
     server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "巴西-018-Mundivox Do Brasil Ltda"
+  - name: "美国-016-Akamai Technologies, Inc."
+    type: http
+    server: 172.234.38.154
+    port: 3128
+
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.106.216.202
+    port: 3128
+
+  - name: "瑞典-018-Baykov Ilya Sergeevich"
+    type: http
+    server: 185.58.115.185
+    port: 8080
+
+  - name: "巴西-019-Mundivox Do Brasil Ltda"
     type: http
     server: 200.142.97.66
     port: 3128
 
-  - name: "巴西-019-Saveincloud Hospedagem na Internet Ltda"
+  - name: "巴西-020-Saveincloud Hospedagem na Internet Ltda"
     type: http
-    server: 200.229.65.172
+    server: 200.229.76.160
     port: 3128
 
-  - name: "新加坡-020-Amazon Technologies Inc."
+  - name: "香港-021-Alibaba Cloud LLC"
     type: http
-    server: 54.255.90.26
-    port: 8888
+    server: 47.238.130.212
+    port: 5000
 
-  - name: "墨西哥-021-Alestra, S. de R.L. de C.V."
-    type: http
-    server: 200.188.112.147
-    port: 999
-
-  - name: "新加坡-022-OVH SAS"
-    type: http
-    server: 51.79.147.161
-    port: 30007
-
-  - name: "俄罗斯-023-MTS PJSC"
+  - name: "俄罗斯-022-MTS PJSC"
     type: http
     server: 195.19.217.200
     port: 3128
