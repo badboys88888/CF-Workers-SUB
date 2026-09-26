@@ -11,17 +11,11 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-Anhui-223.242.111.14:1080
+- name: 中国-四川-132.232.94.193:1080
   type: socks5
-  server: 223.242.111.14
+  server: 132.232.94.193
   port: 1080
-  udp: false
+  udp: true
   skip-cert-verify: true
-- name: 中国-上海-218.79.166.10:1080
-  type: socks5
-  server: 218.79.166.10
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-total: 4
-updated: '2026-09-25 09:58:17'
+total: 3
+updated: '2026-09-26 09:42:35'
