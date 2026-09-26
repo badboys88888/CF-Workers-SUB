@@ -1,172 +1,105 @@
 proxies:
-  - name: "美国-001-Amazon.com, Inc."
+  - name: "美国-001-Alibaba Cloud LLC"
     type: http
-    server: 3.141.0.252
-    port: 9000
+    server: 47.254.36.25
+    port: 11080
 
-  - name: "德国-002-netcup GmbH"
+  - name: "Venezuela-002-Colnetwork C.A"
     type: http
-    server: 159.195.22.57
-    port: 80
-
-  - name: "墨西哥-003-Jair Lozano / Intercom Internet"
-    type: http
-    server: 38.210.179.108
+    server: 38.51.239.218
     port: 999
 
-  - name: "法国-004-Baykov Ilya Sergeevich"
-    type: http
-    server: 185.68.185.4
-    port: 8888
-
-  - name: "墨西哥-005-Latitude.sh"
-    type: http
-    server: 103.88.234.239
-    port: 40002
-
-  - name: "瑞典-006-Aeza International LTD"
-    type: http
-    server: 62.60.231.45
-    port: 10809
-
-  - name: "美国-007-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-003-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.173.120.13
     port: 8899
 
-  - name: "越南-008-VTDC"
-    type: http
-    server: 210.211.113.37
-    port: 80
-
-  - name: "荷兰-009-SOLLUTIUM EU Sp z.o.o."
-    type: http
-    server: 213.111.146.36
-    port: 18080
-
-  - name: "法国-010-OVH SAS"
-    type: http
-    server: 217.182.195.221
-    port: 30006
-
-  - name: "Estonia-011-P.A.G.M. OU"
-    type: http
-    server: 5.188.23.147
-    port: 5555
-
-  - name: "土耳其-012-Turk Telekomunikasyon Anonim Sirketi"
+  - name: "土耳其-004-Turk Telekomunikasyon Anonim Sirketi"
     type: http
     server: 95.3.69.222
     port: 8080
 
-  - name: "俄罗斯-013-JSC TIMEWEB"
+  - name: "菲律宾-005-Philippine Long Distance Telephone Co."
     type: http
-    server: 5.129.249.123
-    port: 61925
+    server: 58.69.208.243
+    port: 8081
 
-  - name: "Venezuela-014-Tecnoven Services C.A"
+  - name: "荷兰-006-SOLLUTIUM EU Sp z.o.o."
     type: http
-    server: 38.51.207.104
+    server: 213.111.146.36
+    port: 18080
+
+  - name: "印度-007-Micro Hosting Private Limited"
+    type: http
+    server: 178.92.72.229
     port: 8080
 
-  - name: "捷克-015-WEDOS Internet"
+  - name: "瑞士-008-Datasource AG"
     type: http
-    server: 31.31.74.185
-    port: 9898
+    server: 185.195.71.218
+    port: 18080
 
-  - name: "瑞典-016-Baykov Ilya Sergeevich"
+  - name: "美国-009-Akamai Technologies, Inc."
     type: http
-    server: 185.58.115.185
-    port: 8080
+    server: 172.236.242.244
+    port: 3128
 
-  - name: "印度-017-CtrlS"
-    type: http
-    server: 45.194.3.132
-    port: 8080
-
-  - name: "印度-018-Micro Hosting Private Limited"
-    type: http
-    server: 178.92.72.68
-    port: 8080
-
-  - name: "俄罗斯-019-Home Computer Networks ltd"
-    type: http
-    server: 178.159.52.208
-    port: 8080
-
-  - name: "越南-020-VTDC"
-    type: http
-    server: 210.211.113.35
-    port: 80
-
-  - name: "Iran-021-Pars Abr Toseeh Ertebatat LTD"
+  - name: "Iran-010-Pars Abr Toseeh Ertebatat LTD"
     type: http
     server: 85.133.250.27
     port: 80
 
-  - name: "法国-022-OVH SAS"
+  - name: "菲律宾-011-Globe Telecom"
     type: http
-    server: 217.182.195.221
-    port: 30008
+    server: 112.198.53.162
+    port: 8081
 
-  - name: "美国-023-Microsoft Corporation"
+  - name: "Uzbekistan-012-LLC BROSS-TELECOM"
     type: http
-    server: 172.210.12.8
+    server: 193.104.179.115
     port: 3128
 
-  - name: "法国-024-OVH SAS"
+  - name: "Ecuador-013-Ufinet Panama S.A."
     type: http
-    server: 37.59.125.131
-    port: 8888
-
-  - name: "法国-025-Contabo GmbH"
-    type: http
-    server: 167.86.104.220
-    port: 80
-
-  - name: "印度-026-Oracle Corporation"
-    type: http
-    server: 140.238.254.5
+    server: 181.119.224.25
     port: 8080
 
-  - name: "巴西-027-Saveincloud Hospedagem na Internet Ltda"
+  - name: "印度尼西亚-014-XL-AXIATA Tbk GSM"
     type: http
-    server: 200.229.65.172
-    port: 3128
-
-  - name: "印度-028-Micro Hosting Private Limited"
-    type: http
-    server: 150.241.245.131
+    server: 112.215.62.81
     port: 8080
 
-  - name: "美国-029-Sharktech"
+  - name: "印度尼西亚-015-PT. Matrixnet Global Indonesia"
     type: http
-    server: 107.167.18.122
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 43.248.212.29
+    port: 8080
 
-  - name: "中国-030-China Mobile Communications Corporation"
+  - name: "印度尼西亚-016-QIUNET"
     type: http
-    server: 36.137.204.11
-    port: 8002
+    server: 103.81.65.74
+    port: 8585
 
-  - name: "中国-031-Hangzhou Alibaba Advertising Co"
+  - name: "Iran-017-Sepanta Internet and MPLS Service Provider"
     type: http
-    server: 39.102.214.152
-    port: 9080
+    server: 85.133.190.40
+    port: 8097
 
-  - name: "泰国-032-TOT Public Company Limited"
+  - name: "Kazakhstan-018-JSC Kazakhtelecom"
     type: http
-    server: 182.52.149.68
-    port: 80
-
-  - name: "巴西-033-Mundivox Do Brasil Ltda"
-    type: http
-    server: 200.142.97.66
+    server: 212.154.169.90
     port: 3128
 
-  - name: "巴基斯坦-034-Connect Communication"
+  - name: "哥伦比亚-019-Super Redes S.A.S"
     type: http
-    server: 111.119.162.248
-    port: 10957
+    server: 200.10.30.5
+    port: 8083
+
+  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.208.189
+    port: 3128
+
+  - name: "中国-021-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.209.163
+    port: 8090
