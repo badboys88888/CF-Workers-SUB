@@ -1,105 +1,142 @@
 proxies:
-  - name: "美国-001-Alibaba Cloud LLC"
+  - name: "美国-001-Amazon.com, Inc."
     type: http
-    server: 47.254.36.25
-    port: 11080
+    server: 34.235.136.74
+    port: 1001
 
-  - name: "Venezuela-002-Colnetwork C.A"
-    type: http
-    server: 38.51.239.218
-    port: 999
-
-  - name: "美国-003-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-002-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.173.120.13
     port: 8899
 
-  - name: "土耳其-004-Turk Telekomunikasyon Anonim Sirketi"
+  - name: "菲律宾-003-Philippine Long Distance Telephone Co."
     type: http
-    server: 95.3.69.222
-    port: 8080
+    server: 49.151.184.212
+    port: 8082
 
-  - name: "菲律宾-005-Philippine Long Distance Telephone Co."
+  - name: "Morocco-004-ADSL Maroc telecom"
     type: http
-    server: 58.69.208.243
-    port: 8081
+    server: 196.75.165.159
+    port: 1012
 
-  - name: "荷兰-006-SOLLUTIUM EU Sp z.o.o."
+  - name: "荷兰-005-SOLLUTIUM EU Sp z.o.o."
     type: http
     server: 213.111.146.36
     port: 18080
 
-  - name: "印度-007-Micro Hosting Private Limited"
+  - name: "越南-006-VNPT"
     type: http
-    server: 178.92.72.229
+    server: 14.251.13.17
     port: 8080
 
-  - name: "瑞士-008-Datasource AG"
+  - name: "瑞士-007-Datasource AG"
     type: http
     server: 185.195.71.218
     port: 18080
 
-  - name: "美国-009-Akamai Technologies, Inc."
+  - name: "法国-008-Baykov Ilya Sergeevich"
     type: http
-    server: 172.236.242.244
-    port: 3128
+    server: 185.68.185.4
+    port: 8888
 
-  - name: "Iran-010-Pars Abr Toseeh Ertebatat LTD"
+  - name: "Venezuela-009-Tecnoven Services C.A"
+    type: http
+    server: 38.51.207.104
+    port: 8080
+
+  - name: "瑞士-010-Saitis Network, N.Desir"
+    type: http
+    server: 62.220.129.81
+    port: 8080
+
+  - name: "Iran-011-Pars Abr Toseeh Ertebatat LTD"
     type: http
     server: 85.133.250.27
     port: 80
 
-  - name: "菲律宾-011-Globe Telecom"
+  - name: "墨西哥-012-Jair Lozano / Intercom Internet"
     type: http
-    server: 112.198.53.162
-    port: 8081
+    server: 38.210.179.108
+    port: 999
 
-  - name: "Uzbekistan-012-LLC BROSS-TELECOM"
+  - name: "土耳其-013-Superonline Iletisim Hizmetleri A.S."
+    type: http
+    server: 176.88.166.201
+    port: 8080
+
+  - name: "巴基斯坦-014-Connect Communication"
+    type: http
+    server: 111.119.162.248
+    port: 10926
+
+  - name: "Uzbekistan-015-LLC BROSS-TELECOM"
     type: http
     server: 193.104.179.115
     port: 3128
 
-  - name: "Ecuador-013-Ufinet Panama S.A."
+  - name: "印度尼西亚-016-Perwira"
     type: http
-    server: 181.119.224.25
+    server: 41.216.190.239
     port: 8080
 
-  - name: "印度尼西亚-014-XL-AXIATA Tbk GSM"
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 112.215.62.81
+    server: 39.102.210.222
     port: 8080
 
-  - name: "印度尼西亚-015-PT. Matrixnet Global Indonesia"
+  - name: "印度-018-Real Time Data Services Private Limited"
     type: http
-    server: 43.248.212.29
+    server: 45.194.41.155
     port: 8080
 
-  - name: "印度尼西亚-016-QIUNET"
+  - name: "印度尼西亚-019-PT Pusaka Kreasi Mandiri"
     type: http
-    server: 103.81.65.74
-    port: 8585
+    server: 103.179.253.43
+    port: 8181
 
-  - name: "Iran-017-Sepanta Internet and MPLS Service Provider"
+  - name: "美国-020-Amazon.com, Inc."
+    type: http
+    server: 35.175.204.137
+    port: 3128
+
+  - name: "中国-021-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 121.43.154.123
+    port: 8443
+
+  - name: "美国-022-Sharktech"
+    type: http
+    server: 107.167.18.122
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Iran-023-Sepanta Internet and MPLS Service Provider"
     type: http
     server: 85.133.190.40
     port: 8097
 
-  - name: "Kazakhstan-018-JSC Kazakhtelecom"
+  - name: "中国-024-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 212.154.169.90
+    server: 47.109.110.100
+    port: 80
+
+  - name: "美国-025-Interserver, Inc"
+    type: http
+    server: 66.23.231.213
     port: 3128
 
-  - name: "哥伦比亚-019-Super Redes S.A.S"
+  - name: "秘鲁-026-TDP-GRS"
     type: http
-    server: 200.10.30.5
-    port: 8083
+    server: 190.237.238.201
+    port: 999
 
-  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+  - name: "美国-027-Interserver, Inc"
     type: http
-    server: 39.102.208.189
+    server: 66.23.230.125
     port: 3128
 
-  - name: "中国-021-Hangzhou Alibaba Advertising Co"
+  - name: "Venezuela-028-RED SERVITEL, CA"
     type: http
-    server: 39.102.209.163
-    port: 8090
+    server: 38.172.181.0
+    port: 999
