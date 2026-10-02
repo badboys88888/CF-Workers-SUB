@@ -11,9 +11,21 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
+- name: 新加坡-Singapore-43.106.60.21:1080
+  type: socks5
+  server: 43.106.60.21
+  port: 1080
+  udp: true
+  skip-cert-verify: true
 - name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
   type: socks5
   server: 1.176.45.216
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 中国-四川-132.232.94.193:1080
+  type: socks5
+  server: 132.232.94.193
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -23,11 +35,29 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-上海-123.206.101.168:1080
+- name: KH-Phnom Penh-202.79.26.242:1080
   type: socks5
-  server: 123.206.101.168
+  server: 202.79.26.242
   port: 1080
   udp: true
   skip-cert-verify: true
-total: 5
-updated: '2026-10-01 11:20:18'
+- name: 中国-北京-106.13.48.221:1080
+  type: socks5
+  server: 106.13.48.221
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 中国-Shaanxi-106.36.197.230:1080
+  type: socks5
+  server: 106.36.197.230
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 乌克兰-Kyiv-5.53.119.134:1080
+  type: socks5
+  server: 5.53.119.134
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+total: 10
+updated: '2026-10-02 10:53:10'
