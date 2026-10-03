@@ -1,117 +1,117 @@
 proxies:
-  - name: "美国-001-DigitalOcean, LLC"
+  - name: "美国-001-Akamai Technologies, Inc."
     type: http
-    server: 68.183.130.198
-    port: 10000
+    server: 172.236.242.244
+    port: 3128
 
-  - name: "芬兰-002-Hetzner Online GmbH"
+  - name: "墨西哥-002-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40002
+
+  - name: "芬兰-003-Hetzner Online GmbH"
     type: http
     server: 65.109.215.187
     port: 8090
 
-  - name: "Uzbekistan-003-Uzbektelekom Joint Stock Company"
+  - name: "新加坡-004-ITEX CI"
     type: http
-    server: 90.156.196.230
+    server: 213.163.192.247
+    port: 8080
+
+  - name: "墨西哥-005-ONEPROVIDER"
+    type: http
+    server: 147.78.1.156
     port: 3128
 
-  - name: "荷兰-004-SOLLUTIUM EU Sp z.o.o."
-    type: http
-    server: 213.111.146.36
-    port: 18080
-
-  - name: "美国-005-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-006-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.173.120.13
     port: 8899
 
-  - name: "印度-006-The Constant Company"
+  - name: "墨西哥-007-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40014
+
+  - name: "墨西哥-008-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40015
+
+  - name: "印度-009-The Constant Company"
     type: http
     server: 65.20.79.228
     port: 40001
 
-  - name: "Mauritius-007-MauritiusTelecom"
+  - name: "荷兰-010-Hostkey B.V."
     type: http
-    server: 102.113.55.101
+    server: 78.17.53.56
+    port: 8080
+
+  - name: "Uzbekistan-011-Uzbektelekom Joint Stock Company"
+    type: http
+    server: 90.156.196.230
     port: 3128
 
-  - name: "中国-008-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "巴基斯坦-012-Connect Communication"
     type: http
-    server: 120.26.104.146
-    port: 6379
+    server: 111.119.162.248
+    port: 10923
 
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.214.192
-    port: 8443
-
-  - name: "中国-010-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 120.79.217.196
-    port: 8333
-
-  - name: "瑞士-011-Datasource AG"
-    type: http
-    server: 185.195.71.218
-    port: 18080
-
-  - name: "中国-012-China Internet Network Information Center"
-    type: http
-    server: 114.215.127.92
-    port: 8081
-
-  - name: "新加坡-013-Akamai Technologies"
-    type: http
-    server: 192.46.230.254
-    port: 3128
-
-  - name: "越南-014-VTDC"
-    type: http
-    server: 210.211.113.37
-    port: 80
-
-  - name: "美国-015-DigitalOcean, LLC"
-    type: http
-    server: 159.89.239.204
-    port: 10000
-
-  - name: "印度尼西亚-016-PT Jaringan Inti Exadata"
-    type: http
-    server: 103.26.128.203
-    port: 8181
-
-  - name: "越南-017-VTDC"
+  - name: "越南-013-VTDC"
     type: http
     server: 210.211.113.33
     port: 80
 
-  - name: "越南-018-VTDC"
+  - name: "墨西哥-014-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40005
+
+  - name: "墨西哥-015-Jair Lozano / Intercom Internet"
+    type: http
+    server: 38.210.179.108
+    port: 999
+
+  - name: "阿根廷-016-Atlantica Video Cable S.A."
+    type: http
+    server: 190.14.32.231
+    port: 1080
+
+  - name: "Ecuador-017-Ufinet Panama S.A."
+    type: http
+    server: 177.234.221.203
+    port: 999
+
+  - name: "香港-018-Beijing Baidu Netcom Science and Technology Co., Ltd."
+    type: http
+    server: 156.240.114.210
+    port: 3129
+
+  - name: "法国-019-Contabo GmbH"
+    type: http
+    server: 194.163.175.167
+    port: 40001
+
+  - name: "越南-020-VTDC"
     type: http
     server: 210.211.113.35
     port: 80
 
-  - name: "法国-019-OVH SAS"
+  - name: "Ecuador-021-Ufinet Panama S.A."
     type: http
-    server: 37.59.125.131
-    port: 8888
+    server: 181.119.224.25
+    port: 8080
 
-  - name: "瑞典-020-Melbikomas UAB"
+  - name: "美国-022-Amazon.com, Inc."
     type: http
-    server: 95.81.107.33
-    port: 3128
+    server: 3.16.76.59
+    port: 9000
 
-  - name: "North Macedonia-021-Andrew Kristuli"
+  - name: "巴西-023-Universidade Federal DA Bahia"
     type: http
-    server: 195.144.24.57
-    port: 3128
-
-  - name: "中国-022-Addresses CNNIC"
-    type: http
-    server: 139.224.207.73
-    port: 8081
-
-  - name: "Azerbaijan-023-G-Core Labs S.A."
-    type: http
-    server: 180.149.44.182
+    server: 200.128.84.82
     port: 3128
 
   - name: "Uzbekistan-024-LLC BROSS-TELECOM"
@@ -119,54 +119,79 @@ proxies:
     server: 193.104.179.115
     port: 3128
 
-  - name: "Ecuador-025-Ufinet Panama S.A."
+  - name: "巴基斯坦-025-Connect Communication"
+    type: http
+    server: 111.119.162.248
+    port: 10903
+
+  - name: "越南-026-VTDC"
+    type: http
+    server: 210.211.113.36
+    port: 80
+
+  - name: "Ecuador-027-Ufinet Panama S.A."
     type: http
     server: 181.188.203.40
     port: 999
 
-  - name: "香港-026-Beijing Baidu Netcom Science and Technology Co., Ltd."
+  - name: "中国-028-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 156.240.114.210
-    port: 3129
+    server: 47.116.210.163
+    port: 5060
 
-  - name: "美国-027-Sharktech"
+  - name: "美国-029-Sharktech"
     type: http
     server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "巴西-028-Mundivox Do Brasil Ltda"
+  - name: "中国-030-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 200.142.97.66
-    port: 3128
+    server: 39.102.209.128
+    port: 80
 
-  - name: "哥伦比亚-029-Internexa S.a. E.S.P"
+  - name: "中国-031-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 179.1.241.200
-    port: 999
+    server: 39.102.214.152
+    port: 8443
 
-  - name: "俄罗斯-030-MTS PJSC"
+  - name: "越南-032-Viettel Corporation"
+    type: http
+    server: 171.232.79.28
+    port: 8080
+
+  - name: "Tunisia-033-ooredoo TN"
+    type: http
+    server: 196.179.234.18
+    port: 8989
+
+  - name: "俄罗斯-034-MTS PJSC"
     type: http
     server: 195.19.217.200
     port: 3128
 
-  - name: "美国-031-Amazon.com, Inc."
+  - name: "Venezuela-035-Corporacion Digitel C.A"
+    type: http
+    server: 186.167.53.178
+    port: 8282
+
+  - name: "美国-036-Amazon.com, Inc."
     type: http
     server: 54.235.192.64
     port: 442
 
-  - name: "埃及-032-LINKdotNET AS number"
+  - name: "越南-037-VNPT"
     type: http
-    server: 45.245.208.181
-    port: 8080
+    server: 14.242.19.156
+    port: 2001
 
-  - name: "美国-033-Zenlayer Inc"
+  - name: "墨西哥-038-Latitude.sh"
     type: http
-    server: 23.251.102.121
-    port: 80
+    server: 103.88.234.239
+    port: 40017
 
-  - name: "印度尼西亚-034-PT Kawan Lama Sejahtera"
+  - name: "美国-039-Oy Crea Nova Hosting Solution Ltd"
     type: http
-    server: 103.61.234.186
-    port: 8180
+    server: 85.209.156.148
+    port: 1080
