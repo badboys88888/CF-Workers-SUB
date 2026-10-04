@@ -1,197 +1,127 @@
 proxies:
-  - name: "美国-001-Akamai Technologies, Inc."
+  - name: "墨西哥-001-Uninet S.A. de C.V."
+    type: http
+    server: 187.149.230.244
+    port: 999
+
+  - name: "美国-002-Akamai Technologies, Inc."
     type: http
     server: 172.236.242.244
     port: 3128
 
-  - name: "墨西哥-002-Latitude.sh"
+  - name: "德国-003-Virtuozzo International GmbH"
     type: http
-    server: 103.88.234.239
-    port: 40002
+    server: 69.168.225.235
+    port: 3128
 
-  - name: "芬兰-003-Hetzner Online GmbH"
-    type: http
-    server: 65.109.215.187
-    port: 8090
-
-  - name: "新加坡-004-ITEX CI"
-    type: http
-    server: 213.163.192.247
-    port: 8080
-
-  - name: "墨西哥-005-ONEPROVIDER"
+  - name: "墨西哥-004-ONEPROVIDER"
     type: http
     server: 147.78.1.156
     port: 3128
 
-  - name: "美国-006-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-005-Shenzhen Tencent Computer Systems Company Limited"
     type: http
     server: 43.173.120.13
     port: 8899
 
-  - name: "墨西哥-007-Latitude.sh"
+  - name: "Cameroon-006-Orange CAM INTERNET"
     type: http
-    server: 103.88.234.239
-    port: 40014
+    server: 102.244.78.61
+    port: 8090
 
-  - name: "墨西哥-008-Latitude.sh"
+  - name: "美国-007-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 103.88.234.239
-    port: 40015
+    server: 43.135.145.201
+    port: 10808
 
-  - name: "印度-009-The Constant Company"
+  - name: "美国-008-The Constant Company"
     type: http
-    server: 65.20.79.228
-    port: 40001
+    server: 108.61.29.163
+    port: 10001
 
-  - name: "荷兰-010-Hostkey B.V."
+  - name: "新加坡-009-Microsoft Corporation"
     type: http
-    server: 78.17.53.56
-    port: 8080
-
-  - name: "Uzbekistan-011-Uzbektelekom Joint Stock Company"
-    type: http
-    server: 90.156.196.230
-    port: 3128
-
-  - name: "巴基斯坦-012-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10923
-
-  - name: "越南-013-VTDC"
-    type: http
-    server: 210.211.113.33
+    server: 4.144.146.21
     port: 80
 
-  - name: "墨西哥-014-Latitude.sh"
-    type: http
-    server: 103.88.234.239
-    port: 40005
-
-  - name: "墨西哥-015-Jair Lozano / Intercom Internet"
-    type: http
-    server: 38.210.179.108
-    port: 999
-
-  - name: "阿根廷-016-Atlantica Video Cable S.A."
-    type: http
-    server: 190.14.32.231
-    port: 1080
-
-  - name: "Ecuador-017-Ufinet Panama S.A."
-    type: http
-    server: 177.234.221.203
-    port: 999
-
-  - name: "香港-018-Beijing Baidu Netcom Science and Technology Co., Ltd."
-    type: http
-    server: 156.240.114.210
-    port: 3129
-
-  - name: "法国-019-Contabo GmbH"
-    type: http
-    server: 194.163.175.167
-    port: 40001
-
-  - name: "越南-020-VTDC"
-    type: http
-    server: 210.211.113.35
-    port: 80
-
-  - name: "Ecuador-021-Ufinet Panama S.A."
-    type: http
-    server: 181.119.224.25
-    port: 8080
-
-  - name: "美国-022-Amazon.com, Inc."
-    type: http
-    server: 3.16.76.59
-    port: 9000
-
-  - name: "巴西-023-Universidade Federal DA Bahia"
-    type: http
-    server: 200.128.84.82
-    port: 3128
-
-  - name: "Uzbekistan-024-LLC BROSS-TELECOM"
-    type: http
-    server: 193.104.179.115
-    port: 3128
-
-  - name: "巴基斯坦-025-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10903
-
-  - name: "越南-026-VTDC"
+  - name: "越南-010-VTDC"
     type: http
     server: 210.211.113.36
     port: 80
 
-  - name: "Ecuador-027-Ufinet Panama S.A."
+  - name: "芬兰-011-Hetzner Online GmbH"
     type: http
-    server: 181.188.203.40
-    port: 999
+    server: 65.109.218.174
+    port: 8443
 
-  - name: "中国-028-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "越南-012-VTDC"
     type: http
-    server: 47.116.210.163
-    port: 5060
+    server: 210.211.113.34
+    port: 80
 
-  - name: "美国-029-Sharktech"
+  - name: "香港-013-Beijing Baidu Netcom Science and Technology Co., Ltd."
+    type: http
+    server: 156.240.114.210
+    port: 3129
+
+  - name: "中国-014-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.106.198.144
+    port: 2000
+
+  - name: "巴西-015-Universidade Federal DA Bahia"
+    type: http
+    server: 200.128.84.82
+    port: 3128
+
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.107.142.198
+    port: 80
+
+  - name: "越南-017-VTDC"
+    type: http
+    server: 210.211.113.37
+    port: 80
+
+  - name: "Cameroon-018-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8080
+
+  - name: "中国-019-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.213.187
+    port: 9999
+
+  - name: "美国-020-Sharktech"
     type: http
     server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "中国-030-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.209.128
-    port: 80
-
-  - name: "中国-031-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.214.152
-    port: 8443
-
-  - name: "越南-032-Viettel Corporation"
-    type: http
-    server: 171.232.79.28
-    port: 8080
-
-  - name: "Tunisia-033-ooredoo TN"
-    type: http
-    server: 196.179.234.18
-    port: 8989
-
-  - name: "俄罗斯-034-MTS PJSC"
-    type: http
-    server: 195.19.217.200
-    port: 3128
-
-  - name: "Venezuela-035-Corporacion Digitel C.A"
-    type: http
-    server: 186.167.53.178
-    port: 8282
-
-  - name: "美国-036-Amazon.com, Inc."
-    type: http
-    server: 54.235.192.64
-    port: 442
-
-  - name: "越南-037-VNPT"
-    type: http
-    server: 14.242.19.156
-    port: 2001
-
-  - name: "墨西哥-038-Latitude.sh"
+  - name: "墨西哥-021-Latitude.sh"
     type: http
     server: 103.88.234.239
-    port: 40017
+    port: 40012
 
-  - name: "美国-039-Oy Crea Nova Hosting Solution Ltd"
+  - name: "中国-022-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 85.209.156.148
-    port: 1080
+    server: 39.102.209.128
+    port: 3128
+
+  - name: "墨西哥-023-Latitude.sh"
+    type: http
+    server: 103.88.234.239
+    port: 40003
+
+  - name: "美国-024-Zenlayer Inc"
+    type: http
+    server: 23.251.102.121
+    port: 80
+
+  - name: "香港-025-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.130.212
+    port: 5000
