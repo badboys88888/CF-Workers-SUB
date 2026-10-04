@@ -5,39 +5,15 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 韩国-Seoul-teukbyeolsi-222.237.140.148:1080
-  type: socks5
-  server: 222.237.140.148
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 韩国-Gyeonggi-do-211.185.142.92:1080
-  type: socks5
-  server: 211.185.142.92
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
-  type: socks5
-  server: 1.176.45.216
-  port: 1080
-  udp: true
-  skip-cert-verify: true
 - name: 新加坡-Singapore-43.106.60.21:1080
   type: socks5
   server: 43.106.60.21
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-四川-148.70.83.39:1080
+- name: 韩国-Seoul-teukbyeolsi-222.237.140.148:1080
   type: socks5
-  server: 148.70.83.39
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 中国-四川-132.232.94.193:1080
-  type: socks5
-  server: 132.232.94.193
+  server: 222.237.140.148
   port: 1080
   udp: true
   skip-cert-verify: true
@@ -47,11 +23,17 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-Shaanxi-106.36.197.230:1080
+- name: 中国-四川-132.232.94.193:1080
   type: socks5
-  server: 106.36.197.230
+  server: 132.232.94.193
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 中国-上海-218.79.166.10:1080
+  type: socks5
+  server: 218.79.166.10
   port: 1080
   udp: false
   skip-cert-verify: true
-total: 9
-updated: '2026-10-03 10:13:33'
+total: 6
+updated: '2026-10-04 10:56:45'
