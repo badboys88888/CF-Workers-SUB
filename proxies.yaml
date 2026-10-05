@@ -1,127 +1,192 @@
 proxies:
-  - name: "墨西哥-001-Uninet S.A. de C.V."
+  - name: "墨西哥-001-Latitude.sh"
     type: http
-    server: 187.149.230.244
-    port: 999
+    server: 103.88.234.239
+    port: 40014
 
-  - name: "美国-002-Akamai Technologies, Inc."
+  - name: "美国-002-Auproxies LLC"
     type: http
-    server: 172.236.242.244
+    server: 139.171.194.85
     port: 3128
 
-  - name: "德国-003-Virtuozzo International GmbH"
+  - name: "墨西哥-003-Latitude.sh"
     type: http
-    server: 69.168.225.235
-    port: 3128
+    server: 103.88.234.239
+    port: 40002
 
   - name: "墨西哥-004-ONEPROVIDER"
     type: http
     server: 147.78.1.156
     port: 3128
 
-  - name: "美国-005-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.173.120.13
-    port: 8899
-
-  - name: "Cameroon-006-Orange CAM INTERNET"
+  - name: "Cameroon-005-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8090
 
-  - name: "美国-007-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-006-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 43.135.145.201
-    port: 10808
+    server: 43.173.120.13
+    port: 8899
 
-  - name: "美国-008-The Constant Company"
+  - name: "Uzbekistan-007-Uzbektelekom Joint Stock Company"
     type: http
-    server: 108.61.29.163
-    port: 10001
+    server: 90.156.196.230
+    port: 3128
 
-  - name: "新加坡-009-Microsoft Corporation"
-    type: http
-    server: 4.144.146.21
-    port: 80
-
-  - name: "越南-010-VTDC"
-    type: http
-    server: 210.211.113.36
-    port: 80
-
-  - name: "芬兰-011-Hetzner Online GmbH"
-    type: http
-    server: 65.109.218.174
-    port: 8443
-
-  - name: "越南-012-VTDC"
+  - name: "越南-008-VTDC"
     type: http
     server: 210.211.113.34
     port: 80
 
-  - name: "香港-013-Beijing Baidu Netcom Science and Technology Co., Ltd."
+  - name: "越南-009-VTDC"
+    type: http
+    server: 210.211.113.36
+    port: 80
+
+  - name: "越南-010-VTDC"
+    type: http
+    server: 210.211.113.33
+    port: 80
+
+  - name: "新加坡-011-Microsoft Corporation"
+    type: http
+    server: 4.144.146.21
+    port: 80
+
+  - name: "阿根廷-012-Atlantica Video Cable S.A."
+    type: http
+    server: 190.14.32.231
+    port: 1080
+
+  - name: "中国-013-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.211.162
+    port: 5060
+
+  - name: "Albania-014-Andrew Kristuli"
+    type: http
+    server: 85.155.228.112
+    port: 3128
+
+  - name: "荷兰-015-Servers Tech Fzco"
+    type: http
+    server: 89.110.124.45
+    port: 8888
+
+  - name: "马来西亚-016-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.250.155.254
+    port: 1080
+
+  - name: "香港-017-Beijing Baidu Netcom Science and Technology Co., Ltd."
     type: http
     server: 156.240.114.210
     port: 3129
 
-  - name: "中国-014-Hangzhou Alibaba Advertising Co"
+  - name: "中国-018-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 47.106.198.144
-    port: 2000
+    server: 39.102.208.189
+    port: 8080
 
-  - name: "巴西-015-Universidade Federal DA Bahia"
+  - name: "巴西-019-Universidade Federal DA Bahia"
     type: http
     server: 200.128.84.82
     port: 3128
 
-  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+  - name: "美国-020-Auproxies LLC"
     type: http
-    server: 47.107.142.198
-    port: 80
+    server: 139.171.194.96
+    port: 3128
 
-  - name: "越南-017-VTDC"
+  - name: "Uzbekistan-021-LLC BROSS-TELECOM"
     type: http
-    server: 210.211.113.37
-    port: 80
+    server: 193.104.179.115
+    port: 3128
 
-  - name: "Cameroon-018-Orange CAM INTERNET"
+  - name: "Cameroon-022-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8083
+
+  - name: "美国-023-Auproxies LLC"
+    type: http
+    server: 139.171.194.91
+    port: 3128
+
+  - name: "墨西哥-024-Uninet S.A. de C.V."
+    type: http
+    server: 201.130.108.251
+    port: 3128
+
+  - name: "Cameroon-025-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8080
 
-  - name: "中国-019-Hangzhou Alibaba Advertising Co"
+  - name: "德国-026-IBM Cloud"
     type: http
-    server: 39.102.213.187
-    port: 9999
+    server: 161.156.6.106
+    port: 3128
 
-  - name: "美国-020-Sharktech"
+  - name: "美国-027-Auproxies LLC"
+    type: http
+    server: 139.171.194.94
+    port: 3128
+
+  - name: "美国-028-Hostinger US"
+    type: http
+    server: 72.60.123.106
+    port: 3128
+
+  - name: "巴基斯坦-029-Connect Communication"
+    type: http
+    server: 111.119.162.248
+    port: 10920
+
+  - name: "埃及-030-LINKdotNET AS number"
+    type: http
+    server: 45.245.208.181
+    port: 8080
+
+  - name: "美国-031-Sharktech"
     type: http
     server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "墨西哥-021-Latitude.sh"
+  - name: "Cameroon-032-Orange CAM INTERNET"
     type: http
-    server: 103.88.234.239
-    port: 40012
+    server: 102.244.78.61
+    port: 8085
 
-  - name: "中国-022-Hangzhou Alibaba Advertising Co"
+  - name: "俄罗斯-033-MTS PJSC"
     type: http
-    server: 39.102.209.128
+    server: 195.19.217.200
     port: 3128
 
-  - name: "墨西哥-023-Latitude.sh"
+  - name: "中国-034-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 103.88.234.239
-    port: 40003
+    server: 39.102.213.187
+    port: 3128
 
-  - name: "美国-024-Zenlayer Inc"
+  - name: "Cameroon-035-Orange CAM INTERNET"
     type: http
-    server: 23.251.102.121
-    port: 80
+    server: 102.244.78.61
+    port: 8087
 
-  - name: "香港-025-Alibaba Cloud LLC"
+  - name: "巴基斯坦-036-Connect Communication"
     type: http
-    server: 47.238.130.212
-    port: 5000
+    server: 111.119.162.248
+    port: 10903
+
+  - name: "新加坡-037-Google LLC"
+    type: http
+    server: 35.197.133.65
+    port: 3128
+
+  - name: "新加坡-038-Amazon.com, Inc."
+    type: http
+    server: 13.251.124.107
+    port: 3128
