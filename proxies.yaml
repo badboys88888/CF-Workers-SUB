@@ -1,144 +1,144 @@
 proxies:
-  - name: "芬兰-001-Hetzner Online GmbH"
+  - name: "美国-001-Google LLC"
     type: http
-    server: 65.109.215.187
-    port: 8090
+    server: 34.43.46.91
+    port: 80
 
-  - name: "Albania-002-Andrew Kristuli"
+  - name: "瑞士-002-Google LLC"
     type: http
-    server: 85.155.228.112
+    server: 34.65.99.32
     port: 3128
 
   - name: "Cameroon-003-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
+    port: 8081
+
+  - name: "Cameroon-004-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
     port: 8090
 
-  - name: "德国-004-netcup GmbH"
+  - name: "美国-005-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 89.58.42.118
-    port: 3129
+    server: 43.173.120.13
+    port: 8899
 
-  - name: "Cameroon-005-Orange CAM INTERNET"
+  - name: "Cameroon-006-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8082
 
-  - name: "Uzbekistan-006-Uzbektelekom Joint Stock Company"
+  - name: "Venezuela-007-Colnetwork C.A"
     type: http
-    server: 90.156.196.230
-    port: 3128
+    server: 38.51.239.218
+    port: 999
 
-  - name: "新加坡-007-Microsoft Corporation"
+  - name: "土耳其-008-High Speed For Internet Services L.L.C"
     type: http
-    server: 4.144.146.21
-    port: 80
-
-  - name: "印度-008-Contabo Asia Private Limited"
-    type: http
-    server: 62.72.43.79
-    port: 3129
+    server: 116.204.166.204
+    port: 8080
 
   - name: "Cameroon-009-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8086
 
-  - name: "巴基斯坦-010-Connect Communication"
+  - name: "Paraguay-010-MSW S.A."
     type: http
-    server: 111.119.162.248
-    port: 10930
+    server: 45.177.16.133
+    port: 999
 
-  - name: "中国-011-Hangzhou Alibaba Advertising Co"
+  - name: "越南-011-VTDC"
     type: http
-    server: 39.102.211.162
-    port: 3128
-
-  - name: "中国-012-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.236
-    port: 8080
-
-  - name: "Uzbekistan-013-LLC BROSS-TELECOM"
-    type: http
-    server: 193.104.179.115
-    port: 3128
-
-  - name: "巴西-014-Universidade Federal DA Bahia"
-    type: http
-    server: 200.128.84.82
-    port: 3128
-
-  - name: "美国-015-Auproxies LLC"
-    type: http
-    server: 139.171.194.94
-    port: 3128
-
-  - name: "韩国-016-Oracle Corporation"
-    type: http
-    server: 144.24.94.153
-    port: 1080
-
-  - name: "Cameroon-017-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8089
-
-  - name: "Cameroon-018-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8080
-
-  - name: "越南-019-VTDC"
-    type: http
-    server: 210.211.113.35
+    server: 210.211.113.33
     port: 80
 
-  - name: "新加坡-020-Alibaba (US) Technology Co., Ltd."
+  - name: "巴基斯坦-012-Connect Communication"
     type: http
-    server: 47.237.113.119
-    port: 8123
+    server: 111.119.162.248
+    port: 10915
+
+  - name: "巴基斯坦-013-Connect Communication"
+    type: http
+    server: 111.119.162.248
+    port: 10929
+
+  - name: "墨西哥-014-Jair Lozano / Intercom Internet"
+    type: http
+    server: 38.210.179.27
+    port: 999
+
+  - name: "新加坡-015-Microsoft Corporation"
+    type: http
+    server: 4.144.146.21
+    port: 80
+
+  - name: "Cameroon-016-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8084
+
+  - name: "菲律宾-017-Philippine Long Distance Telephone Co."
+    type: http
+    server: 180.194.103.158
+    port: 8082
+
+  - name: "中国-018-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.209.163
+    port: 8008
+
+  - name: "Syria-019-High Speed For Internet Services L.L.C"
+    type: http
+    server: 193.33.157.147
+    port: 8080
+
+  - name: "芬兰-020-Hetzner Online GmbH"
+    type: http
+    server: 65.109.219.108
+    port: 2000
 
   - name: "Cameroon-021-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
-    port: 8083
+    port: 8088
 
-  - name: "香港-022-Alibaba Cloud LLC"
+  - name: "美国-022-Google LLC"
     type: http
-    server: 47.238.134.126
-    port: 1081
-
-  - name: "阿根廷-023-ARSAT - Empresa Argentina de Soluciones Satelitales S.A"
-    type: http
-    server: 181.209.39.90
-    port: 999
-
-  - name: "智利-024-Grupo ZGH SpA"
-    type: http
-    server: 38.7.195.51
-    port: 999
-
-  - name: "Cameroon-025-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8085
-
-  - name: "德国-026-IBM Cloud"
-    type: http
-    server: 161.156.6.106
-    port: 3128
-
-  - name: "美国-027-Sharktech"
-    type: http
-    server: 107.167.18.122
+    server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "新加坡-028-Akamai Technologies"
+  - name: "Cameroon-023-Orange CAM INTERNET"
     type: http
-    server: 172.105.120.179
+    server: 102.244.78.61
+    port: 8083
+
+  - name: "Cameroon-024-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8080
+
+  - name: "Cameroon-025-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8089
+
+  - name: "Paraguay-026-Ufinet Paraguay S.A"
+    type: http
+    server: 181.79.217.1
+    port: 8080
+
+  - name: "Venezuela-027-INVERSIONES RED NET 2030, C.A"
+    type: http
+    server: 38.9.184.177
+    port: 999
+
+  - name: "美国-028-Sharktech"
+    type: http
+    server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
@@ -146,39 +146,24 @@ proxies:
   - name: "Cameroon-029-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
+    port: 8085
+
+  - name: "印度尼西亚-030-PT. Telekomunikasi Indonesia"
+    type: http
+    server: 36.95.208.13
+    port: 8080
+
+  - name: "中国-031-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.213.213
+    port: 8080
+
+  - name: "Cameroon-032-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
     port: 8087
-
-  - name: "巴基斯坦-030-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10935
-
-  - name: "中国-031-Alibaba (US) Technology Co"
-    type: http
-    server: 47.100.130.127
-    port: 3129
-
-  - name: "中国-032-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.121.183.107
-    port: 9999
 
   - name: "美国-033-Zenlayer Inc"
     type: http
     server: 23.251.102.121
     port: 80
-
-  - name: "俄罗斯-034-MTS PJSC"
-    type: http
-    server: 195.19.217.200
-    port: 3128
-
-  - name: "Ecuador-035-Ufinet Panama S.A."
-    type: http
-    server: 181.188.203.40
-    port: 999
-
-  - name: "巴基斯坦-036-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10937
