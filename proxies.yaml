@@ -1,169 +1,94 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "美国-001-The Constant Company"
+    type: http
+    server: 108.61.29.163
+    port: 10001
+
+  - name: "德国-002-Hetzner Online GmbH"
+    type: http
+    server: 167.233.243.116
+    port: 3128
+
+  - name: "芬兰-003-Hetzner Online GmbH"
+    type: http
+    server: 65.109.215.187
+    port: 8090
+
+  - name: "俄罗斯-004-Radist LTD"
+    type: http
+    server: 91.233.223.147
+    port: 3128
+
+  - name: "美国-005-Google LLC"
     type: http
     server: 34.43.46.91
     port: 80
 
-  - name: "瑞士-002-Google LLC"
+  - name: "印度-006-The Constant Company"
     type: http
-    server: 34.65.99.32
-    port: 3128
+    server: 65.20.79.228
+    port: 40002
 
-  - name: "Cameroon-003-Orange CAM INTERNET"
+  - name: "土耳其-007-FibaCloud"
     type: http
-    server: 102.244.78.61
-    port: 8081
+    server: 155.103.69.127
+    port: 1314
 
-  - name: "Cameroon-004-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8090
-
-  - name: "美国-005-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.173.120.13
-    port: 8899
-
-  - name: "Cameroon-006-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8082
-
-  - name: "Venezuela-007-Colnetwork C.A"
-    type: http
-    server: 38.51.239.218
-    port: 999
-
-  - name: "土耳其-008-High Speed For Internet Services L.L.C"
-    type: http
-    server: 116.204.166.204
-    port: 8080
-
-  - name: "Cameroon-009-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8086
-
-  - name: "Paraguay-010-MSW S.A."
-    type: http
-    server: 45.177.16.133
-    port: 999
-
-  - name: "越南-011-VTDC"
-    type: http
-    server: 210.211.113.33
-    port: 80
-
-  - name: "巴基斯坦-012-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10915
-
-  - name: "巴基斯坦-013-Connect Communication"
-    type: http
-    server: 111.119.162.248
-    port: 10929
-
-  - name: "墨西哥-014-Jair Lozano / Intercom Internet"
-    type: http
-    server: 38.210.179.27
-    port: 999
-
-  - name: "新加坡-015-Microsoft Corporation"
+  - name: "新加坡-008-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "Cameroon-016-Orange CAM INTERNET"
+  - name: "墨西哥-009-Uninet S.A. de C.V."
     type: http
-    server: 102.244.78.61
-    port: 8084
+    server: 187.201.225.188
+    port: 999
 
-  - name: "菲律宾-017-Philippine Long Distance Telephone Co."
+  - name: "巴基斯坦-010-Connect Communication"
     type: http
-    server: 180.194.103.158
-    port: 8082
+    server: 111.119.162.248
+    port: 10925
 
-  - name: "中国-018-Hangzhou Alibaba Advertising Co"
+  - name: "芬兰-011-Hetzner Online GmbH"
     type: http
-    server: 39.102.209.163
-    port: 8008
+    server: 65.109.176.225
+    port: 8443
 
-  - name: "Syria-019-High Speed For Internet Services L.L.C"
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 193.33.157.147
+    server: 139.196.175.68
     port: 8080
 
-  - name: "芬兰-020-Hetzner Online GmbH"
-    type: http
-    server: 65.109.219.108
-    port: 2000
-
-  - name: "Cameroon-021-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8088
-
-  - name: "美国-022-Google LLC"
+  - name: "美国-013-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-023-Orange CAM INTERNET"
+  - name: "Uzbekistan-014-Uzbektelecom JSC"
     type: http
-    server: 102.244.78.61
-    port: 8083
+    server: 90.156.160.234
+    port: 3128
 
-  - name: "Cameroon-024-Orange CAM INTERNET"
+  - name: "Ireland-015-Amazon Technologies Inc."
     type: http
-    server: 102.244.78.61
-    port: 8080
+    server: 18.202.134.93
+    port: 8888
 
-  - name: "Cameroon-025-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8089
-
-  - name: "Paraguay-026-Ufinet Paraguay S.A"
-    type: http
-    server: 181.79.217.1
-    port: 8080
-
-  - name: "Venezuela-027-INVERSIONES RED NET 2030, C.A"
-    type: http
-    server: 38.9.184.177
-    port: 999
-
-  - name: "美国-028-Sharktech"
+  - name: "美国-016-Sharktech"
     type: http
     server: 107.167.18.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-029-Orange CAM INTERNET"
+  - name: "美国-017-Interserver, Inc"
     type: http
-    server: 102.244.78.61
-    port: 8085
+    server: 204.13.233.74
+    port: 3128
 
-  - name: "印度尼西亚-030-PT. Telekomunikasi Indonesia"
-    type: http
-    server: 36.95.208.13
-    port: 8080
-
-  - name: "中国-031-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.213.213
-    port: 8080
-
-  - name: "Cameroon-032-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8087
-
-  - name: "美国-033-Zenlayer Inc"
+  - name: "美国-018-Zenlayer Inc"
     type: http
     server: 23.251.102.121
     port: 80
