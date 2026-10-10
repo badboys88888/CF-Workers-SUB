@@ -1,92 +1,72 @@
 proxies:
-  - name: "美国-001-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 80
-
-  - name: "Cameroon-002-Orange CAM INTERNET"
+  - name: "Cameroon-001-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8081
 
-  - name: "Cameroon-003-Orange CAM INTERNET"
+  - name: "美国-002-Google LLC"
     type: http
-    server: 102.244.78.61
-    port: 8090
-
-  - name: "Ecuador-004-Ufinet Panama S.A."
-    type: http
-    server: 181.78.195.137
-    port: 999
-
-  - name: "墨西哥-005-Uninet S.A. de C.V."
-    type: http
-    server: 187.201.225.188
-    port: 999
-
-  - name: "中国-006-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.210.222
+    server: 34.43.46.91
     port: 80
 
-  - name: "马来西亚-007-Alibaba (US) Technology Co., Ltd."
+  - name: "中国-003-ZHAOONE"
     type: http
-    server: 47.250.177.202
-    port: 8999
+    server: 121.46.226.221
+    port: 10808
 
-  - name: "中国-008-Hangzhou Alibaba Advertising Co"
+  - name: "新加坡-004-Microsoft Corporation"
+    type: http
+    server: 4.144.146.21
+    port: 80
+
+  - name: "中国-005-Hangzhou Alibaba Advertising Co"
     type: http
     server: 106.14.104.220
     port: 8080
 
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
+  - name: "中国-006-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 139.196.175.68
-    port: 8118
+    server: 39.102.211.162
+    port: 3128
 
-  - name: "巴西-010-Universidade Federal DA Bahia"
+  - name: "墨西哥-007-Uninet S.A. de C.V."
+    type: http
+    server: 187.201.225.188
+    port: 999
+
+  - name: "巴西-008-Universidade Federal DA Bahia"
     type: http
     server: 200.128.84.82
     port: 3128
 
-  - name: "Cameroon-011-Orange CAM INTERNET"
+  - name: "巴基斯坦-009-Connect Communication"
     type: http
-    server: 102.244.78.61
-    port: 8083
+    server: 111.119.162.248
+    port: 10917
 
-  - name: "Cameroon-012-Orange CAM INTERNET"
+  - name: "美国-010-Google LLC"
     type: http
-    server: 102.244.78.61
-    port: 8089
-
-  - name: "中国-013-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.213.213
-    port: 9080
-
-  - name: "美国-014-Sharktech"
-    type: http
-    server: 107.167.18.122
+    server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Uzbekistan-015-Uzbektelecom JSC"
+  - name: "Ecuador-011-Ufinet Panama S.A."
+    type: http
+    server: 181.78.195.137
+    port: 999
+
+  - name: "Uzbekistan-012-Uzbektelecom JSC"
     type: http
     server: 90.156.160.234
     port: 3128
 
-  - name: "日本-016-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "Uzbekistan-013-LLC BROSS-TELECOM"
     type: http
-    server: 101.32.94.127
-    port: 8089
+    server: 193.104.179.115
+    port: 3128
 
-  - name: "智利-017-Grupo ZGH SpA"
+  - name: "中国-014-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 38.7.195.50
-    port: 999
-
-  - name: "中国-018-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.108.159.113
-    port: 9098
+    server: 47.106.198.144
+    port: 1080
