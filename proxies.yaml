@@ -1,104 +1,112 @@
 proxies:
-  - name: "美国-001-Google LLC"
+  - name: "俄罗斯-001-JSC TIMEWEB"
     type: http
-    server: 34.43.46.91
-    port: 80
+    server: 5.129.254.60
+    port: 8888
 
-  - name: "美国-002-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "俄罗斯-002-JSC TIMEWEB"
     type: http
-    server: 43.173.120.13
-    port: 8899
+    server: 5.129.254.49
+    port: 8888
 
-  - name: "中国-003-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "埃及-003-Etisalat Misr Mobile BB"
+    type: http
+    server: 41.65.103.168
+    port: 8080
+
+  - name: "Syria-004-ISP-TARASSUL"
+    type: http
+    server: 78.155.66.87
+    port: 8080
+
+  - name: "中国-005-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
     server: 120.25.189.254
-    port: 8080
-
-  - name: "中国-004-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.189
-    port: 8443
-
-  - name: "中国-005-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.209.163
-    port: 20002
-
-  - name: "马来西亚-006-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 47.250.177.202
-    port: 8080
-
-  - name: "Venezuela-007-TOP COMUNICATIONS ESTEGIA C.A."
-    type: http
-    server: 161.22.32.31
-    port: 8080
-
-  - name: "中国-008-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.214.208
-    port: 7788
-
-  - name: "新加坡-009-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 47.237.113.119
-    port: 9000
-
-  - name: "Uzbekistan-010-LLC BROSS-TELECOM"
-    type: http
-    server: 193.104.179.115
     port: 3128
 
-  - name: "中国-011-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "俄罗斯-006-JSC TIMEWEB"
     type: http
-    server: 47.116.210.163
-    port: 9098
+    server: 5.129.254.154
+    port: 8888
 
-  - name: "Cameroon-012-Orange CAM INTERNET"
+  - name: "中国-007-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 106.14.104.220
+    port: 9080
+
+  - name: "中国-008-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 120.26.104.146
+    port: 1111
+
+  - name: "Cameroon-009-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8086
+
+  - name: "Cameroon-010-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8084
 
-  - name: "美国-013-Google LLC"
+  - name: "Uzbekistan-011-LLC BROSS-TELECOM"
     type: http
-    server: 34.43.46.91
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 193.104.179.115
+    port: 3128
 
-  - name: "土耳其-014-HTTP"
+  - name: "新加坡-012-Microsoft Corporation"
     type: http
-    server: 82.47.161.152
-    port: 8443
-
-  - name: "越南-015-VTDC"
-    type: http
-    server: 210.211.113.35
+    server: 4.144.146.21
     port: 80
 
-  - name: "Cameroon-016-Orange CAM INTERNET"
+  - name: "中国-013-Addresses CNNIC"
     type: http
-    server: 102.244.78.61
-    port: 8085
+    server: 139.224.207.73
+    port: 3128
 
-  - name: "美国-017-Amazon Technologies Inc."
+  - name: "俄罗斯-014-JSC TIMEWEB"
+    type: http
+    server: 5.129.254.215
+    port: 8888
+
+  - name: "马来西亚-015-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.250.177.202
+    port: 41451
+
+  - name: "美国-016-Amazon Technologies Inc."
     type: http
     server: 3.211.120.181
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "中国-018-Alibaba (US) Technology Co"
+  - name: "Cameroon-017-Orange CAM INTERNET"
     type: http
-    server: 47.100.130.127
-    port: 5000
+    server: 102.244.78.61
+    port: 8087
 
-  - name: "美国-019-DigitalOcean, LLC"
+  - name: "香港-018-Alibaba Cloud LLC"
     type: http
-    server: 67.207.86.15
-    port: 3128
+    server: 47.238.128.246
+    port: 1081
 
-  - name: "芬兰-020-DpkgSoft International Limited"
+  - name: "巴西-019-Metroflex Telecomunicacoes Ltda"
     type: http
-    server: 2.27.53.95
-    port: 3128
+    server: 186.216.51.176
+    port: 8080
+
+  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.214.192
+    port: 9080
+
+  - name: "菲律宾-021-Dito Telecommunity Corp."
+    type: http
+    server: 139.135.76.218
+    port: 8080
+
+  - name: "德国-022-netcup GmbH"
+    type: http
+    server: 159.195.194.242
+    port: 8080
