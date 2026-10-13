@@ -11,11 +11,11 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-Liaoning-124.93.8.196:1080
+- name: 中国-北京-106.13.48.221:1080
   type: socks5
-  server: 124.93.8.196
+  server: 106.13.48.221
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
 total: 3
-updated: '2026-10-12 12:32:47'
+updated: '2026-10-13 12:16:08'
