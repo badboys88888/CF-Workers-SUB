@@ -4,127 +4,104 @@ proxies:
     server: 104.129.203.85
     port: 9480
 
-  - name: "墨西哥-002-Latitude.sh"
+  - name: "印度尼西亚-002-Perwira"
     type: http
-    server: 103.88.234.239
-    port: 40016
+    server: 41.216.191.85
+    port: 8080
 
-  - name: "Cameroon-003-Orange CAM INTERNET"
+  - name: "越南-003-VTDC"
     type: http
-    server: 102.244.78.61
-    port: 8082
-
-  - name: "美国-004-The Constant Company"
-    type: http
-    server: 108.61.29.163
-    port: 10001
-
-  - name: "加拿大-005-GLOBALTELEHOST Corp."
-    type: http
-    server: 134.195.196.161
-    port: 40001
-
-  - name: "德国-006-Amazon.com, Inc."
-    type: http
-    server: 51.225.138.217
+    server: 210.211.113.33
     port: 80
+
+  - name: "Uzbekistan-004-Uzbektelekom Joint Stock Company"
+    type: http
+    server: 90.156.196.230
+    port: 3128
+
+  - name: "土耳其-005-High Speed For Internet Services L.L.C"
+    type: http
+    server: 89.251.21.148
+    port: 8080
+
+  - name: "菲律宾-006-Philippine Long Distance Telephone Co."
+    type: http
+    server: 49.145.58.197
+    port: 8082
 
   - name: "Cameroon-007-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
-    port: 8084
+    port: 8083
 
-  - name: "英国-008-Baykov Ilya Sergeevich"
+  - name: "美国-008-Google LLC"
     type: http
-    server: 138.124.125.51
-    port: 3128
+    server: 34.43.46.91
+    port: 443
+    tls: true
+    skip-cert-verify: true
 
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.106.216.202
-    port: 8081
-
-  - name: "德国-010-Amazon.com, Inc."
-    type: http
-    server: 51.224.132.72
-    port: 80
-
-  - name: "中国-011-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 106.14.104.220
-    port: 9080
-
-  - name: "Cameroon-012-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8088
-
-  - name: "Cameroon-013-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8080
-
-  - name: "Cameroon-014-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8089
-
-  - name: "墨西哥-015-Latitude.sh"
+  - name: "墨西哥-009-Latitude.sh"
     type: http
     server: 103.88.234.239
     port: 40017
 
-  - name: "Uzbekistan-016-Uzbektelecom JSC"
+  - name: "越南-010-VTDC"
+    type: http
+    server: 210.211.113.35
+    port: 80
+
+  - name: "印度尼西亚-011-PT Media Sarana Data"
+    type: http
+    server: 116.254.118.180
+    port: 80
+
+  - name: "Ecuador-012-Ufinet Panama S.A."
+    type: http
+    server: 181.78.195.137
+    port: 999
+
+  - name: "埃及-013-Link Egypt (Link.NET)"
+    type: http
+    server: 41.196.16.226
+    port: 1981
+
+  - name: "Uzbekistan-014-Uzbektelecom JSC"
     type: http
     server: 90.156.160.234
     port: 3128
 
-  - name: "德国-017-Hetzner Online GmbH"
+  - name: "日本-015-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 46.4.84.244
-    port: 8088
+    server: 101.32.94.127
+    port: 8089
 
-  - name: "Uzbekistan-018-LLC BROSS-TELECOM"
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 193.104.179.115
-    port: 3128
+    server: 39.102.208.236
+    port: 8081
 
-  - name: "Cameroon-019-Orange CAM INTERNET"
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 102.244.78.61
-    port: 8085
+    server: 39.102.208.189
+    port: 9080
 
-  - name: "德国-020-Amazon.com, Inc."
-    type: http
-    server: 51.224.131.122
-    port: 80
-
-  - name: "美国-021-HOSTINGER US"
-    type: http
-    server: 31.220.54.93
-    port: 8080
-
-  - name: "Cameroon-022-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8087
-
-  - name: "越南-023-INETACADEMY"
-    type: http
-    server: 103.82.20.76
-    port: 8080
-
-  - name: "中国-024-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.104.198.111
-    port: 8443
-
-  - name: "中国-025-Hangzhou Alibaba Advertising Co"
+  - name: "中国-018-Hangzhou Alibaba Advertising Co"
     type: http
     server: 39.102.208.149
-    port: 1081
+    port: 9080
 
-  - name: "土耳其-026-High Speed For Internet Services L.L.C"
+  - name: "菲律宾-019-Philippine Long Distance Telephone Co."
     type: http
-    server: 201.7.31.44
+    server: 49.151.120.81
+    port: 8080
+
+  - name: "Bangladesh-020-HPLink NT"
+    type: http
+    server: 103.7.4.15
+    port: 8082
+
+  - name: "印度尼西亚-021-PT Jembatan Data Pangrango"
+    type: http
+    server: 103.97.141.85
     port: 8080
