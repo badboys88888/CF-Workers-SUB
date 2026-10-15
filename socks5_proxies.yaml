@@ -11,30 +11,6 @@ proxies:
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: 中国-Jiangsu-58.210.181.98:1080
-  type: socks5
-  server: 58.210.181.98
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-HK-82.152.163.131:1080
-  type: socks5
-  server: 82.152.163.131
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: 中国-上海-123.206.101.168:1080
-  type: socks5
-  server: 123.206.101.168
-  port: 1080
-  udp: true
-  skip-cert-verify: true
-- name: 中国-上海-218.79.166.10:1080
-  type: socks5
-  server: 218.79.166.10
-  port: 1080
-  udp: false
-  skip-cert-verify: true
 - name: 中国-Shaanxi-106.36.197.230:1080
   type: socks5
   server: 106.36.197.230
@@ -47,5 +23,5 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-total: 8
-updated: '2026-10-14 09:53:40'
+total: 4
+updated: '2026-10-15 09:31:57'
