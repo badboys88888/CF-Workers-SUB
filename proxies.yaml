@@ -1,107 +1,97 @@
 proxies:
-  - name: "美国-001-ZSCALER, INC."
+  - name: "美国-001-HostDime.com"
     type: http
-    server: 104.129.203.85
-    port: 9480
-
-  - name: "印度尼西亚-002-Perwira"
-    type: http
-    server: 41.216.191.85
-    port: 8080
-
-  - name: "越南-003-VTDC"
-    type: http
-    server: 210.211.113.33
-    port: 80
-
-  - name: "Uzbekistan-004-Uzbektelekom Joint Stock Company"
-    type: http
-    server: 90.156.196.230
+    server: 107.161.178.244
     port: 3128
 
-  - name: "土耳其-005-High Speed For Internet Services L.L.C"
+  - name: "印度-002-Oracle Corporation"
     type: http
-    server: 89.251.21.148
-    port: 8080
+    server: 152.67.191.232
+    port: 6800
 
-  - name: "菲律宾-006-Philippine Long Distance Telephone Co."
+  - name: "埃及-003-Link Egypt (Link.NET)"
     type: http
-    server: 49.145.58.197
-    port: 8082
+    server: 41.196.16.226
+    port: 1976
 
-  - name: "Cameroon-007-Orange CAM INTERNET"
+  - name: "美国-004-Google LLC"
+    type: http
+    server: 34.43.46.91
+    port: 80
+
+  - name: "Cameroon-005-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
-    port: 8083
+    port: 8086
 
-  - name: "美国-008-Google LLC"
+  - name: "南非-006-Microsoft Corporation"
+    type: http
+    server: 20.33.10.79
+    port: 80
+
+  - name: "Ecuador-007-Eliana Vanessa Morocho Oña"
+    type: http
+    server: 179.60.189.81
+    port: 999
+
+  - name: "香港-008-Alibaba.com LLC"
+    type: http
+    server: 47.242.218.151
+    port: 9002
+
+  - name: "中国-009-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.107.142.198
+    port: 80
+
+  - name: "Uzbekistan-010-Uzbektelecom JSC"
+    type: http
+    server: 90.156.160.234
+    port: 3128
+
+  - name: "美国-011-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "墨西哥-009-Latitude.sh"
+  - name: "Venezuela-012-RED SERVITEL, CA"
     type: http
-    server: 103.88.234.239
-    port: 40017
-
-  - name: "越南-010-VTDC"
-    type: http
-    server: 210.211.113.35
-    port: 80
-
-  - name: "印度尼西亚-011-PT Media Sarana Data"
-    type: http
-    server: 116.254.118.180
-    port: 80
-
-  - name: "Ecuador-012-Ufinet Panama S.A."
-    type: http
-    server: 181.78.195.137
+    server: 38.172.181.0
     port: 999
 
-  - name: "埃及-013-Link Egypt (Link.NET)"
+  - name: "德国-013-Layer7"
+    type: http
+    server: 95.133.236.11
+    port: 3128
+
+  - name: "中国-014-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.104.198.111
+    port: 8080
+
+  - name: "加拿大-015-WawaCloud Inc."
+    type: http
+    server: 107.149.30.29
+    port: 80
+
+  - name: "Venezuela-016-RED SERVITEL, CA"
+    type: http
+    server: 38.172.160.16
+    port: 999
+
+  - name: "美国-017-DigitalOcean, LLC"
+    type: http
+    server: 167.99.7.61
+    port: 3128
+
+  - name: "埃及-018-Link Egypt (Link.NET)"
     type: http
     server: 41.196.16.226
     port: 1981
 
-  - name: "Uzbekistan-014-Uzbektelecom JSC"
+  - name: "中国-019-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 90.156.160.234
-    port: 3128
-
-  - name: "日本-015-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 101.32.94.127
-    port: 8089
-
-  - name: "中国-016-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.236
-    port: 8081
-
-  - name: "中国-017-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.189
-    port: 9080
-
-  - name: "中国-018-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.208.149
-    port: 9080
-
-  - name: "菲律宾-019-Philippine Long Distance Telephone Co."
-    type: http
-    server: 49.151.120.81
-    port: 8080
-
-  - name: "Bangladesh-020-HPLink NT"
-    type: http
-    server: 103.7.4.15
-    port: 8082
-
-  - name: "印度尼西亚-021-PT Jembatan Data Pangrango"
-    type: http
-    server: 103.97.141.85
-    port: 8080
+    server: 39.102.210.176
+    port: 2022
