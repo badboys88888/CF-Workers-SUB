@@ -1,97 +1,119 @@
 proxies:
-  - name: "美国-001-HostDime.com"
-    type: http
-    server: 107.161.178.244
-    port: 3128
-
-  - name: "印度-002-Oracle Corporation"
-    type: http
-    server: 152.67.191.232
-    port: 6800
-
-  - name: "埃及-003-Link Egypt (Link.NET)"
-    type: http
-    server: 41.196.16.226
-    port: 1976
-
-  - name: "美国-004-Google LLC"
+  - name: "美国-001-Google LLC"
     type: http
     server: 34.43.46.91
     port: 80
 
-  - name: "Cameroon-005-Orange CAM INTERNET"
+  - name: "Cameroon-002-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8081
+
+  - name: "Cameroon-003-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8082
+
+  - name: "埃及-004-Link Egypt (Link.NET)"
+    type: http
+    server: 41.196.16.226
+    port: 1976
+
+  - name: "印度尼西亚-005-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 8.215.112.240
+    port: 7777
+
+  - name: "阿根廷-006-Solution LAN S.A"
+    type: http
+    server: 45.65.224.74
+    port: 999
+
+  - name: "新加坡-007-Alibaba (US) Technology Co., Ltd."
+    type: http
+    server: 47.237.12.129
+    port: 8080
+
+  - name: "印度-008-Real Time Data Services Private Limited"
+    type: http
+    server: 45.195.91.105
+    port: 8080
+
+  - name: "Cameroon-009-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8086
 
-  - name: "南非-006-Microsoft Corporation"
+  - name: "美国-010-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 20.33.10.79
+    server: 43.153.123.79
     port: 80
 
-  - name: "Ecuador-007-Eliana Vanessa Morocho Oña"
+  - name: "Cameroon-011-Orange CAM INTERNET"
     type: http
-    server: 179.60.189.81
-    port: 999
+    server: 102.244.78.61
+    port: 8084
 
-  - name: "香港-008-Alibaba.com LLC"
-    type: http
-    server: 47.242.218.151
-    port: 9002
-
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.107.142.198
-    port: 80
-
-  - name: "Uzbekistan-010-Uzbektelecom JSC"
-    type: http
-    server: 90.156.160.234
-    port: 3128
-
-  - name: "美国-011-Google LLC"
+  - name: "美国-012-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Venezuela-012-RED SERVITEL, CA"
+  - name: "Cameroon-013-Orange CAM INTERNET"
     type: http
-    server: 38.172.181.0
-    port: 999
+    server: 102.244.78.61
+    port: 8088
 
-  - name: "德国-013-Layer7"
+  - name: "Cameroon-014-Orange CAM INTERNET"
     type: http
-    server: 95.133.236.11
-    port: 3128
-
-  - name: "中国-014-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.104.198.111
+    server: 102.244.78.61
     port: 8080
 
-  - name: "加拿大-015-WawaCloud Inc."
+  - name: "Cameroon-015-Orange CAM INTERNET"
     type: http
-    server: 107.149.30.29
-    port: 80
+    server: 102.244.78.61
+    port: 8089
 
-  - name: "Venezuela-016-RED SERVITEL, CA"
-    type: http
-    server: 38.172.160.16
-    port: 999
-
-  - name: "美国-017-DigitalOcean, LLC"
-    type: http
-    server: 167.99.7.61
-    port: 3128
-
-  - name: "埃及-018-Link Egypt (Link.NET)"
+  - name: "埃及-016-Link Egypt (Link.NET)"
     type: http
     server: 41.196.16.226
     port: 1981
 
-  - name: "中国-019-Hangzhou Alibaba Advertising Co"
+  - name: "美国-017-Amazon Technologies Inc."
     type: http
-    server: 39.102.210.176
-    port: 2022
+    server: 3.211.120.181
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "Cameroon-018-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8085
+
+  - name: "荷兰-019-The Constant Company, LLC"
+    type: http
+    server: 209.250.249.155
+    port: 9000
+
+  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.108.159.113
+    port: 8443
+
+  - name: "Cameroon-021-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8087
+
+  - name: "香港-022-Alibaba Cloud LLC"
+    type: http
+    server: 47.52.223.161
+    port: 5872
+
+  - name: "俄罗斯-023-Petersburg Internet Network ltd"
+    type: http
+    server: 46.161.49.174
+    port: 10809
