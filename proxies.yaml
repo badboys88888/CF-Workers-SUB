@@ -4,116 +4,183 @@ proxies:
     server: 34.43.46.91
     port: 80
 
-  - name: "Cameroon-002-Orange CAM INTERNET"
+  - name: "香港-002-Tele Asia Limited"
+    type: http
+    server: 45.125.64.215
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "印度-003-Oracle Corporation"
+    type: http
+    server: 152.67.191.232
+    port: 6800
+
+  - name: "印度尼西亚-004-STARNET"
+    type: http
+    server: 103.81.223.81
+    port: 8080
+
+  - name: "Cameroon-005-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8081
 
-  - name: "Cameroon-003-Orange CAM INTERNET"
+  - name: "Cameroon-006-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8090
+
+  - name: "Cameroon-007-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8082
 
-  - name: "埃及-004-Link Egypt (Link.NET)"
+  - name: "埃及-008-Link Egypt (Link.NET)"
     type: http
     server: 41.196.16.226
     port: 1976
 
-  - name: "印度尼西亚-005-Alibaba (US) Technology Co., Ltd."
+  - name: "Bulgaria-009-Belcloud LTD"
     type: http
-    server: 8.215.112.240
-    port: 7777
+    server: 185.205.210.154
+    port: 8102
 
-  - name: "阿根廷-006-Solution LAN S.A"
+  - name: "新加坡-010-Microsoft Corporation"
+    type: http
+    server: 4.144.146.21
+    port: 80
+
+  - name: "阿根廷-011-Solution LAN S.A"
     type: http
     server: 45.65.224.74
     port: 999
 
-  - name: "新加坡-007-Alibaba (US) Technology Co., Ltd."
+  - name: "德国-012-Hetzner Online AG"
     type: http
-    server: 47.237.12.129
-    port: 8080
+    server: 91.107.247.193
+    port: 7001
 
-  - name: "印度-008-Real Time Data Services Private Limited"
+  - name: "马来西亚-013-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 45.195.91.105
-    port: 8080
+    server: 47.250.155.254
+    port: 8004
 
-  - name: "Cameroon-009-Orange CAM INTERNET"
+  - name: "Cameroon-014-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8086
 
-  - name: "美国-010-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "中国-015-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 43.153.123.79
-    port: 80
+    server: 39.102.214.208
+    port: 8081
 
-  - name: "Cameroon-011-Orange CAM INTERNET"
+  - name: "Ecuador-016-Ufinet Panama S.A."
+    type: http
+    server: 181.78.195.137
+    port: 999
+
+  - name: "泰国-017-AIS-Fibre"
+    type: http
+    server: 184.82.163.186
+    port: 8080
+
+  - name: "Cameroon-018-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8084
 
-  - name: "美国-012-Google LLC"
+  - name: "Cameroon-019-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8088
+
+  - name: "Cameroon-020-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8083
+
+  - name: "Cameroon-021-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8080
+
+  - name: "美国-022-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-013-Orange CAM INTERNET"
+  - name: "巴基斯坦-023-National Telecommunication Corporation"
     type: http
-    server: 102.244.78.61
-    port: 8088
-
-  - name: "Cameroon-014-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
+    server: 175.107.30.126
     port: 8080
 
-  - name: "Cameroon-015-Orange CAM INTERNET"
+  - name: "Cameroon-024-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8089
 
-  - name: "埃及-016-Link Egypt (Link.NET)"
+  - name: "香港-025-Alibaba.com LLC"
+    type: http
+    server: 47.242.218.151
+    port: 9002
+
+  - name: "埃及-026-Vodafone Data - Egypt"
+    type: http
+    server: 196.204.3.18
+    port: 1981
+
+  - name: "埃及-027-Link Egypt (Link.NET)"
     type: http
     server: 41.196.16.226
     port: 1981
 
-  - name: "美国-017-Amazon Technologies Inc."
+  - name: "Cameroon-028-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8085
+
+  - name: "美国-029-Amazon Technologies Inc."
     type: http
     server: 3.211.120.181
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-018-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8085
-
-  - name: "荷兰-019-The Constant Company, LLC"
+  - name: "荷兰-030-The Constant Company, LLC"
     type: http
     server: 209.250.249.155
     port: 9000
 
-  - name: "中国-020-Hangzhou Alibaba Advertising Co"
+  - name: "中国-031-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 47.108.159.113
-    port: 8443
+    server: 39.102.213.187
+    port: 8089
 
-  - name: "Cameroon-021-Orange CAM INTERNET"
+  - name: "Cameroon-032-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8087
 
-  - name: "香港-022-Alibaba Cloud LLC"
+  - name: "中国-033-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 47.52.223.161
-    port: 5872
+    server: 47.116.210.163
+    port: 8081
 
-  - name: "俄罗斯-023-Petersburg Internet Network ltd"
+  - name: "Uzbekistan-034-Uzbektelecom JSC"
     type: http
-    server: 46.161.49.174
-    port: 10809
+    server: 90.156.160.234
+    port: 3128
+
+  - name: "中国-035-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.213.213
+    port: 10000
+
+  - name: "中国-036-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.106.198.144
+    port: 1080
