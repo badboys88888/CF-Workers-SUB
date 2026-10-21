@@ -5,9 +5,27 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
+- name: 新加坡-Singapore-43.106.60.21:1080
+  type: socks5
+  server: 43.106.60.21
+  port: 1080
+  udp: true
+  skip-cert-verify: true
 - name: 中国-Jiangsu-58.210.181.98:1080
   type: socks5
   server: 58.210.181.98
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: 韩国-Gyeongsangnam-do-1.176.45.216:1080
+  type: socks5
+  server: 1.176.45.216
+  port: 1080
+  udp: true
+  skip-cert-verify: true
+- name: 中国-北京-106.13.48.221:1080
+  type: socks5
+  server: 106.13.48.221
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -17,11 +35,5 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-北京-106.13.48.221:1080
-  type: socks5
-  server: 106.13.48.221
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-total: 4
-updated: '2026-10-20 09:48:28'
+total: 6
+updated: '2026-10-21 09:44:25'
