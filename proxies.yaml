@@ -1,124 +1,137 @@
 proxies:
-  - name: "香港-001-Tele Asia Limited"
+  - name: "印度-001-Oracle Corporation"
     type: http
-    server: 45.125.64.215
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 152.67.191.232
+    port: 6800
 
-  - name: "法国-002-Contabo GmbH"
+  - name: "Cameroon-002-Orange CAM INTERNET"
     type: http
-    server: 213.136.72.147
-    port: 3128
+    server: 102.244.78.61
+    port: 8090
 
-  - name: "埃及-003-TE Data"
+  - name: "Cameroon-003-Orange CAM INTERNET"
     type: http
-    server: 41.33.126.136
-    port: 1981
+    server: 102.244.78.61
+    port: 8081
 
-  - name: "美国-004-Amazon.com, Inc."
+  - name: "中国-004-ZHAOONE"
     type: http
-    server: 54.162.190.161
-    port: 3128
+    server: 121.46.226.221
+    port: 10808
 
-  - name: "新加坡-005-Microsoft Corporation"
+  - name: "Cameroon-005-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8082
+
+  - name: "新加坡-006-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "中国-006-Hangzhou Alibaba Advertising Co"
+  - name: "Venezuela-007-THUNDERNET, C.A"
     type: http
-    server: 39.102.208.149
-    port: 8443
-
-  - name: "Syria-007-High Speed For Internet Services L.L.C"
-    type: http
-    server: 193.33.157.18
-    port: 8080
-
-  - name: "印度尼西亚-008-Perwira"
-    type: http
-    server: 41.216.191.85
-    port: 8080
-
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 106.14.104.220
-    port: 9080
-
-  - name: "中国-010-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.107.142.198
-    port: 80
-
-  - name: "美国-011-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 8.221.106.175
-    port: 7000
-
-  - name: "香港-012-Huawei International Pte. Ltd."
-    type: http
-    server: 159.138.24.221
-    port: 3128
-
-  - name: "墨西哥-013-Ientc S De RL De CV"
-    type: http
-    server: 206.135.47.108
+    server: 161.22.33.72
     port: 999
 
-  - name: "荷兰-014-SCALEWAY"
+  - name: "Cameroon-008-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8086
+
+  - name: "荷兰-009-SCALEWAY"
     type: http
     server: 51.15.20.32
     port: 3129
 
-  - name: "南非-015-Microsoft Corporation"
+  - name: "法国-010-Contabo GmbH"
     type: http
-    server: 20.33.10.79
-    port: 80
+    server: 157.173.115.35
+    port: 1081
 
-  - name: "美国-016-Amazon Technologies Inc."
+  - name: "德国-011-Contabo GmbH"
+    type: http
+    server: 185.222.240.68
+    port: 3028
+
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.109.110.100
+    port: 8081
+
+  - name: "Cameroon-013-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8084
+
+  - name: "德国-014-Hetzner Online AG"
+    type: http
+    server: 91.107.248.132
+    port: 1080
+
+  - name: "香港-015-Antbox Networks Limited"
+    type: http
+    server: 192.238.196.211
+    port: 8080
+
+  - name: "Cameroon-016-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8088
+
+  - name: "Cameroon-017-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8083
+
+  - name: "Cameroon-018-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8080
+
+  - name: "Cameroon-019-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8089
+
+  - name: "Uzbekistan-020-Uzbektelecom JSC"
+    type: http
+    server: 90.156.160.234
+    port: 3128
+
+  - name: "Cameroon-021-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8085
+
+  - name: "英国-022-Contabo GmbH"
+    type: http
+    server: 158.220.93.104
+    port: 3128
+
+  - name: "美国-023-Amazon Technologies Inc."
     type: http
     server: 3.211.120.181
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "中国-017-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "Cameroon-024-Orange CAM INTERNET"
     type: http
-    server: 121.43.154.123
-    port: 20000
+    server: 102.244.78.61
+    port: 8087
 
-  - name: "香港-018-Alibaba Cloud LLC"
+  - name: "印度尼西亚-025-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 47.238.134.126
-    port: 8181
+    server: 43.157.224.190
+    port: 40001
 
-  - name: "俄罗斯-019-Petersburg Internet Network ltd"
+  - name: "Venezuela-026-Cogent Communications"
     type: http
-    server: 46.161.49.174
-    port: 10808
+    server: 38.63.98.32
+    port: 999
 
-  - name: "南非-020-Microsoft Corporation"
-    type: http
-    server: 20.33.10.132
-    port: 443
-
-  - name: "中国-021-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.121.133.212
-    port: 4006
-
-  - name: "印度尼西亚-022-PT Sugi Bintang Jaya"
-    type: http
-    server: 103.191.169.70
-    port: 1111
-
-  - name: "德国-023-netcup GmbH"
+  - name: "德国-027-netcup GmbH"
     type: http
     server: 159.195.194.242
     port: 8080
-
-  - name: "印度-024-Bharti Airtel"
-    type: http
-    server: 182.79.60.210
-    port: 3129
