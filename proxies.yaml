@@ -1,106 +1,122 @@
 proxies:
-  - name: "英国-001-Hydra Communications Ltd"
+  - name: "美国-001-Eons Data Communications Limited"
     type: http
-    server: 81.19.210.10
-    port: 80
+    server: 64.118.155.2
+    port: 22222
 
-  - name: "香港-002-Tele Asia Limited"
-    type: http
-    server: 45.125.64.215
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "美国-003-Google LLC"
+  - name: "美国-002-Google LLC"
     type: http
     server: 34.43.46.91
     port: 80
 
-  - name: "印度-004-Oracle Corporation"
+  - name: "英国-003-FranTech Solutions"
     type: http
-    server: 152.67.191.232
-    port: 6800
+    server: 104.194.146.9
+    port: 80
 
-  - name: "香港-005-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
+  - name: "中国-004-Addresses CNNIC"
     type: http
-    server: 101.36.112.205
-    port: 1081
+    server: 139.224.207.73
+    port: 8082
 
-  - name: "美国-006-Hostinger Operations UAB"
+  - name: "俄罗斯-005-BEGET.RU"
     type: http
-    server: 179.236.231.81
+    server: 213.139.210.13
+    port: 1088
+
+  - name: "中国-006-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.210.222
+    port: 3128
+
+  - name: "中国-007-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 47.108.159.113
+    port: 6379
+
+  - name: "美国-008-Amazon.com, Inc."
+    type: http
+    server: 3.145.196.175
+    port: 3128
+
+  - name: "中国-009-Alibaba (US) Technology Co"
+    type: http
+    server: 47.100.130.127
+    port: 8081
+
+  - name: "香港-010-Antbox Networks Limited"
+    type: http
+    server: 192.238.196.211
     port: 8080
 
-  - name: "香港-007-Alibaba Cloud LLC"
+  - name: "泰国-011-Readyidc Company Limited"
     type: http
-    server: 47.52.223.161
-    port: 5872
+    server: 103.22.181.107
+    port: 3128
 
-  - name: "埃及-008-TE Data"
+  - name: "中国-012-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 41.33.126.136
-    port: 1981
+    server: 39.102.213.213
+    port: 57114
 
-  - name: "中国-009-Hangzhou Alibaba Advertising Co"
+  - name: "中国-013-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 39.102.209.121
-    port: 8888
+    server: 120.26.104.146
+    port: 1111
 
-  - name: "俄罗斯-010-JSC TIMEWEB"
+  - name: "美国-014-Google LLC"
     type: http
-    server: 5.129.254.154
-    port: 8888
+    server: 34.43.46.91
+    port: 443
+    tls: true
+    skip-cert-verify: true
 
-  - name: "中国-011-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.209.163
-    port: 8080
-
-  - name: "新加坡-012-Microsoft Corporation"
+  - name: "新加坡-015-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "中国-013-Hangzhou Alibaba Advertising Co"
+  - name: "荷兰-016-Pfcloud UG (haftungsbeschrankt)"
     type: http
-    server: 106.14.104.220
-    port: 8080
+    server: 176.65.151.240
+    port: 1080
 
-  - name: "荷兰-014-SCALEWAY"
+  - name: "中国-017-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 51.15.20.32
+    server: 47.107.166.143
     port: 3129
 
-  - name: "俄罗斯-015-JSC TIMEWEB"
+  - name: "Tajikistan-018-Tajik Academic Research Educational Networks Association"
     type: http
-    server: 147.45.164.178
-    port: 8888
+    server: 77.95.2.9
+    port: 8080
 
-  - name: "Cameroon-016-Orange CAM INTERNET"
+  - name: "中国-019-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 47.116.210.163
+    port: 8080
+
+  - name: "Cameroon-020-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
-    port: 8084
+    port: 8087
 
-  - name: "美国-017-Google LLC"
+  - name: "新加坡-021-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 34.43.46.91
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 43.134.39.221
+    port: 10000
 
-  - name: "中国-018-Hangzhou Alibaba Advertising Co., Ltd."
+  - name: "中国-022-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 120.26.104.146
-    port: 80
+    server: 39.102.214.152
+    port: 8443
 
-  - name: "美国-019-Amazon Technologies Inc."
+  - name: "美国-023-Amazon.com, Inc."
     type: http
-    server: 3.211.120.181
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 13.56.147.239
+    port: 3128
 
-  - name: "菲律宾-020-Globe Telecom"
+  - name: "巴西-024-Amazon Technologies Inc."
     type: http
-    server: 180.191.142.86
-    port: 8082
+    server: 18.231.20.149
+    port: 3128
