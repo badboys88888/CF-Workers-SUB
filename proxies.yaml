@@ -4,57 +4,55 @@ proxies:
     server: 34.43.46.91
     port: 80
 
-  - name: "香港-002-Tele Asia Limited"
+  - name: "澳大利亚-002-Host Universal Pty Ltd"
     type: http
-    server: 45.125.64.215
-    port: 443
-    tls: true
-    skip-cert-verify: true
+    server: 103.192.80.81
+    port: 3129
 
-  - name: "新加坡-003-Huawei International Pte. LTD"
+  - name: "美国-003-Eons Data Communications Limited"
     type: http
-    server: 159.138.84.187
-    port: 3128
+    server: 64.118.155.2
+    port: 22222
 
-  - name: "越南-004-Vietel - CHT Compamy Ltd"
-    type: http
-    server: 125.212.200.169
-    port: 3128
-
-  - name: "印度-005-Oracle Corporation"
+  - name: "印度-004-Oracle Corporation"
     type: http
     server: 152.67.191.232
     port: 6800
 
-  - name: "埃及-006-TE Data"
+  - name: "瑞士-005-Geronimo Ramirez Computer Network"
     type: http
-    server: 41.33.126.136
-    port: 1976
+    server: 185.191.239.248
+    port: 3128
 
-  - name: "印度尼西亚-007-PT Dinar Wahana Gemilang"
+  - name: "芬兰-006-Hetzner Online GmbH"
     type: http
-    server: 103.158.97.82
-    port: 8080
+    server: 77.42.95.221
+    port: 8889
 
-  - name: "Cameroon-008-Orange CAM INTERNET"
+  - name: "Cameroon-007-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8090
 
-  - name: "Cameroon-009-Orange CAM INTERNET"
+  - name: "Cameroon-008-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8081
 
-  - name: "印度尼西亚-010-PT Lintas Jaringan Nusantara"
-    type: http
-    server: 38.58.117.135
-    port: 8080
-
-  - name: "Cameroon-011-Orange CAM INTERNET"
+  - name: "Cameroon-009-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8082
+
+  - name: "埃及-010-TE Data"
+    type: http
+    server: 41.33.126.136
+    port: 1981
+
+  - name: "英国-011-Google LLC"
+    type: http
+    server: 34.105.252.3
+    port: 3128
 
   - name: "新加坡-012-Microsoft Corporation"
     type: http
@@ -66,129 +64,69 @@ proxies:
     server: 102.244.78.61
     port: 8086
 
-  - name: "印度尼西亚-014-PT Lintas Jaringan Nusantara"
+  - name: "美国-014-Amazon.com, Inc."
     type: http
-    server: 103.155.199.185
-    port: 8080
+    server: 18.221.175.172
+    port: 8000
 
-  - name: "墨西哥-015-Wantelco SAS de CV"
-    type: http
-    server: 82.152.138.127
-    port: 999
-
-  - name: "印度尼西亚-016-PT. RACKH LINTAS ASIA"
-    type: http
-    server: 103.125.15.58
-    port: 8085
-
-  - name: "美国-017-Alibaba Cloud LLC"
-    type: http
-    server: 47.251.100.26
-    port: 3128
-
-  - name: "印度-018-Bharti Airtel Limited"
-    type: http
-    server: 59.145.184.190
-    port: 80
-
-  - name: "荷兰-019-SURFnet III d"
-    type: http
-    server: 145.220.227.195
-    port: 4145
-
-  - name: "Cameroon-020-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8084
-
-  - name: "Venezuela-021-RED SERVITEL, CA"
-    type: http
-    server: 38.172.181.0
-    port: 999
-
-  - name: "新加坡-022-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.134.39.221
-    port: 10000
-
-  - name: "Bangladesh-023-AmberIT Limited"
-    type: http
-    server: 118.179.136.153
-    port: 81
-
-  - name: "Cameroon-024-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8088
-
-  - name: "Cameroon-025-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8083
-
-  - name: "Cameroon-026-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8080
-
-  - name: "美国-027-Google LLC"
+  - name: "美国-015-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-028-Orange CAM INTERNET"
+  - name: "Cameroon-016-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8084
+
+  - name: "Cameroon-017-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8088
+
+  - name: "Cameroon-018-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8083
+
+  - name: "Cameroon-019-Orange CAM INTERNET"
+    type: http
+    server: 102.244.78.61
+    port: 8080
+
+  - name: "Cameroon-020-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8089
 
-  - name: "Tajikistan-029-Tajik Academic Research Educational Networks Association"
+  - name: "俄罗斯-021-BEGET.RU"
     type: http
-    server: 77.95.2.9
-    port: 8080
+    server: 213.139.210.13
+    port: 1088
 
-  - name: "Cameroon-030-Orange CAM INTERNET"
+  - name: "Uzbekistan-022-Uzbektelecom JSC"
+    type: http
+    server: 90.156.160.234
+    port: 3128
+
+  - name: "香港-023-Alibaba Cloud LLC"
+    type: http
+    server: 47.52.223.161
+    port: 5872
+
+  - name: "Cameroon-024-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8085
 
-  - name: "新加坡-031-Shenzhen Tencent Computer Systems Company Limited"
-    type: http
-    server: 43.156.66.78
-    port: 12345
-
-  - name: "巴西-032-V tal"
-    type: http
-    server: 200.163.52.208
-    port: 8080
-
-  - name: "Cameroon-033-Orange CAM INTERNET"
+  - name: "Cameroon-025-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8087
 
-  - name: "Kazakhstan-034-D-Cloud LLC"
+  - name: "德国-026-netcup GmbH"
     type: http
-    server: 91.229.151.118
-    port: 8080
-
-  - name: "哥伦比亚-035-Atenea Telecomunicaciones S.A.S"
-    type: http
-    server: 45.172.223.190
-    port: 999
-
-  - name: "乌克兰-036-PrJSC VF UKRAINE"
-    type: http
-    server: 77.52.187.196
-    port: 18080
-
-  - name: "英国-037-OVH SAS"
-    type: http
-    server: 57.129.128.223
-    port: 3128
-
-  - name: "美国-038-Amazon.com, Inc."
-    type: http
-    server: 98.88.36.190
+    server: 159.195.194.242
     port: 8080
