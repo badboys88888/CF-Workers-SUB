@@ -4,146 +4,168 @@ proxies:
     server: 34.43.46.91
     port: 80
 
-  - name: "Cameroon-002-Orange CAM INTERNET"
+  - name: "荷兰-002-SURFnet III d"
+    type: http
+    server: 145.220.227.164
+    port: 4145
+
+  - name: "美国-003-Eons Data Communications Limited"
+    type: http
+    server: 64.118.155.2
+    port: 22222
+
+  - name: "美国-004-ZSCALER, INC."
+    type: http
+    server: 104.129.203.85
+    port: 9480
+
+  - name: "Cameroon-005-Orange CAM INTERNET"
     type: http
     server: 102.244.78.61
     port: 8090
 
-  - name: "Cameroon-003-Orange CAM INTERNET"
+  - name: "荷兰-006-SURFnet III d"
     type: http
-    server: 102.244.78.61
-    port: 8081
+    server: 145.220.227.145
+    port: 8080
 
-  - name: "Cameroon-004-Orange CAM INTERNET"
+  - name: "荷兰-007-SURFnet III d"
     type: http
-    server: 102.244.78.61
+    server: 145.220.227.164
+    port: 8118
+
+  - name: "香港-008-Tele Asia Limited"
+    type: http
+    server: 45.125.64.215
+    port: 443
+    tls: true
+    skip-cert-verify: true
+
+  - name: "荷兰-009-Globaltech LLC"
+    type: http
+    server: 77.105.160.250
+    port: 3128
+
+  - name: "菲律宾-010-Philippine Long Distance Telephone Co."
+    type: http
+    server: 119.94.183.78
     port: 8082
 
-  - name: "俄罗斯-005-BEGET.RU"
+  - name: "菲律宾-011-Globe Telecom"
     type: http
-    server: 213.139.210.13
-    port: 1088
+    server: 180.191.0.205
+    port: 8081
 
-  - name: "新加坡-006-Microsoft Corporation"
+  - name: "新加坡-012-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "越南-007-Viettel Corporation"
+  - name: "荷兰-013-SURFnet III d"
     type: http
-    server: 171.238.101.122
-    port: 2033
+    server: 145.220.227.164
+    port: 3128
 
-  - name: "墨西哥-008-Computadoras y Servicios Especiales SA de CV"
+  - name: "秘鲁-014-TDP-GRS"
     type: http
-    server: 201.139.180.39
+    server: 190.237.238.191
     port: 999
 
-  - name: "哥伦比亚-009-Cogent Communications"
-    type: http
-    server: 38.211.68.83
-    port: 999
-
-  - name: "Kazakhstan-010-Megahost Kazakhstan TOO"
+  - name: "Kazakhstan-015-Megahost Kazakhstan TOO"
     type: http
     server: 77.67.8.122
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-011-Orange CAM INTERNET"
+  - name: "俄罗斯-016-Beget LLC"
     type: http
-    server: 102.244.78.61
-    port: 8086
-
-  - name: "智利-012-Nanotik Telecomunicaciones SPA"
-    type: http
-    server: 45.232.210.97
-    port: 999
-
-  - name: "加拿大-013-Oracle Corporation"
-    type: http
-    server: 155.248.219.12
+    server: 45.12.238.164
     port: 3128
 
-  - name: "印度尼西亚-014-PT Zona Kolektif Indonesia"
+  - name: "新加坡-017-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 103.171.255.60
+    server: 47.237.113.119
+    port: 9000
+
+  - name: "荷兰-018-SURFnet III d"
+    type: http
+    server: 145.220.227.142
     port: 8080
 
-  - name: "香港-015-Alibaba Cloud LLC"
+  - name: "香港-019-Alibaba Cloud LLC"
     type: http
-    server: 47.238.128.246
-    port: 8060
+    server: 47.238.130.212
+    port: 1337
 
-  - name: "荷兰-016-SCALEWAY"
+  - name: "荷兰-020-SURFnet III d"
     type: http
-    server: 51.15.20.32
-    port: 3129
+    server: 145.220.227.132
+    port: 1080
 
-  - name: "Cameroon-017-Orange CAM INTERNET"
+  - name: "韩国-021-Oracle Corporation"
     type: http
-    server: 102.244.78.61
-    port: 8088
+    server: 144.24.94.153
+    port: 1080
 
-  - name: "Cameroon-018-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8083
-
-  - name: "Cameroon-019-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8080
-
-  - name: "美国-020-Google LLC"
+  - name: "美国-022-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "Cameroon-021-Orange CAM INTERNET"
+  - name: "南非-023-Microsoft Corporation"
     type: http
-    server: 102.244.78.61
-    port: 8089
+    server: 20.33.10.79
+    port: 443
 
-  - name: "新加坡-022-Shenzhen Tencent Computer Systems Company Limited"
+  - name: "美国-024-HostPapa"
     type: http
-    server: 43.159.62.17
-    port: 40001
+    server: 204.44.67.158
+    port: 1080
 
-  - name: "Cameroon-023-Orange CAM INTERNET"
+  - name: "荷兰-025-SCALEWAY"
     type: http
-    server: 102.244.78.61
-    port: 8085
+    server: 51.15.20.32
+    port: 3129
 
-  - name: "墨西哥-024-Wantelco SAS de CV"
+  - name: "荷兰-026-SURFnet III d"
     type: http
-    server: 82.152.138.127
+    server: 145.220.227.132
+    port: 4145
+
+  - name: "荷兰-027-SURFnet III d"
+    type: http
+    server: 145.220.227.144
+    port: 8118
+
+  - name: "荷兰-028-Timeweb, LLP"
+    type: http
+    server: 216.57.110.230
+    port: 3128
+
+  - name: "越南-029-Vietnam Posts and Telecommunications Group"
+    type: http
+    server: 14.225.205.152
+    port: 3128
+
+  - name: "哥伦比亚-030-TV AZTECA SUCURSAL COLOMBIA"
+    type: http
+    server: 186.96.111.214
     port: 999
 
-  - name: "Cameroon-025-Orange CAM INTERNET"
+  - name: "印度尼西亚-031-PT Tidar Lintas Nusa"
     type: http
-    server: 102.244.78.61
-    port: 8087
-
-  - name: "印度尼西亚-026-PT Usaha Adi Sanggoro"
-    type: http
-    server: 43.252.238.102
+    server: 103.208.103.30
     port: 8080
 
-  - name: "巴西-027-NT Brasil Tecnologia Ltda. ME"
+  - name: "Latvia-032-SIA VEESP"
     type: http
-    server: 177.36.200.202
-    port: 3128
+    server: 188.253.20.105
+    port: 3129
 
-  - name: "泰国-028-TOT Public Company Limited"
+  - name: "韩国-033-Korea Telecom"
     type: http
-    server: 125.25.167.176
-    port: 80
-
-  - name: "新加坡-029-Alibaba.com LLC"
-    type: http
-    server: 47.84.195.204
-    port: 3128
+    server: 222.111.130.73
+    port: 8080
