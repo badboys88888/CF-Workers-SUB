@@ -4,168 +4,111 @@ proxies:
     server: 34.43.46.91
     port: 80
 
-  - name: "荷兰-002-SURFnet III d"
-    type: http
-    server: 145.220.227.164
-    port: 4145
-
-  - name: "美国-003-Eons Data Communications Limited"
-    type: http
-    server: 64.118.155.2
-    port: 22222
-
-  - name: "美国-004-ZSCALER, INC."
-    type: http
-    server: 104.129.203.85
-    port: 9480
-
-  - name: "Cameroon-005-Orange CAM INTERNET"
-    type: http
-    server: 102.244.78.61
-    port: 8090
-
-  - name: "荷兰-006-SURFnet III d"
-    type: http
-    server: 145.220.227.145
-    port: 8080
-
-  - name: "荷兰-007-SURFnet III d"
-    type: http
-    server: 145.220.227.164
-    port: 8118
-
-  - name: "香港-008-Tele Asia Limited"
+  - name: "香港-002-Tele Asia Limited"
     type: http
     server: 45.125.64.215
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "荷兰-009-Globaltech LLC"
+  - name: "印度-003-Akamai Technologies, Inc."
     type: http
-    server: 77.105.160.250
+    server: 172.237.41.254
+    port: 9999
+
+  - name: "印度尼西亚-004-PT POWER TELECOM"
+    type: http
+    server: 203.190.53.177
+    port: 8080
+
+  - name: "美国-005-Eons Data Communications Limited"
+    type: http
+    server: 64.118.155.2
+    port: 22222
+
+  - name: "香港-006-Aceville Pte.ltd"
+    type: http
+    server: 43.161.254.16
     port: 3128
 
-  - name: "菲律宾-010-Philippine Long Distance Telephone Co."
+  - name: "印度-007-Oracle Corporation"
+    type: http
+    server: 152.67.191.232
+    port: 6800
+
+  - name: "菲律宾-008-Philippine Long Distance Telephone Co."
     type: http
     server: 119.94.183.78
     port: 8082
 
-  - name: "菲律宾-011-Globe Telecom"
-    type: http
-    server: 180.191.0.205
-    port: 8081
-
-  - name: "新加坡-012-Microsoft Corporation"
+  - name: "新加坡-009-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "荷兰-013-SURFnet III d"
+  - name: "印度尼西亚-010-PT Dinar Wahana Gemilang"
     type: http
-    server: 145.220.227.164
-    port: 3128
-
-  - name: "秘鲁-014-TDP-GRS"
-    type: http
-    server: 190.237.238.191
-    port: 999
-
-  - name: "Kazakhstan-015-Megahost Kazakhstan TOO"
-    type: http
-    server: 77.67.8.122
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "俄罗斯-016-Beget LLC"
-    type: http
-    server: 45.12.238.164
-    port: 3128
-
-  - name: "新加坡-017-Alibaba (US) Technology Co., Ltd."
-    type: http
-    server: 47.237.113.119
-    port: 9000
-
-  - name: "荷兰-018-SURFnet III d"
-    type: http
-    server: 145.220.227.142
+    server: 103.158.97.82
     port: 8080
 
-  - name: "香港-019-Alibaba Cloud LLC"
+  - name: "印度尼西亚-011-TESOLCITYNET"
     type: http
-    server: 47.238.130.212
-    port: 1337
+    server: 103.98.117.98
+    port: 8080
 
-  - name: "荷兰-020-SURFnet III d"
+  - name: "埃及-012-TE Data"
     type: http
-    server: 145.220.227.132
-    port: 1080
+    server: 41.38.209.16
+    port: 8080
 
-  - name: "韩国-021-Oracle Corporation"
+  - name: "波兰-013-Illia Kravtsov"
     type: http
-    server: 144.24.94.153
-    port: 1080
+    server: 94.249.180.231
+    port: 8080
 
-  - name: "美国-022-Google LLC"
+  - name: "美国-014-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "南非-023-Microsoft Corporation"
+  - name: "香港-015-Alibaba Cloud LLC"
     type: http
-    server: 20.33.10.79
-    port: 443
+    server: 47.238.134.126
+    port: 14
 
-  - name: "美国-024-HostPapa"
+  - name: "Qatar-016-Ooredoo Q.S.C"
     type: http
-    server: 204.44.67.158
-    port: 1080
+    server: 37.211.65.11
+    port: 8080
 
-  - name: "荷兰-025-SCALEWAY"
+  - name: "泰国-017-Triple T Broadband Public Company Limited"
     type: http
-    server: 51.15.20.32
-    port: 3129
-
-  - name: "荷兰-026-SURFnet III d"
-    type: http
-    server: 145.220.227.132
-    port: 4145
-
-  - name: "荷兰-027-SURFnet III d"
-    type: http
-    server: 145.220.227.144
-    port: 8118
-
-  - name: "荷兰-028-Timeweb, LLP"
-    type: http
-    server: 216.57.110.230
+    server: 180.183.144.66
     port: 3128
 
-  - name: "越南-029-Vietnam Posts and Telecommunications Group"
+  - name: "中国-018-CERNET"
     type: http
-    server: 14.225.205.152
-    port: 3128
+    server: 183.172.126.63
+    port: 10809
 
-  - name: "哥伦比亚-030-TV AZTECA SUCURSAL COLOMBIA"
+  - name: "芬兰-019-Hetzner Online GmbH"
     type: http
-    server: 186.96.111.214
+    server: 77.42.95.221
+    port: 8888
+
+  - name: "印度尼西亚-020-PT Serayu Multi Connection"
+    type: http
+    server: 103.173.138.225
+    port: 8080
+
+  - name: "香港-021-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.130.212
+    port: 28
+
+  - name: "Venezuela-022-TotalCom Venezuela C.A."
+    type: http
+    server: 200.59.186.55
     port: 999
-
-  - name: "印度尼西亚-031-PT Tidar Lintas Nusa"
-    type: http
-    server: 103.208.103.30
-    port: 8080
-
-  - name: "Latvia-032-SIA VEESP"
-    type: http
-    server: 188.253.20.105
-    port: 3129
-
-  - name: "韩国-033-Korea Telecom"
-    type: http
-    server: 222.111.130.73
-    port: 8080
