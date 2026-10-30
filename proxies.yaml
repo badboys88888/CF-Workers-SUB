@@ -1,114 +1,112 @@
 proxies:
-  - name: "美国-001-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 80
-
-  - name: "香港-002-Tele Asia Limited"
-    type: http
-    server: 45.125.64.215
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "印度-003-Akamai Technologies, Inc."
-    type: http
-    server: 172.237.41.254
-    port: 9999
-
-  - name: "印度尼西亚-004-PT POWER TELECOM"
-    type: http
-    server: 203.190.53.177
-    port: 8080
-
-  - name: "美国-005-Eons Data Communications Limited"
+  - name: "美国-001-Eons Data Communications Limited"
     type: http
     server: 64.118.155.2
     port: 22222
 
-  - name: "香港-006-Aceville Pte.ltd"
+  - name: "香港-002-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
+    type: http
+    server: 165.154.7.156
+    port: 8888
+
+  - name: "印度尼西亚-003-PT SPEED INTERNET DIGITAL"
+    type: http
+    server: 202.150.89.244
+    port: 3128
+
+  - name: "香港-004-Aceville Pte.ltd"
     type: http
     server: 43.161.254.16
     port: 3128
 
-  - name: "印度-007-Oracle Corporation"
-    type: http
-    server: 152.67.191.232
-    port: 6800
-
-  - name: "菲律宾-008-Philippine Long Distance Telephone Co."
-    type: http
-    server: 119.94.183.78
-    port: 8082
-
-  - name: "新加坡-009-Microsoft Corporation"
+  - name: "新加坡-005-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "印度尼西亚-010-PT Dinar Wahana Gemilang"
+  - name: "Ecuador-006-Cbvision S.A."
+    type: http
+    server: 45.189.57.114
+    port: 3129
+
+  - name: "印度尼西亚-007-PT Dinar Wahana Gemilang"
     type: http
     server: 103.158.97.82
     port: 8080
 
-  - name: "印度尼西亚-011-TESOLCITYNET"
+  - name: "荷兰-008-SCALEWAY"
     type: http
-    server: 103.98.117.98
-    port: 8080
+    server: 51.15.20.32
+    port: 3129
 
-  - name: "埃及-012-TE Data"
+  - name: "埃及-009-TE Data"
     type: http
     server: 41.38.209.16
     port: 8080
 
-  - name: "波兰-013-Illia Kravtsov"
+  - name: "墨西哥-010-Wantelco SAS de CV"
     type: http
-    server: 94.249.180.231
-    port: 8080
+    server: 82.152.138.127
+    port: 999
 
-  - name: "美国-014-Google LLC"
+  - name: "美国-011-Alibaba (US) Technology Co., Ltd."
     type: http
-    server: 34.43.46.91
+    server: 8.221.106.175
+    port: 7000
+
+  - name: "印度尼西亚-012-BIZNET"
+    type: http
+    server: 182.253.73.13
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "香港-015-Alibaba Cloud LLC"
+  - name: "韩国-013-Korea Telecom"
     type: http
-    server: 47.238.134.126
-    port: 14
-
-  - name: "Qatar-016-Ooredoo Q.S.C"
-    type: http
-    server: 37.211.65.11
+    server: 222.111.130.73
     port: 8080
 
-  - name: "泰国-017-Triple T Broadband Public Company Limited"
+  - name: "墨西哥-014-Jair Lozano / Intercom Internet"
     type: http
-    server: 180.183.144.66
-    port: 3128
+    server: 38.210.179.8
+    port: 999
 
-  - name: "中国-018-CERNET"
+  - name: "印度尼西亚-015-STARNET"
     type: http
-    server: 183.172.126.63
-    port: 10809
+    server: 203.207.56.175
+    port: 1452
 
-  - name: "芬兰-019-Hetzner Online GmbH"
+  - name: "香港-016-West263 International Limited"
     type: http
-    server: 77.42.95.221
+    server: 103.43.191.71
     port: 8888
 
-  - name: "印度尼西亚-020-PT Serayu Multi Connection"
+  - name: "新加坡-017-Shenzhen Tencent Computer Systems Company Limited"
     type: http
-    server: 103.173.138.225
+    server: 43.160.222.70
+    port: 3128
+
+  - name: "哥伦比亚-018-Ufinet Panama S.A."
+    type: http
+    server: 186.33.52.148
+    port: 999
+
+  - name: "巴基斯坦-019-GNS Solutions Private Limited"
+    type: http
+    server: 103.158.236.84
     port: 8080
 
-  - name: "香港-021-Alibaba Cloud LLC"
+  - name: "Tunisia-020-TOPNET"
     type: http
-    server: 47.238.130.212
-    port: 28
+    server: 41.226.37.234
+    port: 3128
 
-  - name: "Venezuela-022-TotalCom Venezuela C.A."
+  - name: "Ecuador-021-Ufinet Panama S.A."
     type: http
-    server: 200.59.186.55
+    server: 177.234.217.93
     port: 999
+
+  - name: "印度尼西亚-022-PT Tidar Lintas Nusa"
+    type: http
+    server: 103.208.103.30
+    port: 8080
