@@ -4,139 +4,139 @@ proxies:
     server: 180.53.81.127
     port: 8080
 
-  - name: "埃及-002-LINKdotNET AS number"
+  - name: "新加坡-002-Cogent Communications"
     type: http
-    server: 41.128.90.50
-    port: 1981
+    server: 149.104.29.39
+    port: 20000
 
   - name: "美国-003-Google LLC"
     type: http
     server: 34.43.46.91
     port: 80
 
-  - name: "印度-004-Oracle Corporation"
+  - name: "香港-004-Cogento Backbone Limited"
     type: http
-    server: 152.67.191.232
-    port: 6800
+    server: 176.111.37.5
+    port: 39811
 
-  - name: "Uzbekistan-005-Uzbektelekom Joint Stock Company"
+  - name: "沙特阿拉伯-005-Oracle Corporation"
     type: http
-    server: 195.158.8.123
+    server: 130.110.103.245
     port: 3128
 
-  - name: "墨西哥-006-Alestra, S. de R.L. de C.V."
-    type: http
-    server: 148.244.252.142
-    port: 999
-
-  - name: "泰国-007-TOT Public Company Limited"
-    type: http
-    server: 180.180.156.95
-    port: 80
-
-  - name: "中国-008-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 47.108.159.113
-    port: 8080
-
-  - name: "印度-009-Bharti Airtel Limited"
-    type: http
-    server: 59.145.184.190
-    port: 80
-
-  - name: "香港-010-Alibaba Cloud LLC"
-    type: http
-    server: 47.238.134.126
-    port: 4002
-
-  - name: "中国-011-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 121.43.154.123
-    port: 80
-
-  - name: "Kenya-012-Unwired Communications Ltd"
-    type: http
-    server: 102.68.76.247
-    port: 5566
-
-  - name: "香港-013-Aceville Pte.ltd"
+  - name: "香港-006-Aceville Pte.ltd"
     type: http
     server: 43.161.254.16
     port: 3128
 
-  - name: "印度尼西亚-014-PT. Telekomunikasi Indonesia"
+  - name: "Ecuador-007-Servitelconet Cia. Ltda."
     type: http
-    server: 36.91.210.221
-    port: 8989
+    server: 190.12.150.244
+    port: 999
 
-  - name: "印度尼西亚-015-PT Link Data Sumber Barokah"
+  - name: "中国-008-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 103.86.117.23
-    port: 8080
+    server: 39.102.211.162
+    port: 80
 
-  - name: "新加坡-016-Microsoft Corporation"
+  - name: "中国-009-Hangzhou Alibaba Advertising Co., Ltd."
+    type: http
+    server: 47.121.133.212
+    port: 9200
+
+  - name: "香港-010-Alibaba Cloud LLC"
+    type: http
+    server: 47.238.128.246
+    port: 8181
+
+  - name: "Kenya-011-Unwired Communications Ltd"
+    type: http
+    server: 102.68.76.247
+    port: 5566
+
+  - name: "埃及-012-TE Data"
+    type: http
+    server: 41.33.245.139
+    port: 1981
+
+  - name: "香港-013-Cogento Backbone Limited"
+    type: http
+    server: 176.111.37.216
+    port: 39811
+
+  - name: "新加坡-014-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "菲律宾-017-Ignite Telecommunications Inc"
-    type: http
-    server: 203.82.36.163
-    port: 8082
-
-  - name: "Ecuador-018-Cbvision S.A."
+  - name: "Ecuador-015-Cbvision S.A."
     type: http
     server: 45.189.57.114
     port: 3129
 
-  - name: "荷兰-019-SCALEWAY"
+  - name: "中国-016-Hangzhou Alibaba Advertising Co"
     type: http
-    server: 51.15.20.32
-    port: 3129
+    server: 39.102.209.128
+    port: 13
 
-  - name: "马来西亚-020-Alibaba (US) Technology Co., Ltd."
+  - name: "美国-017-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
     type: http
-    server: 47.250.155.254
-    port: 3129
+    server: 165.154.162.73
+    port: 8888
 
-  - name: "美国-021-Google LLC"
+  - name: "中国-018-Hangzhou Alibaba Advertising Co"
+    type: http
+    server: 39.102.214.192
+    port: 10000
+
+  - name: "美国-019-Google LLC"
     type: http
     server: 34.43.46.91
     port: 443
     tls: true
     skip-cert-verify: true
 
-  - name: "新加坡-022-Alibaba (US) Technology Co., Ltd."
+  - name: "印度尼西亚-020-Global Media Data Prima"
     type: http
-    server: 47.237.113.119
-    port: 81
+    server: 103.124.137.171
+    port: 8080
 
-  - name: "Uzbekistan-023-Uzbektelecom JSC"
+  - name: "中国-021-Hangzhou Alibaba Advertising Co., Ltd."
     type: http
-    server: 90.156.160.234
+    server: 47.121.129.129
+    port: 8080
+
+  - name: "法国-022-Contabo GmbH"
+    type: http
+    server: 213.199.53.16
+    port: 8889
+
+  - name: "墨西哥-023-Wantelco SAS de CV"
+    type: http
+    server: 82.152.138.127
+    port: 999
+
+  - name: "英国-024-DigitalOcean, LLC"
+    type: http
+    server: 178.62.79.141
+    port: 3129
+
+  - name: "印度尼西亚-025-Dinas Komunikasi dan Informatisa Kabupaten OKU"
+    type: http
+    server: 103.137.176.12
     port: 3128
 
-  - name: "Ecuador-024-Ufinet Panama S.A."
+  - name: "巴西-026-NET ON LINE LTDA"
     type: http
-    server: 181.188.203.40
+    server: 138.122.251.1
+    port: 8080
+
+  - name: "Venezuela-027-Inversiones Smartbyte C.A"
+    type: http
+    server: 38.188.97.166
     port: 999
 
-  - name: "越南-025-VietNam Post and Telecom Corporation"
+  - name: "Ecuador-028-Ufinet Panama S.A."
     type: http
-    server: 113.173.78.217
-    port: 30457
-
-  - name: "哥伦比亚-026-Atenea Telecomunicaciones S.A.S"
-    type: http
-    server: 45.172.223.185
+    server: 181.78.195.136
     port: 999
-
-  - name: "越南-027-VietNam Post and Telecom Corporation"
-    type: http
-    server: 113.173.78.217
-    port: 30001
-
-  - name: "越南-028-FPT Telecom Company"
-    type: http
-    server: 42.115.72.145
-    port: 2026
