@@ -1,142 +1,100 @@
 proxies:
-  - name: "日本-001-NTT Communications Corporation"
+  - name: "瑞士-001-Geronimo Ramirez Computer Network"
     type: http
-    server: 180.53.81.127
-    port: 8080
+    server: 185.191.239.248
+    port: 3128
 
-  - name: "新加坡-002-Cogent Communications"
+  - name: "埃及-002-Etisalat Misr"
     type: http
-    server: 149.104.29.39
-    port: 20000
+    server: 217.52.247.69
+    port: 1981
 
-  - name: "美国-003-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 80
-
-  - name: "香港-004-Cogento Backbone Limited"
+  - name: "香港-003-Cogento Backbone Limited"
     type: http
     server: 176.111.37.5
     port: 39811
 
-  - name: "沙特阿拉伯-005-Oracle Corporation"
+  - name: "墨西哥-004-Comunicación por Fibra SA de CV"
+    type: http
+    server: 189.51.168.164
+    port: 999
+
+  - name: "巴西-005-NET ON LINE LTDA"
+    type: http
+    server: 138.122.250.25
+    port: 8080
+
+  - name: "沙特阿拉伯-006-Oracle Corporation"
     type: http
     server: 130.110.103.245
     port: 3128
 
-  - name: "香港-006-Aceville Pte.ltd"
+  - name: "香港-007-Alibaba Cloud LLC"
+    type: http
+    server: 47.52.223.161
+    port: 5872
+
+  - name: "埃及-008-TE Data"
+    type: http
+    server: 41.33.126.136
+    port: 1981
+
+  - name: "香港-009-Aceville Pte.ltd"
     type: http
     server: 43.161.254.16
     port: 3128
 
-  - name: "Ecuador-007-Servitelconet Cia. Ltda."
-    type: http
-    server: 190.12.150.244
-    port: 999
-
-  - name: "中国-008-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.211.162
-    port: 80
-
-  - name: "中国-009-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.121.133.212
-    port: 9200
-
-  - name: "香港-010-Alibaba Cloud LLC"
-    type: http
-    server: 47.238.128.246
-    port: 8181
-
-  - name: "Kenya-011-Unwired Communications Ltd"
-    type: http
-    server: 102.68.76.247
-    port: 5566
-
-  - name: "埃及-012-TE Data"
-    type: http
-    server: 41.33.245.139
-    port: 1981
-
-  - name: "香港-013-Cogento Backbone Limited"
+  - name: "香港-010-Cogento Backbone Limited"
     type: http
     server: 176.111.37.216
     port: 39811
 
-  - name: "新加坡-014-Microsoft Corporation"
+  - name: "巴基斯坦-011-Wateen Telecom Limited"
+    type: http
+    server: 110.38.233.122
+    port: 8080
+
+  - name: "新加坡-012-Microsoft Corporation"
     type: http
     server: 4.144.146.21
     port: 80
 
-  - name: "Ecuador-015-Cbvision S.A."
+  - name: "泰国-013-TOT Public Company Limited"
+    type: http
+    server: 125.27.241.98
+    port: 8080
+
+  - name: "Ecuador-014-Cbvision S.A."
     type: http
     server: 45.189.57.114
     port: 3129
 
-  - name: "中国-016-Hangzhou Alibaba Advertising Co"
+  - name: "墨西哥-015-Uninet S.A. de C.V"
     type: http
-    server: 39.102.209.128
-    port: 13
-
-  - name: "美国-017-UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
-    type: http
-    server: 165.154.162.73
-    port: 8888
-
-  - name: "中国-018-Hangzhou Alibaba Advertising Co"
-    type: http
-    server: 39.102.214.192
-    port: 10000
-
-  - name: "美国-019-Google LLC"
-    type: http
-    server: 34.43.46.91
-    port: 443
-    tls: true
-    skip-cert-verify: true
-
-  - name: "印度尼西亚-020-Global Media Data Prima"
-    type: http
-    server: 103.124.137.171
-    port: 8080
-
-  - name: "中国-021-Hangzhou Alibaba Advertising Co., Ltd."
-    type: http
-    server: 47.121.129.129
-    port: 8080
-
-  - name: "法国-022-Contabo GmbH"
-    type: http
-    server: 213.199.53.16
-    port: 8889
-
-  - name: "墨西哥-023-Wantelco SAS de CV"
-    type: http
-    server: 82.152.138.127
+    server: 201.123.64.140
     port: 999
 
-  - name: "英国-024-DigitalOcean, LLC"
+  - name: "俄罗斯-016-JSC IOT"
     type: http
-    server: 178.62.79.141
-    port: 3129
-
-  - name: "印度尼西亚-025-Dinas Komunikasi dan Informatisa Kabupaten OKU"
-    type: http
-    server: 103.137.176.12
+    server: 78.24.221.106
     port: 3128
 
-  - name: "巴西-026-NET ON LINE LTDA"
+  - name: "Uzbekistan-017-Uzbektelecom JSC"
     type: http
-    server: 138.122.251.1
+    server: 90.156.160.234
+    port: 3128
+
+  - name: "印度尼西亚-018-PT Mitra Internet Indonesia"
+    type: http
+    server: 103.176.94.178
     port: 8080
 
-  - name: "Venezuela-027-Inversiones Smartbyte C.A"
+  - name: "哥伦比亚-019-ITELKOM"
     type: http
-    server: 38.188.97.166
-    port: 999
+    server: 201.219.218.4
+    port: 8080
 
-  - name: "Ecuador-028-Ufinet Panama S.A."
+  - name: "印度尼西亚-020-Lintas Data Prima, PT"
     type: http
-    server: 181.78.195.136
-    port: 999
+    server: 103.46.11.129
+    port: 8090
