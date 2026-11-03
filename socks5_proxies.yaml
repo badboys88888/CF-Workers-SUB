@@ -5,17 +5,17 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: 中国-Hainan-221.176.85.235:1080
-  type: socks5
-  server: 221.176.85.235
-  port: 1080
-  udp: false
-  skip-cert-verify: true
 - name: 中国-Jiangsu-58.210.181.98:1080
   type: socks5
   server: 58.210.181.98
   port: 1080
   udp: false
   skip-cert-verify: true
+- name: 中国-Shaanxi-106.36.197.230:1080
+  type: socks5
+  server: 106.36.197.230
+  port: 1080
+  udp: false
+  skip-cert-verify: true
 total: 3
-updated: '2026-11-02 12:59:33'
+updated: '2026-11-03 12:25:34'
