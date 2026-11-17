@@ -5,9 +5,21 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
+- name: Socks5-209.97.150.167:1080
+  type: socks5
+  server: 209.97.150.167
+  port: 1080
+  udp: false
+  skip-cert-verify: true
 - name: Socks5-159.203.61.169:1080
   type: socks5
   server: 159.203.61.169
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-138.68.60.8:1080
+  type: socks5
+  server: 138.68.60.8
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -17,16 +29,34 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
+- name: Socks5-107.174.30.92:1080
+  type: socks5
+  server: 107.174.30.92
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-166.62.88.163:45842
+  type: socks5
+  server: 166.62.88.163
+  port: 45842
+  udp: false
+  skip-cert-verify: true
 - name: Socks5-193.25.215.182:22222
   type: socks5
   server: 193.25.215.182
   port: 22222
   udp: true
   skip-cert-verify: true
-- name: Socks5-101.36.104.239:10808
+- name: Socks5-134.209.29.120:1080
   type: socks5
-  server: 101.36.104.239
-  port: 10808
+  server: 134.209.29.120
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-91.107.179.68:10809
+  type: socks5
+  server: 91.107.179.68
+  port: 10809
   udp: false
   skip-cert-verify: true
 - name: Socks5-101.36.104.46:10808
@@ -35,34 +65,16 @@ proxies:
   port: 10808
   udp: false
   skip-cert-verify: true
-- name: Socks5-134.209.29.120:1080
+- name: Socks5-69.55.49.177:38182
   type: socks5
-  server: 134.209.29.120
-  port: 1080
-  udp: false
+  server: 69.55.49.177
+  port: 38182
+  udp: true
   skip-cert-verify: true
-- name: Socks5-161.35.70.249:1080
+- name: Socks5-101.36.104.239:10808
   type: socks5
-  server: 161.35.70.249
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-46.232.249.209:40001
-  type: socks5
-  server: 46.232.249.209
-  port: 40001
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-123.58.219.171:10808
-  type: socks5
-  server: 123.58.219.171
+  server: 101.36.104.239
   port: 10808
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-121.169.46.116:1090
-  type: socks5
-  server: 121.169.46.116
-  port: 1090
   udp: false
   skip-cert-verify: true
 - name: Socks5-128.199.202.122:1080
@@ -71,45 +83,33 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: Socks5-88.198.69.51:1082
+- name: Socks5-123.58.219.171:10808
   type: socks5
-  server: 88.198.69.51
-  port: 1082
+  server: 123.58.219.171
+  port: 10808
   udp: false
   skip-cert-verify: true
-- name: Socks5-45.194.33.12:30001
+- name: Socks5-188.166.178.163:1088
   type: socks5
-  server: 45.194.33.12
-  port: 30001
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-38.60.224.63:1080
-  type: socks5
-  server: 38.60.224.63
-  port: 1080
+  server: 188.166.178.163
+  port: 1088
   udp: true
   skip-cert-verify: true
-- name: Socks5-69.55.49.177:38182
+- name: Socks5-95.31.52.151:1080
   type: socks5
-  server: 69.55.49.177
-  port: 38182
-  udp: true
-  skip-cert-verify: true
-- name: Socks5-147.45.79.130:1080
-  type: socks5
-  server: 147.45.79.130
+  server: 95.31.52.151
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: Socks5-183.106.215.208:1080
+- name: Socks5-87.76.138.46:1080
   type: socks5
-  server: 183.106.215.208
+  server: 87.76.138.46
   port: 1080
-  udp: true
+  udp: false
   skip-cert-verify: true
-- name: Socks5-139.59.1.14:1080
+- name: Socks5-116.202.32.250:1080
   type: socks5
-  server: 139.59.1.14
+  server: 116.202.32.250
   port: 1080
   udp: false
   skip-cert-verify: true
@@ -119,88 +119,16 @@ proxies:
   port: 30002
   udp: false
   skip-cert-verify: true
-- name: Socks5-116.202.32.250:1080
+- name: Socks5-183.106.215.208:1080
   type: socks5
-  server: 116.202.32.250
+  server: 183.106.215.208
   port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-157.90.113.23:9052
-  type: socks5
-  server: 157.90.113.23
-  port: 9052
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-64.90.17.123:555
-  type: socks5
-  server: 64.90.17.123
-  port: 555
   udp: true
   skip-cert-verify: true
-- name: Socks5-89.148.196.156:1080
+- name: Socks5-91.143.161.163:1080
   type: socks5
-  server: 89.148.196.156
+  server: 91.143.161.163
   port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-209.50.255.91:1080
-  type: socks5
-  server: 209.50.255.91
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-103.13.19.219:10808
-  type: socks5
-  server: 103.13.19.219
-  port: 10808
-  udp: true
-  skip-cert-verify: true
-- name: Socks5-88.198.69.51:1100
-  type: socks5
-  server: 88.198.69.51
-  port: 1100
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-95.216.8.124:1085
-  type: socks5
-  server: 95.216.8.124
-  port: 1085
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-5.255.117.250:1080
-  type: socks5
-  server: 5.255.117.250
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-188.166.178.163:1088
-  type: socks5
-  server: 188.166.178.163
-  port: 1088
-  udp: true
-  skip-cert-verify: true
-- name: Socks5-118.179.205.174:2080
-  type: socks5
-  server: 118.179.205.174
-  port: 2080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-171.25.158.95:1080
-  type: socks5
-  server: 171.25.158.95
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-46.246.12.31:1080
-  type: socks5
-  server: 46.246.12.31
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-45.61.188.134:44499
-  type: socks5
-  server: 45.61.188.134
-  port: 44499
   udp: false
   skip-cert-verify: true
 - name: Socks5-193.218.118.128:1080
@@ -209,23 +137,155 @@ proxies:
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: Socks5-95.216.45.44:10813
+- name: Socks5-68.233.8.123:1080
   type: socks5
-  server: 95.216.45.44
-  port: 10813
+  server: 68.233.8.123
+  port: 1080
   udp: false
   skip-cert-verify: true
-- name: Socks5-188.226.27.24:1080
+- name: Socks5-45.61.129.165:9050
   type: socks5
-  server: 188.226.27.24
+  server: 45.61.129.165
+  port: 9050
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-147.45.79.130:1080
+  type: socks5
+  server: 147.45.79.130
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-45.194.33.12:30001
+  type: socks5
+  server: 45.194.33.12
+  port: 30001
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-116.101.73.52:1068
+  type: socks5
+  server: 116.101.73.52
+  port: 1068
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-121.169.46.116:1090
+  type: socks5
+  server: 121.169.46.116
+  port: 1090
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-160.30.204.24:50001
+  type: socks5
+  server: 160.30.204.24
+  port: 50001
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-171.25.158.95:1080
+  type: socks5
+  server: 171.25.158.95
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-176.62.229.17:1080
+  type: socks5
+  server: 176.62.229.17
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-192.236.173.69:1080
+  type: socks5
+  server: 192.236.173.69
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-79.98.32.107:1080
+  type: socks5
+  server: 79.98.32.107
   port: 1080
   udp: true
   skip-cert-verify: true
-- name: Socks5-213.176.74.119:1080
+- name: Socks5-38.10.71.218:1080
   type: socks5
-  server: 213.176.74.119
+  server: 38.10.71.218
   port: 1080
   udp: false
+  skip-cert-verify: true
+- name: Socks5-49.13.22.249:10814
+  type: socks5
+  server: 49.13.22.249
+  port: 10814
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-5.75.133.113:10802
+  type: socks5
+  server: 5.75.133.113
+  port: 10802
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-81.211.12.53:1080
+  type: socks5
+  server: 81.211.12.53
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-116.101.73.52:1057
+  type: socks5
+  server: 116.101.73.52
+  port: 1057
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-103.9.185.113:1080
+  type: socks5
+  server: 103.9.185.113
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-220.158.232.118:1080
+  type: socks5
+  server: 220.158.232.118
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-116.101.73.161:1057
+  type: socks5
+  server: 116.101.73.161
+  port: 1057
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-193.232.179.68:10808
+  type: socks5
+  server: 193.232.179.68
+  port: 10808
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-38.49.210.79:40000
+  type: socks5
+  server: 38.49.210.79
+  port: 40000
+  udp: true
+  skip-cert-verify: true
+- name: Socks5-118.179.155.202:9090
+  type: socks5
+  server: 118.179.155.202
+  port: 9090
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-209.50.255.91:1080
+  type: socks5
+  server: 209.50.255.91
+  port: 1080
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-103.189.63.149:53053
+  type: socks5
+  server: 103.189.63.149
+  port: 53053
+  udp: false
+  skip-cert-verify: true
+- name: Socks5-43.230.192.242:1080
+  type: socks5
+  server: 43.230.192.242
+  port: 1080
+  udp: true
   skip-cert-verify: true
 - name: Socks5-82.180.146.251:10800
   type: socks5
@@ -233,95 +293,35 @@ proxies:
   port: 10800
   udp: false
   skip-cert-verify: true
-- name: Socks5-5.255.113.177:1080
+- name: Socks5-150.129.115.253:6667
   type: socks5
-  server: 5.255.113.177
-  port: 1080
+  server: 150.129.115.253
+  port: 6667
   udp: false
   skip-cert-verify: true
-- name: Socks5-194.182.187.78:1080
+- name: Socks5-65.21.252.66:10807
   type: socks5
-  server: 194.182.187.78
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-80.64.27.175:1080
-  type: socks5
-  server: 80.64.27.175
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-49.13.22.249:10813
-  type: socks5
-  server: 49.13.22.249
-  port: 10813
-  udp: true
-  skip-cert-verify: true
-- name: Socks5-5.75.133.113:10813
-  type: socks5
-  server: 5.75.133.113
-  port: 10813
-  udp: true
-  skip-cert-verify: true
-- name: Socks5-116.101.73.52:1057
-  type: socks5
-  server: 116.101.73.52
-  port: 1057
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-103.236.190.197:1080
-  type: socks5
-  server: 103.236.190.197
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-217.76.39.4:1080
-  type: socks5
-  server: 217.76.39.4
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-49.13.22.249:10807
-  type: socks5
-  server: 49.13.22.249
+  server: 65.21.252.66
   port: 10807
   udp: true
   skip-cert-verify: true
-- name: Socks5-45.74.31.40:4586
+- name: Socks5-89.148.196.156:1080
   type: socks5
-  server: 45.74.31.40
-  port: 4586
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-95.216.45.44:10000
-  type: socks5
-  server: 95.216.45.44
-  port: 10000
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-5.83.158.2:1080
-  type: socks5
-  server: 5.83.158.2
+  server: 89.148.196.156
   port: 1080
   udp: false
   skip-cert-verify: true
-- name: Socks5-103.191.218.91:8199
+- name: Socks5-65.109.103.250:10808
   type: socks5
-  server: 103.191.218.91
-  port: 8199
+  server: 65.109.103.250
+  port: 10808
   udp: false
   skip-cert-verify: true
-- name: Socks5-201.34.153.217:1080
+- name: Socks5-49.13.22.249:10803
   type: socks5
-  server: 201.34.153.217
-  port: 1080
-  udp: false
-  skip-cert-verify: true
-- name: Socks5-5.255.123.162:1080
-  type: socks5
-  server: 5.255.123.162
-  port: 1080
-  udp: false
+  server: 49.13.22.249
+  port: 10803
+  udp: true
   skip-cert-verify: true
 total: 54
-updated: '2026-11-16 13:18:38'
+updated: '2026-11-17 13:57:40'
